@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="tr" class="h-full">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <title>AI Katalog Asistanı</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+<style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { width: 100%; height: 100%; -webkit-font-smoothing: antialiased; }
+    body { background-color: #111827; color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  </style>
+  <link rel="stylesheet" href="/css/modern-ui.css?v=23" />
+</head>
+<body class="bg-gray-900 text-white h-full">
+  <div class="flex h-full">
+    <!-- Sol: Katalog iframe -->
+    <div class="flex-1 bg-gray-800 border-r border-gray-700">
+     <iframe 
+       id="brandFrame" 
+       src="about:blank" 
+       sandbox="allow-same-origin allow-scripts allow-popups"
+       style="width:100%;height:100%;border:none"
+       title="Marka Kataloğu"></iframe>
+    </div>
+    <div class="bg-gray-800 flex-col min-h-0 chat-panel">
+      <!-- Üst bar -->
+      <div class="border-b border-gray-700/50 p-4 bg-gradient-to-r from-gray-900/50 to-gray-800/50">
+        <div class="flex items-center justify-between">
+          <div class="flex items-center gap-3">
+            <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-orange-500 to-orange-600 flex items-center justify-center shadow-lg shadow-orange-500/30">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="white" viewBox="0 0 24 24">
+                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+              </svg>
+            </div>
+            <div>
+              <div class="text-lg font-bold bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">Tem 2025</div>
+              <div class="text-xs text-gray-400">AI Katalog Asistanı</div>
+            </div>
+          </div>
+          <div class="flex items-center gap-2">
+            <!-- Chat Kapat Butonu (Sadece Mobile) -->
+            <button onclick="if(window.Mobile)Mobile.closeChat()" 
+                    class="header-icon-btn lg:hidden p-2.5 text-gray-400 hover:text-white rounded-xl hover:bg-gray-700/50 transition-all"
+                    title="Kapat">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+              </svg>
+            </button>
+            
+            <!-- Sohbeti Temizle Butonu (İkonlu) -->
+            <button onclick="Chat.clear()" 
+                    class="header-icon-btn p-2.5 text-gray-400 hover:text-rose-400 rounded-xl hover:bg-gray-700/50 transition-all"
+                    title="Sohbeti Temizle">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"/>
+              </svg>
+            </button>
+            
+            <!-- Sepet Butonu (İkonlu + Badge) -->
+            <button onclick="Cart.showModal()" 
+                    class="header-icon-btn relative p-2.5 text-gray-400 hover:text-orange-500 rounded-xl hover:bg-gray-700/50 transition-all"
+                    title="Sepetim">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/>
+              </svg>
+              <span id="cartBadge"
+                    class="absolute -top-1 -right-1 bg-gradient-to-r from-orange-500 to-orange-600 text-white text-xs rounded-full h-5 w-5 hidden items-center justify-center font-bold shadow-lg shadow-orange-500/50">0</span>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Marka çipleri -->
+      <div class="border-b border-gray-700/50 p-4 bg-gray-900/30">
+        <h3 class="text-xs font-semibold text-gray-400 mb-3 uppercase tracking-wider flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+          </svg>
+          Markalar
+        </h3>
+        <div id="brandChips" class="flex flex-wrap gap-2"></div>
+      </div>
+
+      <!-- Chat alanı (scrollable) -->
+      <div class="flex-1 flex flex-col min-h-0">
+        <div id="chatMessages" class="flex-1 min-h-0 p-5 overflow-y-auto chat-scroll space-y-3">
+          <div class="chat-message chat-message-bot">
+            <p class="text-sm text-gray-200 leading-relaxed">
+              👋 Merhaba! Ürün arayabilir, marka seçebilir veya sepeti yönetebilirsiniz.
+            </p>
+          </div>
+        </div>
+        <!-- Sabit alt giriş -->
+        <div class="p-4 border-t border-gray-700/50 bg-gray-900/50">
+          <div class="flex gap-2">
+            <input id="chatInput" type="text" placeholder="Ürün ara veya soru sor..."
+                   class="flex-1 bg-gray-700/50 border border-gray-600/50 rounded-xl px-4 py-2.5 text-sm text-white placeholder-gray-400 focus:border-orange-500 focus:ring-2 focus:ring-orange-500/20 transition-all"
+                   onkeypress="Chat.handleKey(event)">
+            <button onclick="Chat.send()" class="bg-gradient-to-r from-orange-600 to-orange-500 hover:from-orange-500 hover:to-orange-600 text-white px-5 py-2.5 rounded-xl font-medium transition-all hover:shadow-lg hover:shadow-orange-500/30 hover:-translate-y-0.5 active:translate-y-0">
+              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 24 24" class="inline-block">
+                <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+              </svg>
+            </button>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Sepet Modal -->
+  <div id="cartModal" class="fixed inset-0 bg-black/60 hidden items-center justify-center z-50" onclick="if(event.target===this)Cart.hideModal()">
+    <div class="bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl p-6 w-full max-w-md mx-4 border border-gray-600/50 shadow-2xl shadow-black/40">
+      <div class="flex items-center justify-between mb-5">
+        <h3 class="text-xl font-bold flex items-center gap-2.5">
+          <div class="w-9 h-9 rounded-lg bg-gradient-to-br from-orange-500 to-orange-600 flex items-center justify-center shadow-lg shadow-orange-500/30">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="white" viewBox="0 0 24 24">
+              <path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/>
+            </svg>
+          </div>
+          <span class="bg-gradient-to-r from-white to-gray-200 bg-clip-text text-transparent">Sepetim</span>
+        </h3>
+        <div class="flex items-center gap-3">
+          <button onclick="Cart.clear()" class="text-rose-400 hover:text-rose-300 text-sm flex items-center gap-1.5 hover:bg-rose-500/10 px-2.5 py-1.5 rounded-lg transition-all active:scale-95 font-medium">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"/>
+            </svg>
+            Temizle
+          </button>
+          <button onclick="Cart.hideModal()" class="text-gray-400 hover:text-white text-2xl leading-none transition-colors">✕</button>
+        </div>
+      </div>
+
+      <div id="cartModalItems" class="space-y-2.5 max-h-96 overflow-y-auto chat-scroll mb-5"></div>
+
+      <div class="flex items-center justify-between border-t border-gray-700/50 pt-4 mb-5">
+        <span class="text-base font-semibold text-gray-300">Toplam Tutar</span>
+        <strong id="cartTotal" class="text-2xl font-bold text-orange-500">—</strong>
+      </div>
+
+      <div class="space-y-2.5 mb-5">
+        <input id="senderName" type="text" placeholder="Ad Soyad *"
+               class="w-full bg-gray-700/50 border border-gray-600/60 rounded-xl px-4 py-2.5 text-sm text-white placeholder-gray-400 focus:outline-none focus:border-orange-500 focus:ring-2 focus:ring-orange-500/20 transition-all" required />
+        <input id="senderCompany" type="text" placeholder="Firma İsmi *"
+               class="w-full bg-gray-700/50 border border-gray-600/60 rounded-xl px-4 py-2.5 text-sm text-white placeholder-gray-400 focus:outline-none focus:border-orange-500 focus:ring-2 focus:ring-orange-500/20 transition-all" required />
+        <input id="senderPhone" type="tel" placeholder="Telefon *"
+               class="w-full bg-gray-700/50 border border-gray-600/60 rounded-xl px-4 py-2.5 text-sm text-white placeholder-gray-400 focus:outline-none focus:border-orange-500 focus:ring-2 focus:ring-orange-500/20 transition-all" required />
+        <input id="senderEmail" type="email" placeholder="E-posta *"
+               class="w-full bg-gray-700/50 border border-gray-600/60 rounded-xl px-4 py-2.5 text-sm text-white placeholder-gray-400 focus:outline-none focus:border-orange-500 focus:ring-2 focus:ring-orange-500/20 transition-all" required />
+      </div>
+
+      <div class="grid grid-cols-2 gap-3">
+        <button onclick="Cart.exportCSV()"
+                class="bg-gradient-to-r from-green-600 to-green-700 hover:from-green-500 hover:to-green-600 text-white font-semibold py-3 px-4 rounded-xl flex items-center justify-center gap-2 transition-all hover:shadow-lg hover:shadow-green-500/30 active:scale-95">
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/>
+          </svg>
+          CSV İndir
+        </button>
+        <button onclick="Cart.sendEmail()"
+                class="bg-gradient-to-r from-orange-600 to-orange-700 hover:from-orange-500 hover:to-orange-600 text-white font-semibold py-3 px-4 rounded-xl flex items-center justify-center gap-2 transition-all hover:shadow-lg hover:shadow-orange-500/30 active:scale-95">
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+          </svg>
+          Mail Gönder
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script src="/js/config.js?v=23"></script>
+  <script src="/js/state.js?v=23"></script>
+  <script src="/js/data.js?v=24"></script>
+  <script src="/js/brands.js?v=23"></script>
+  <script src="/js/cart.js?v=25"></script>
+  <script src="/js/iframe-switcher.js?v=23"></script>
+  <script src="/js/chat.js?v=23"></script>
+  <script src="/js/main.js?v=23"></script>
+  <link rel="stylesheet" href="/css/mobile-fixes.css?v=23">
+
+<!-- Overlay + FAB -->
+<div id="chatOverlay"></div>
+<button id="fabChat" class="fab-chat lg:hidden" aria-label="Asistanı aç">
+  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 24 24">
+    <path d="M20 2H4a2 2 0 0 0-2 2v14l4-4h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2z"/>
+  </svg>
+</button>
+
+<script src="/js/mobile.js?v=23"></script>
+<script src="/js/mobile-vh.js?v=23"></script>
+</body>
+</html>

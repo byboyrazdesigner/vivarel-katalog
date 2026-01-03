@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SKU Index Test</title>
+</head>
+<body>
+    <h1>SKU Index Test</h1>
+    <div id="output"></div>
+    
+    <script>
+        // products.json'u yükle
+        fetch('assets/products.json?v=' + Date.now())
+            .then(r => r.json())
+            .then(products => {
+                const output = document.getElementById('output');
+                
+                // 332063 ve 332105'i bul
+                const sku1 = products.find(p => p.sku === '332063');
+                const sku2 = products.find(p => p.sku === '332105');
+                
+                output.innerHTML = `
+                    <h2>Test Results:</h2>
+                    <p><strong>Total products:</strong> ${products.length}</p>
+                    <hr>
+                    <h3>SKU 332063:</h3>
+                    ${sku1 ? `
+                        <pre>${JSON.stringify(sku1, null, 2)}</pre>
+                    ` : '<p style="color:red">❌ NOT FOUND</p>'}
+                    <hr>
+                    <h3>SKU 332105:</h3>
+                    ${sku2 ? `
+                        <pre>${JSON.stringify(sku2, null, 2)}</pre>
+                    ` : '<p style="color:red">❌ NOT FOUND</p>'}
+                    <hr>
+                    <h3>SKU Normalization Test:</h3>
+                    <pre>
+normalizeSku('332063') = ${'332063'.toUpperCase().replace(/[^A-Z0-9\-]/g, '')}
+normalizeSku('332105') = ${'332105'.toUpperCase().replace(/[^A-Z0-9\-]/g, '')}
+                    </pre>
+                `;
+            })
+            .catch(err => {
+                document.getElementById('output').innerHTML = 
+                    `<p style="color:red">❌ Error: ${err.message}</p>`;
+            });
+    </script>
+</body>
+</html>

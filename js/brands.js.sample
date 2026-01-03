@@ -1,0 +1,128 @@
+// /js/brands.js
+window.Brands = (function () {
+  const chipsEl = () => document.getElementById('brandChips');
+
+  function orderedBrands() {
+    // BRAND_ORDER'daki tüm markaları göster (products.json'da ürün olmasına bakmadan)
+    const configBrands = window.Config.BRAND_ORDER || [];
+    
+    // Ek olarak products.json'daki diğer markaları da ekle
+    const productBrands = Array.from(new Set((window.State?.products||[]).map(p => p.brand)))
+      .map(b => b === "ZONE" ? "ZONE_DENMARK" : b); // ZONE -> ZONE_DENMARK dönüşümü
+    
+    const extraBrands = productBrands
+      .filter(b => !configBrands.includes(b))
+      .filter(b => b !== "ZONE") // ZONE'u filtrele
+      .sort();
+    
+    return [...configBrands, ...extraBrands];
+  }
+
+  function init(){
+    const box = chipsEl();
+    if(!box) return;
+    box.innerHTML = "";
+    orderedBrands().forEach(b=>{
+      const btn = document.createElement("button");
+      btn.className = "brand-chip bg-gradient-to-r from-gray-700/60 to-gray-800/60 border border-gray-600/50 text-gray-200 text-xs font-medium px-3.5 py-2 rounded-lg hover:from-gray-700 hover:to-gray-800 hover:border-orange-500/40 hover:text-white hover:shadow-lg hover:shadow-orange-500/20 active:from-orange-600 active:to-orange-700 active:border-orange-500 active:scale-95 transition-all duration-200 cursor-pointer";
+      
+      // Display name: Alt çizgileri boşluğa çevir, daha okunabilir
+      const displayName = b.replace(/_/g, ' ');
+      btn.textContent = displayName;
+      btn.setAttribute('type', 'button');
+      btn.setAttribute('data-brand', b); // Orijinal brand adını data attribute'te sakla
+      
+      // Tıklama olayı (iOS ve desktop için)
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        const originalBrand = e.currentTarget.getAttribute('data-brand');
+        console.log('[Brands] Chip clicked:', originalBrand);
+        select(originalBrand); // Orijinal brand adı ile select çağır
+      }, false);
+      
+      box.appendChild(btn);
+    });
+  }
+
+  let currentBrand = null; // Track current brand
+  let isLoading = false; // Prevent concurrent loads
+
+  function select(brand){
+    if (!brand) {
+      console.warn('[Brands.select] Marka adı boş!');
+      return;
+    }
+    
+    // Prevent reload if already loaded
+    if (currentBrand === brand) {
+      console.log('[Brands.select] Brand already loaded:', brand);
+      return;
+    }
+    
+    // Prevent concurrent loads
+    if (isLoading) {
+      console.warn('[Brands.select] Load in progress, ignoring:', brand);
+      return;
+    }
+    
+    isLoading = true;
+    console.log('[Brands.select] Loading brand:', brand, 'from:', currentBrand);
+    
+    // iframe source'u güncelle
+    const frame = document.getElementById("brandFrame");
+    if(frame) {
+      const newSrc = window.Config.brandToSrc(brand) + '?v=23';
+      console.log('[Brands.select] İframe yükleniyor:', newSrc);
+      
+      // iOS için reset
+      frame.src = 'about:blank';
+      setTimeout(() => {
+        frame.src = newSrc;
+        currentBrand = brand;
+        setTimeout(() => { isLoading = false; }, 1000); // Reset after 1s
+      }, 50);
+    } else {
+      console.error('[Brands.select] iframe#brandFrame bulunamadı!');
+      isLoading = false;
+    }
+
+    // sağ panelde ilk 5 + "tümünü gör"
+    // ZONE markasını ZONE_DENMARK olarak products.json'da ara
+    const searchBrand = brand === "ZONE_DENMARK" ? "ZONE" : brand;
+    const all = (window.State?.products||[]).filter(p=>p.brand===searchBrand || p.brand===brand);
+    
+    // Eğer bu marka için ürün varsa sağ panelde göster
+    if(all.length > 0 && window.Chat && typeof window.Chat.renderProducts === 'function') {
+      window.Chat.renderProducts(all.slice(0,5), {brand, total: all.length, showMore: all.length>5, onShowMore:()=>window.Chat.renderProducts(all,{brand})});
+    } else {
+      console.log('[Brands.select] Bu marka için products.json\'da ürün yok, sadece katalog gösteriliyor:', brand);
+    }
+  }
+
+  // kart renderer: Chat burayı kullanıyor
+  function card(p){
+    const priceTxt = p.price_display || window.Price.formatTRY(p.price) || "";
+    return `
+      <div class="product-card bg-gradient-to-br from-gray-700/40 to-gray-800/60 border border-gray-600/50 rounded-xl p-4 hover:border-orange-500/40 hover:shadow-lg hover:shadow-orange-500/10 transition-all duration-200">
+        <div class="flex justify-between items-start mb-3">
+          <div class="flex-1 min-w-0">
+            <h5 class="font-semibold text-white text-sm leading-relaxed mb-1.5 line-clamp-2">${p.name}</h5>
+            <div class="flex items-center gap-2 text-xs">
+              <span class="text-orange-400 font-medium">${p.brand}</span>
+              <span class="text-gray-500">•</span>
+              <span class="text-gray-400 font-mono">${p.sku || ""}</span>
+            </div>
+            ${priceTxt ? `<div class="mt-2 inline-block bg-orange-500/10 border border-orange-500/20 rounded-lg px-2.5 py-1"><span class="text-sm font-bold text-orange-400">${priceTxt}</span></div>`:""}
+          </div>
+        </div>
+        ${p.description ? `<p class="text-xs text-gray-300 leading-relaxed mt-2 mb-3 line-clamp-2">${p.description}</p>` : ""}
+        <div class="flex gap-2 mt-3">
+          <button class="flex-1 bg-gradient-to-r from-orange-600 to-orange-700 hover:from-orange-500 hover:to-orange-600 text-white text-xs font-semibold py-2.5 rounded-lg transition-all hover:shadow-lg hover:shadow-orange-500/30 active:scale-95" onclick="Cart.openProductModal('${String(p.id).replace(/'/g,'&#39;')}')">Sepete Ekle</button>
+          <button class="flex-1 bg-gray-700/80 hover:bg-gray-600 border border-gray-600/50 hover:border-gray-500 text-white text-xs font-medium py-2.5 rounded-lg transition-all active:scale-95" onclick="Chat.inspect('${String(p.id).replace(/'/g,'&#39;')}')">İncele</button>
+        </div>
+      </div>`;
+  }
+
+  return { init, select, __card: card };
+})();

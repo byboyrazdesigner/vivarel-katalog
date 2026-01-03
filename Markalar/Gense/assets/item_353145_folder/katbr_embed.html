@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="tr"><meta charset="utf-8">
+<body></body>
+<script>
+  // Katalog → Asistan köprüsü (global)
+  window.__KATBR__ = function (sku, qty, page){
+    try{
+      var p = {
+        type: 'add_to_cart_from_catalog',
+        sku: String(sku || '').trim(),
+        qty: qty || 1,
+        select: String(sku||'').indexOf(',') > -1,
+        page: page || 0,
+        ts: Date.now(),
+        nonce: Math.random().toString(36).slice(2)
+      };
+      try { localStorage.setItem('CATALOG_CART_EVENT', JSON.stringify(p)); } catch(e){}
+      try { parent.postMessage(p, '*'); } catch(e){}
+    } catch (e) {}
+  };
+</script>
+</html>
