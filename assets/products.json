@@ -4836,11 +4836,11 @@
     "name": "Siyah Kubbe Şömine & Parlak Çelik 140 Cm Çelik Brülör / Black Sky - Polished Steel - 140 Cm- Steel Burner",
     "sku": "LE 800021",
     "page": "537",
-    "price_value": 116841.66,
-    "price_display": "₺102.058,82",
+    "price_value": 105984.16,
+    "price_display": "₺105.984,16",
     "desc": "45 cm ayak; taşınabilir; küçük alanlar/teras için ideal.",
     "id": "05b8879b-4cc4-407a-9305-eb39bff3291f",
-    "price": 102058.82,
+    "price": 105984.16,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-parlak-celik-140-cm-46cc3-.jpg"
   },
   {
@@ -4848,11 +4848,11 @@
     "name": "Beyaz Kubbe Şömine & Parlak Çelik 25 Mm Çelik Brülor / White Ground Steel High Polished Steel-25Mm-Steel Burner-Polished Steel",
     "sku": "LE 800039",
     "page": "538",
-    "price_value": 116841.66,
-    "price_display": "₺111.841,66",
+    "price_value": 116143.26,
+    "price_display": "₺116.143,26",
     "desc": "Üç ayaklı tasarım; 79 cm ayak; iç/dış mekân uyumlu.",
     "id": "2eb7786a-1f4c-442d-902a-657c20af3975",
-    "price": 111841.66,
+    "price": 116143.26,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-parlak-celik-25-mm--750372.jpg"
   },
   {
@@ -4860,11 +4860,11 @@
     "name": "Siyah Kubbe Şömine & Parlak Çelik 120 Cm Çelik Brülör / Black Sky - Polished Steel - 120 Cm- Steel Burner",
     "sku": "LE 800042",
     "page": "539",
-    "price_value": 116841.66,
-    "price_display": "₺102.058,82",
+    "price_value": 105984.16,
+    "price_display": "₺105.984,16",
     "desc": "Plaka+direk: paslanmaz çelik (fırçalanmış/siyah).",
     "id": "354f7224-2a27-4596-81f7-3df62a74bdb0",
-    "price": 102058.82,
+    "price": 105984.16,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-parlak-celik-120-cm-3565f2.jpg"
   },
   {
@@ -4872,11 +4872,11 @@
     "name": "Siyah Kubbe Şömine & Siyah 140 Cm Çelik Brülör / Black Sky - Black - 140 Cm-Steel Burner",
     "sku": "LE 800057",
     "page": "540",
-    "price_value": 116841.66,
-    "price_display": "₺102.058,82",
+    "price_value": 105984.16,
+    "price_display": "₺105.984,16",
     "desc": "Alçak kaide; iç/dış mekân uyumlu.",
     "id": "3d962f04-7976-4458-9791-7d964af0185f",
-    "price": 102058.82,
+    "price": 105984.16,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-siyah-140-cm-celik--b9-072.jpg"
   },
   {
@@ -4884,11 +4884,11 @@
     "name": "Siyah Kubbe Şömine & Siyah 120 Cm Çelik Brülör / Black Sky - Black - 120 Cm-Steel Burner",
     "sku": "LE 800058",
     "page": "541",
-    "price_value": 107058.82,
-    "price_display": "₺102.058,82",
+    "price_value": 105984.16,
+    "price_display": "₺105.984,16",
     "desc": "Eğimli tavan aparatı; direk boyu 50/100/120/140 cm (birleştirilebilir).",
     "id": "599efba7-fbde-43a1-8877-d737f6c41e6f",
-    "price": 102058.82,
+    "price": 105984.16,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-siyah-120-cm-celik--7-abb0.jpg"
   },
   {
@@ -4896,132 +4896,144 @@
     "sku": "LE 800061",
     "name": "Siyah Kubbe Şömine & Siyah 25 Mm Çelik Brülor / Black Ground Steel High Black-25Mm",
     "brand": "Le Feu",
-    "price": 102058.59,
-    "price_display": "₺102.058,59",
+    "price": 105983.92,
+    "price_display": "₺105.983,92",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-siyah-25-mm-celik-b-ec6-46.jpg",
     "description": "Siyah Kubbe Şömine & Siyah 25 Mm Çelik Brülor / Black Ground Steel High Black-25Mm",
-    "page": "542"
+    "page": "542",
+    "price_value": 105983.92
   },
   {
     "id": "48b6789a-be59-47d3-bbd0-51da9646c495",
     "sku": "LE 800082",
     "name": "Beyaz Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Büyük Ayak) / White Ground Wood High Polished Steel-Soaptreated Oak-Steel Burner",
     "brand": "Le Feu",
-    "price": 111841.66,
-    "price_display": "₺111.841,66",
+    "price": 116143.26,
+    "price_display": "₺116.143,26",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/beyaz-kubbe-somine-ogutulmus-ahsap-cil-3d53ea.jpg",
     "description": "Beyaz Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Büyük Ayak) / White Ground Wood High Polished Steel-Soaptreated Oak-Steel Burner",
-    "page": "543"
+    "page": "543",
+    "price_value": 116143.26
   },
   {
     "id": "ae8fa6ea-a865-4931-a4f3-f9e27904048a",
     "sku": "LE 800085",
     "name": "Beyaz Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Küçük Ayak) / White Ground Wood Low Polished Steel-Soaptreated Oak -Steel Burner",
     "brand": "Le Feu",
-    "price": 111841.66,
-    "price_display": "₺111.841,66",
+    "price": 116143.26,
+    "price_display": "₺116.143,26",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/beyaz-kubbe-somine-ogutulmus-ahsap-cil-9c3-ef.jpg",
     "description": "Beyaz Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Küçük Ayak) / White Ground Wood Low Polished Steel-Soaptreated Oak -Steel Burner",
-    "page": "544"
+    "page": "544",
+    "price_value": 116143.26
   },
   {
     "id": "fe0b727a-b7cc-470d-8b28-c02fc44a74e9",
     "sku": "LE 800102",
     "name": "Siyah Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Büyük Ayak) / Black Ground Wood High Black- Smoked Oak-Steel Burner",
     "brand": "Le Feu",
-    "price": 102058.82,
-    "price_display": "₺102.058,82",
+    "price": 105984.16,
+    "price_display": "₺105.984,16",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-ogutulmus-ahsap-cil-889101.jpg",
     "description": "Siyah Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Büyük Ayak) / Black Ground Wood High Black- Smoked Oak-Steel Burner",
-    "page": "545"
+    "page": "545",
+    "price_value": 105984.16
   },
   {
     "id": "4ebbdb55-9490-44c2-b0c3-1bc24bdd5216",
     "sku": "LE 800112",
     "name": "Siyah Kubbe Şömine & Siyah 25 Mm Çelik Brülor / Black Ground Steel Low Black-25Mm- Steel Burner-Black",
     "brand": "Le Feu",
-    "price": 102058.82,
-    "price_display": "₺102.058,82",
+    "price": 105984.16,
+    "price_display": "₺105.984,16",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-siyah-25-mm-celik-b-91598b.jpg",
     "description": "Siyah Kubbe Şömine & Siyah 25 Mm Çelik Brülor / Black Ground Steel Low Black-25Mm- Steel Burner-Black",
-    "page": "546"
+    "page": "546",
+    "price_value": 105984.16
   },
   {
     "id": "9cd58d40-516b-47f5-aeaa-4d79f19f80e5",
     "sku": "LE 800113",
     "name": "Beyaz Kubbe Şömine & Parlak Çelik 25 Mm Çelik Brülor / White Ground Steel Low Polished Steel-25Mm-Steel Burner-Polished Steel",
     "brand": "Le Feu",
-    "price": 111841.66,
-    "price_display": "₺111.841,66",
+    "price": 116143.26,
+    "price_display": "₺116.143,26",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/beyaz-kubbe-somine-parlak-celik-25-mm--181e90.jpg",
     "description": "Beyaz Kubbe Şömine & Parlak Çelik 25 Mm Çelik Brülor / White Ground Steel Low Polished Steel-25Mm-Steel Burner-Polished Steel",
-    "page": "547"
+    "page": "547",
+    "price_value": 116143.26
   },
   {
     "id": "73d05450-8420-4e2d-b4d4-b35566cf3796",
     "sku": "LE 800249",
     "name": "Nikel Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Büyük Ayak) / Nickel Ground Wood High Polished Steel-Soaptreated Oak-Steel Burner",
     "brand": "Le Feu",
-    "price": 111841.66,
-    "price_display": "₺111.841,66",
+    "price": 116143.26,
+    "price_display": "₺116.143,26",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nikel-kubbe-somine-ogutulmus-ahsap-cil-fe69ed.jpg",
     "description": "Nikel Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Büyük Ayak) / Nickel Ground Wood High Polished Steel-Soaptreated Oak-Steel Burner",
-    "page": "548"
+    "page": "548",
+    "price_value": 116143.26
   },
   {
     "id": "88b00a0d-739b-48c0-bfd1-1739838b30e2",
     "sku": "LE 800252",
     "name": "Nikel Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Küçük Ayak) / Nickel Ground Wood Low Polished Steel-Soaptreated Oak -Steel Burner",
     "brand": "Le Feu",
-    "price": 111841.66,
-    "price_display": "₺111.841,66",
+    "price": 116143.26,
+    "price_display": "₺116.143,26",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nikel-kubbe-somine-ogutulmus-ahsap-cil-7-2ce5.jpg",
     "description": "Nikel Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Küçük Ayak) / Nickel Ground Wood Low Polished Steel-Soaptreated Oak -Steel Burner",
-    "page": "549"
+    "page": "549",
+    "price_value": 116143.26
   },
   {
     "id": "5764812a-eb92-4215-b770-9586d9506f89",
     "sku": "LE 800355",
     "name": "Mocca Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Büyük Ayak) / Mocca Ground Wood High Mocca- Smoked Oak-Steel Burner",
     "brand": "Le Feu",
-    "price": 111841.66,
-    "price_display": "₺111.841,66",
+    "price": 116143.26,
+    "price_display": "₺116.143,26",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/mocca-kubbe-somine-ogutulmus-ahsap-cil-84-e88.jpg",
     "description": "Mocca Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Büyük Ayak) / Mocca Ground Wood High Mocca- Smoked Oak-Steel Burner",
-    "page": "550"
+    "page": "550",
+    "price_value": 116143.26
   },
   {
     "id": "05b6a433-6b56-443f-9eb3-cf35743aaa85",
     "sku": "LE 800366",
     "name": "Mocca Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Küçük Ayak) / Mocca Ground Wood Low Mocca- Smoked Oak-Steel Burner",
     "brand": "Le Feu",
-    "price": 111841.66,
-    "price_display": "₺111.841,66",
+    "price": 116143.26,
+    "price_display": "₺116.143,26",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/mocca-kubbe-somine-ogutulmus-ahsap-cil--3455-.jpg",
     "description": "Mocca Kubbe Şömine & Öğütülmüş Ahşap Cilalı Çelik Brülör (Küçük Ayak) / Mocca Ground Wood Low Mocca- Smoked Oak-Steel Burner",
-    "page": "551"
+    "page": "551",
+    "price_value": 116143.26
   },
   {
     "id": "4049a70b-7241-4bab-8e30-7354bcccf787",
     "sku": "LE 801488",
     "name": "Siyah Kubbe Şömine & Siyah 60 Mm Çelik Brülor / Black Ground Steel Low Black-60Mm- Steel Burner-Black",
     "brand": "Le Feu",
-    "price": 102058.82,
-    "price_display": "₺102.058,82",
+    "price": 105984.16,
+    "price_display": "₺105.984,16",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-siyah-60-mm-celik-b-d55d0f.jpg",
     "description": "Siyah Kubbe Şömine & Siyah 60 Mm Çelik Brülor / Black Ground Steel Low Black-60Mm- Steel Burner-Black",
-    "page": "552"
+    "page": "552",
+    "price_value": 105984.16
   },
   {
     "id": "ad630415-637d-4028-80f0-9abc39a47641",
     "sku": "LE 801504",
     "name": "Siyah Kubbe Şömine & Siyah 60 Mm Çelik Brülor / Black Ground Steel High Black-60Mm",
     "brand": "Le Feu",
-    "price": 102058.59,
-    "price_display": "₺102.058,59",
+    "price": 105983.92,
+    "price_display": "₺105.983,92",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-siyah-60-mm-celik-b-5f2494.jpg",
     "description": "Siyah Kubbe Şömine & Siyah 60 Mm Çelik Brülor / Black Ground Steel High Black-60Mm",
-    "page": "553"
+    "page": "553",
+    "price_value": 105983.92
   },
   {
     "brand": "Lyngby Glas",
@@ -18822,58 +18834,74 @@
   {
     "sku": "LE800039",
     "name": "LeFeu LE800039",
-    "price": 111841.6,
+    "price": 116143.26,
     "brand": "Le Feu",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-parlak-celik-25-mm--750372.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-parlak-celik-25-mm--750372.jpg",
+    "price_value": 116143.26,
+    "price_display": "₺116.143,26"
   },
   {
     "sku": "LE800042",
     "name": "LeFeu LE800042",
-    "price": 111841.66,
+    "price": 105984.16,
     "brand": "Le Feu",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-parlak-celik-120-cm-3565f2.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-parlak-celik-120-cm-3565f2.jpg",
+    "price_value": 105984.16,
+    "price_display": "₺105.984,16"
   },
   {
     "sku": "LE800057",
     "name": "LeFeu LE800057",
-    "price": 102058.5,
+    "price": 105984.16,
     "brand": "Le Feu",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-siyah-140-cm-celik--b9-072.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-siyah-140-cm-celik--b9-072.jpg",
+    "price_value": 105984.16,
+    "price_display": "₺105.984,16"
   },
   {
     "sku": "LE800102",
     "name": "LeFeu LE800102",
-    "price": 102058.5,
+    "price": 105984.16,
     "brand": "Le Feu",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-ogutulmus-ahsap-cil-889101.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-ogutulmus-ahsap-cil-889101.jpg",
+    "price_value": 105984.16,
+    "price_display": "₺105.984,16"
   },
   {
     "sku": "LE800112",
     "name": "LeFeu LE800112",
-    "price": 111841.66,
+    "price": 105984.16,
     "brand": "Le Feu",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-siyah-25-mm-celik-b-91598b.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-siyah-25-mm-celik-b-91598b.jpg",
+    "price_value": 105984.16,
+    "price_display": "₺105.984,16"
   },
   {
     "sku": "LE800113",
     "name": "LeFeu LE800113",
-    "price": 111841.6,
+    "price": 116143.26,
     "brand": "Le Feu",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/beyaz-kubbe-somine-parlak-celik-25-mm--181e90.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/beyaz-kubbe-somine-parlak-celik-25-mm--181e90.jpg",
+    "price_value": 116143.26,
+    "price_display": "₺116.143,26"
   },
   {
     "sku": "LE800249",
     "name": "LeFeu LE800249",
-    "price": 111841.6,
+    "price": 116143.26,
     "brand": "Le Feu",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nikel-kubbe-somine-ogutulmus-ahsap-cil-fe69ed.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nikel-kubbe-somine-ogutulmus-ahsap-cil-fe69ed.jpg",
+    "price_value": 116143.26,
+    "price_display": "₺116.143,26"
   },
   {
     "sku": "LE801488",
     "name": "LeFeu LE801488",
-    "price": 102058.59,
+    "price": 105984.16,
     "brand": "Le Feu",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-siyah-60-mm-celik-b-d55d0f.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/siyah-kubbe-somine-siyah-60-mm-celik-b-d55d0f.jpg",
+    "price_value": 105984.16,
+    "price_display": "₺105.984,16"
   },
   {
     "sku": "ZAAER-ASHTR-15105-0035",
