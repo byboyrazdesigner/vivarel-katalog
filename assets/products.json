@@ -1023,11 +1023,12 @@
     "name": "Plastik Kapaklı Banyo Çöp Kovası (Küçük)",
     "sku": "GG995S",
     "page": 526,
-    "price_value": "",
-    "price_display": "nan ₺",
+    "price_value": 8554.15,
+    "price_display": "₺8.554,15",
     "desc": "Ø 20×27 cm.",
     "id": "ac55259e-1ac2-4bdf-a3da-f562b9038ddd",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-kucuk-cop-kutusu-bej-renk-cap-20-ed6-44.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-kucuk-cop-kutusu-bej-renk-cap-20-ed6-44.jpg",
+    "price": 8554.15
   },
   {
     "brand": "BAOLGI",
