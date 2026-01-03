@@ -2377,33 +2377,35 @@
     "name": "Yumurta Dilimleyici – DUO",
     "sku": 12350,
     "page": 116,
-    "price_value": 1694.8,
-    "price_display": "1.694,80 ₺",
+    "price_value": 1759.98,
+    "price_display": "₺1.759,98",
     "desc": "",
     "id": "222ae32a-3bec-42f4-a136-f72ac6e9ebec",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/duo-yumurta-dilimleyici-11x13x35-cm-fc2-4a.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/duo-yumurta-dilimleyici-11x13x35-cm-fc2-4a.jpg",
+    "price": 1759.98
   },
   {
     "brand": "GEFU",
     "name": "Domates & Mozzarella Dilimleyici – CAPRESE",
     "sku": 12371,
     "page": 116,
-    "price_value": 2493.92,
-    "price_display": "2.493,92 ₺",
+    "price_value": 2589.84,
+    "price_display": "₺2.589,84",
     "desc": "",
     "id": "723c74c2-730a-47e7-bd37-ae72e4c86559",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/caprese-disk-kesici-204x118x75-cm-33c3e0.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/caprese-disk-kesici-204x118x75-cm-33c3e0.jpg",
+    "price": 2589.84
   },
   {
     "brand": "GEFU",
     "name": "POLITO Seramik Ocak Kazıyıcı",
     "sku": 12450,
     "page": 168,
-    "price_value": 1295.24,
-    "price_display": "₺1.295,24",
+    "price_value": 1345.06,
+    "price_display": "₺1.345,06",
     "desc": "Seramik cam ocak yüzeyleri için hassas kazıyıcı. Ölçüler: L 13,5 cm, W 4,6 cm, H 1,7 cm. Malzeme: yüksek kalite paslanmaz çelik.",
     "id": "484e6eb6-142e-4dc0-a6c4-766729dc21e1",
-    "price": 1295.24,
+    "price": 1345.06,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/polito-seramik-cam-ocak-kaziyici-pasla-a1f-9f.jpg"
   },
   {
@@ -2411,11 +2413,11 @@
     "name": "JARKEY Kavanoz Kapağı Açacağı",
     "sku": "12470",
     "page": "GEFU",
-    "price_value": 899.01,
-    "price_display": "₺899,01",
+    "price_value": 933.59,
+    "price_display": "₺933,59",
     "desc": "Vidalı kavanoz kapaklarının vakumunu nazikçe bırakarak açmayı çok daha kolay hale getirir. Vakumu serbest bırakarak kapağın rahat sökülmesini sağlar. Ölçüler: L 13.9 cm, W 4.9 cm, H 2.7 cm. Malzeme: Plastik.",
     "id": "2324f20a-8ae0-4d9b-b128-6071022134d7",
-    "price": 899.01,
+    "price": 933.59,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/jarkey-cam-kapak-acacagi-139x49x27-cm-48d2-a.jpg"
   },
   {
@@ -2423,33 +2425,35 @@
     "name": "Mezzaluna – VIAVO",
     "sku": 12630,
     "page": 119,
-    "price_value": 1894.58,
-    "price_display": "1.894,58 ₺",
+    "price_value": 1967.45,
+    "price_display": "₺1.967,45",
     "desc": "",
     "id": "08adf69c-683e-4989-8d77-41e388892620",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/viavo-mezzaluna-paslanmaz-celik-15x95x-89f-8c.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/viavo-mezzaluna-paslanmaz-celik-15x95x-89f-8c.jpg",
+    "price": 1967.45
   },
   {
     "brand": "GEFU",
     "name": "Ot Makası – CUTARE",
     "sku": 12660,
     "page": 118,
-    "price_value": 1495.02,
-    "price_display": "1.495,02 ₺",
+    "price_value": 1552.52,
+    "price_display": "₺1.552,52",
     "desc": "",
     "id": "03d20486-167a-4a8b-b69e-9439e0e2b850",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/cutare-bitki-makasi-paslanmaz-celik-19-a-98f0.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/cutare-bitki-makasi-paslanmaz-celik-19-a-98f0.jpg",
+    "price": 1552.52
   },
   {
     "brand": "GEFU",
     "name": "Lunch box ENDURE – small",
     "sku": 12734,
     "page": 152,
-    "price_value": 3293.04,
-    "price_display": "₺3.293,04",
+    "price_value": 3419.69,
+    "price_display": "₺3.419,69",
     "desc": "Dolu hacim: 1.000 ml; Ölçüler: L 18 cm, W 13,3 cm, H 6,3 cm; %100 sızdırmaz yapı; kapaktaki silikon halka sayesinde hava geçirmez; çıkarılabilir bölücü; malzeme: yüksek kaliteli paslanmaz çelik / plastik.",
     "id": "2dcb2897-62cd-4f37-8801-b97021fdc6d8",
-    "price": 3293.04,
+    "price": 3419.69,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/endure-100-sizdirmaz-ogle-yemegi-kutus-2b0b9b.jpg"
   },
   {
@@ -2457,11 +2461,11 @@
     "name": "Lunch box ENDURE – large",
     "sku": 12735,
     "page": 152,
-    "price_value": 4291.94,
-    "price_display": "₺4.291,94",
+    "price_value": 4457.01,
+    "price_display": "₺4.457,01",
     "desc": "Dolu hacim: 1.400 ml; Ölçüler: L 22 cm, W 16,5 cm, H 6 cm; %100 sızdırmaz yapı; kapaktaki silikon halka sayesinde hava geçirmez; çıkarılabilir bölücü; malzeme: yüksek kaliteli paslanmaz çelik / plastik.",
     "id": "fae358fd-5c4f-4cad-b416-c19ce6b3251c",
-    "price": 4291.94,
+    "price": 4457.01,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/endure-100-sizdirmaz-ogle-yemegi-kutus-ff6-2a.jpg"
   },
   {
@@ -2469,11 +2473,11 @@
     "name": "Gıda Saklama Kabı – MILO (Yuvarlak) 400 ml",
     "sku": 12747,
     "page": 143,
-    "price_value": 1594.91,
-    "price_display": "₺1.594,91",
+    "price_value": 1656.25,
+    "price_display": "₺1.656,25",
     "desc": "Dolu hacim: 400 ml • Ölçüler: Ø 14 cm, H 6 cm",
     "id": "2c80520b-b9f5-45ae-b337-dc4701309cf6",
-    "price": 1594.91,
+    "price": 1656.25,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/milo-gida-saklama-kabi-yuvarlak-400-ml--7a5d-.jpg"
   },
   {
@@ -2481,11 +2485,11 @@
     "name": "Gıda Saklama Kabı – MILO (Yuvarlak) 600 ml",
     "sku": 12748,
     "page": 143,
-    "price_value": 1794.69,
-    "price_display": "₺1.794,69",
+    "price_value": 1863.72,
+    "price_display": "₺1.863,72",
     "desc": "Dolu hacim: 600 ml • Ölçüler: Ø 16 cm, H 7 cm",
     "id": "5a47e9ef-04f4-41d0-934a-e2ebf770aef3",
-    "price": 1794.69,
+    "price": 1863.72,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/milo-gida-saklama-kabi-yuvarlak-600-ml-e78f4f.jpg"
   },
   {
@@ -2493,11 +2497,11 @@
     "name": "Gıda Saklama Kabı – MILO (Yuvarlak) 900 ml",
     "sku": 12749,
     "page": 143,
-    "price_value": 2294.14,
-    "price_display": "₺2.294,14",
+    "price_value": 2382.37,
+    "price_display": "₺2.382,37",
     "desc": "Dolu hacim: 900 ml • Ölçüler: Ø 18 cm, H 7,5 cm",
     "id": "9b4a2ffe-4d59-41a7-b1f4-2b11733cb5ce",
-    "price": 2294.14,
+    "price": 2382.37,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/milo-gida-saklama-kabi-yuvarlak-900-ml-a262c4.jpg"
   },
   {
@@ -2505,11 +2509,11 @@
     "name": "MILO Saklama Kabı – 400 ml",
     "sku": 12751,
     "page": 142,
-    "price_value": 1594.91,
-    "price_display": "₺1.594,91",
+    "price_value": 1656.25,
+    "price_display": "₺1.656,25",
     "desc": "Cam – MILO saklama kabı. Borosilikat cam gövde, paslanmaz çelik klik kapak; silikon contalı sızdırmaz yapı. Hava ve koku geçirmez. 300°C'ye kadar sıcağa, −20°C'ye kadar soğuğa dayanıklı. Kapak ısıtılmaz. Fırın ve mikrodalgaya uygundur. Hacim: 400 ml. Boyut: 15,5 × 11 × 6 cm (Y).",
     "id": "4808afb2-a582-4d6b-b8bf-8daccc581853",
-    "price": 1594.91,
+    "price": 1656.25,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/milo-gida-saklama-kabi-dikdortgen-400--8c295b.jpg"
   },
   {
@@ -2517,11 +2521,11 @@
     "name": "MILO Saklama Kabı – 600 ml",
     "sku": 12752,
     "page": 142,
-    "price_value": 1994.47,
-    "price_display": "₺1.994,47",
+    "price_value": 2071.18,
+    "price_display": "₺2.071,18",
     "desc": "Cam – MILO saklama kabı. Borosilikat cam gövde, paslanmaz çelik klik kapak; silikon contalı sızdırmaz yapı. Hava ve koku geçirmez. 300°C'ye kadar sıcağa, −20°C'ye kadar soğuğa dayanıklı. Kapak ısıtılmaz. Fırın ve mikrodalgaya uygundur. Hacim: 600 ml. Boyut: 17,5 × 13 × 6 cm (Y).",
     "id": "c1cbfd5b-b99e-44a9-85a5-c555d729eafe",
-    "price": 1994.47,
+    "price": 2071.18,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/milo-gida-saklama-kabi-dikdortgen-600--a464-a.jpg"
   },
   {
@@ -2529,11 +2533,11 @@
     "name": "MILO Saklama Kabı – 1.000 ml",
     "sku": 12753,
     "page": 142,
-    "price_value": 2294.14,
-    "price_display": "₺2.294,14",
+    "price_value": 2382.37,
+    "price_display": "₺2.382,37",
     "desc": "Cam – MILO saklama kabı. Borosilikat cam gövde, paslanmaz çelik klik kapak; silikon contalı sızdırmaz yapı. Hava ve koku geçirmez. 300°C'ye kadar sıcağa, −20°C'ye kadar soğuğa dayanıklı. Kapak ısıtılmaz. Fırın ve mikrodalgaya uygundur. Hacim: 1000 ml. Boyut: 21 × 15,5 × 7 cm (Y).",
     "id": "dfbba18f-d5dc-45bd-8f3c-63b9dfc0bc80",
-    "price": 2294.14,
+    "price": 2382.37,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/milo-gida-saklama-kabi-dikdortgen-1000-41-90b.jpg"
   },
   {
@@ -2541,11 +2545,11 @@
     "name": "MILO Saklama Kabı – 1.500 ml",
     "sku": 12754,
     "page": 142,
-    "price_value": 2793.59,
-    "price_display": "₺2.793,59",
+    "price_value": 2901.03,
+    "price_display": "₺2.901,03",
     "desc": "Cam – MILO saklama kabı. Borosilikat cam gövde, paslanmaz çelik klik kapak; silikon contalı sızdırmaz yapı. Hava ve koku geçirmez. 300°C'ye kadar sıcağa, −20°C'ye kadar soğuğa dayanıklı. Kapak ısıtılmaz. Fırın ve mikrodalgaya uygundur. Hacim: 1500 ml. Boyut: 23 × 17,5 × 7,5 cm (Y).",
     "id": "c55ef9aa-aac6-4451-8b90-fab082f1a749",
-    "price": 2793.59,
+    "price": 2901.03,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/milo-gida-saklama-kabi-dikdortgen-1500-506c74.jpg"
   },
   {
@@ -2553,11 +2557,11 @@
     "name": "Gıda Saklama Kabı – MILO (Kare) 300 ml",
     "sku": 12755,
     "page": 143,
-    "price_value": 1594.91,
-    "price_display": "₺1.594,91",
+    "price_value": 1656.25,
+    "price_display": "₺1.656,25",
     "desc": "Dolu hacim: 300 ml • Ölçüler: L 12 cm, W 12 cm, H 6 cm",
     "id": "d582dc2f-2386-4b20-bc3a-979bf01e0f84",
-    "price": 1594.91,
+    "price": 1656.25,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/milo-gida-saklama-kabi-kare-300-ml-pas-0b0-9e.jpg"
   },
   {
@@ -2565,11 +2569,11 @@
     "name": "Gıda Saklama Kabı – MILO (Kare) 500 ml",
     "sku": 12756,
     "page": 143,
-    "price_value": 1794.69,
-    "price_display": "₺1.794,69",
+    "price_value": 1863.72,
+    "price_display": "₺1.863,72",
     "desc": "Dolu hacim: 500 ml • Ölçüler: L 13,5 cm, W 13,5 cm, H 6,5 cm",
     "id": "36aa5c4d-eb4d-4abf-ae14-d579c4f21223",
-    "price": 1794.69,
+    "price": 1863.72,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/milo-gida-saklama-kabi-kare-500-ml-pas-f-e0fa.jpg"
   },
   {
@@ -2577,11 +2581,11 @@
     "name": "Gıda Saklama Kabı – MILO (Kare) 800 ml",
     "sku": 12757,
     "page": 143,
-    "price_value": 1994.47,
-    "price_display": "₺1.994,47",
+    "price_value": 2071.18,
+    "price_display": "₺2.071,18",
     "desc": "Dolu hacim: 800 ml • Ölçüler: L 15,5 cm, W 15,5 cm, H 7,5 cm",
     "id": "4580dc6c-b929-44b4-a2e5-3f2598c98461",
-    "price": 1994.47,
+    "price": 2071.18,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/milo-gida-saklama-kabi-kare-800-ml-pas-f0ba84.jpg"
   },
   {
@@ -2589,11 +2593,11 @@
     "name": "Gıda Saklama Kabı – PROVIDO (Dikdörtgen) 600 ml",
     "sku": 12774,
     "page": 143,
-    "price_value": 2394.03,
-    "price_display": "₺2.394,03",
+    "price_value": 2486.11,
+    "price_display": "₺2.486,11",
     "desc": "Dolu hacim: 600 ml • Ölçüler: L 15,5 cm, W 12 cm, H 6 cm",
     "id": "c8513207-4564-4b01-b087-9715862b75f6",
-    "price": 2394.03,
+    "price": 2486.11,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/provido-gida-saklama-kabi-dikdortgen-6--e8f73.jpg"
   },
   {
@@ -2601,11 +2605,11 @@
     "name": "Gıda Saklama Kabı – PROVIDO (Dikdörtgen) 1.300 ml",
     "sku": 12775,
     "page": 143,
-    "price_value": 2993.37,
-    "price_display": "₺2.993,37",
+    "price_value": 3108.5,
+    "price_display": "₺3.108,50",
     "desc": "Dolu hacim: 1.300 ml • Ölçüler: L 20 cm, W 15 cm, H 7,5 cm",
     "id": "013ec93f-e38f-461e-a1b3-318fc2b6d820",
-    "price": 2993.37,
+    "price": 3108.5,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/provido-gida-saklama-kabi-dikdortgen-1-730208.jpg"
   },
   {
@@ -2613,11 +2617,11 @@
     "name": "Gıda Saklama Kabı – PROVIDO (Dikdörtgen) 2.600 ml",
     "sku": 12776,
     "page": 143,
-    "price_value": 3992.27,
-    "price_display": "₺3.992,27",
+    "price_value": 4145.82,
+    "price_display": "₺4.145,82",
     "desc": "Dolu hacim: 2.600 ml • Ölçüler: L 24 cm, W 18,5 cm, H 9 cm",
     "id": "4e323dab-3f76-4fbf-bbad-73df273a7b68",
-    "price": 3992.27,
+    "price": 4145.82,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/provido-gida-saklama-kabi-dikdortgen-2-c26861.jpg"
   },
   {
@@ -2625,11 +2629,11 @@
     "name": "Thermal lunch pot – COMPANION",
     "sku": 12786,
     "page": 150,
-    "price_value": 3992.27,
-    "price_display": "₺3.992,27",
+    "price_value": 4145.82,
+    "price_display": "₺4.145,82",
     "desc": "Çift cidarlı vakum yalıtım; kapakta 160 ml saklama kabı ve pratik valf; %100 sızdırmaz; deri kayış; dolu hacim 500 ml; Ø 11 cm, H 18 cm; malzeme: paslanmaz çelik / plastik / deri / silikon.",
     "id": "54f6df4b-e958-40fc-9bb7-3f0be1c8050d",
-    "price": 3992.27,
+    "price": 4145.82,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/thermal-ogle-yemegi-yardimcisi-500-ml-4be4-a.jpg"
   },
   {
@@ -2637,11 +2641,11 @@
     "name": "Gıda Saklama Kabı – PANTRY (400 ml)",
     "sku": 12801,
     "page": 144,
-    "price_value": 1694.8,
-    "price_display": "₺1.694,80",
+    "price_value": 1759.98,
+    "price_display": "₺1.759,98",
     "desc": "Borosilikat cam / plastik / paslanmaz çelik • Hacim: 400 ml • Ölçüler: L 11 cm, W 11 cm, H 7,5 cm",
     "id": "dedddead-ec18-4d95-9558-534d2abc3a63",
-    "price": 1694.8,
+    "price": 1759.98,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pantry-erzak-saklama-kabi-400-ml-11x11-243f-4.jpg"
   },
   {
@@ -2649,11 +2653,11 @@
     "name": "Gıda Saklama Kabı – PANTRY (900 ml)",
     "sku": 12802,
     "page": 144,
-    "price_value": 1994.47,
-    "price_display": "₺1.994,47",
+    "price_value": 2071.18,
+    "price_display": "₺2.071,18",
     "desc": "Borosilikat cam / plastik / paslanmaz çelik • Hacim: 900 ml • Ölçüler: L 11 cm, W 11 cm, H 13,5 cm",
     "id": "5b5e403f-3ac0-4ed7-8127-8a869cd7d3af",
-    "price": 1994.47,
+    "price": 2071.18,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pantry-erzak-saklama-kabi-900-ml-11x11-56e8de.jpg"
   },
   {
@@ -2661,11 +2665,11 @@
     "name": "Gıda Saklama Kabı – PANTRY (1.400 ml)",
     "sku": 12803,
     "page": 144,
-    "price_value": 2294.14,
-    "price_display": "₺2.294,14",
+    "price_value": 2382.37,
+    "price_display": "₺2.382,37",
     "desc": "Borosilikat cam / plastik / paslanmaz çelik • Hacim: 1400 ml • Ölçüler: L 11 cm, W 11 cm, H 20 cm",
     "id": "a4663cf5-f9de-4d00-a0e3-3e8b1997720f",
-    "price": 2294.14,
+    "price": 2382.37,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pantry-erzak-saklama-kabi-1400-ml-11x1-c97634.jpg"
   },
   {
@@ -2673,11 +2677,11 @@
     "name": "Gıda Saklama Kabı – PANTRY (1.900 ml)",
     "sku": 12804,
     "page": 144,
-    "price_value": 2493.92,
-    "price_display": "₺2.493,92",
+    "price_value": 2589.84,
+    "price_display": "₺2.589,84",
     "desc": "Borosilikat cam / plastik / paslanmaz çelik • Hacim: 1900 ml • Ölçüler: L 11 cm, W 11 cm, H 26 cm",
     "id": "a7fda5a5-49c2-488e-aa0a-0a9155e70aa0",
-    "price": 2493.92,
+    "price": 2589.84,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pantry-erzak-saklama-kabi-1900-ml-11x1-f8cd5-.jpg"
   },
   {
@@ -2685,11 +2689,11 @@
     "name": "Gıda Saklama Kabı – PANTRY (2.500 ml)",
     "sku": 12805,
     "page": 144,
-    "price_value": 2993.37,
-    "price_display": "₺2.993,37",
+    "price_value": 3108.5,
+    "price_display": "₺3.108,50",
     "desc": "Borosilikat cam / plastik / paslanmaz çelik • Hacim: 2500 ml • Ölçüler: L 11 cm, W 11 cm, H 32,5 cm",
     "id": "5359ab56-06a4-461e-a1c3-39d2cdd0f3dd",
-    "price": 2993.37,
+    "price": 3108.5,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pantry-erzak-saklama-kabi-2500-ml-11x1-20f-80.jpg"
   },
   {
@@ -2697,11 +2701,11 @@
     "name": "Gıda Saklama Kabı – PANTRY mini (180 ml)",
     "sku": 12808,
     "page": 145,
-    "price_value": 1295.24,
-    "price_display": "₺1.295,24",
+    "price_value": 1345.06,
+    "price_display": "₺1.345,06",
     "desc": "Borosilikat cam / plastik / paslanmaz çelik • Hacim: 180 ml • Ölçüler: L 7 cm, W 7 cm, H 9 cm",
     "id": "b49839cc-96c8-4f43-97dc-e3c3d02e09cf",
-    "price": 1295.24,
+    "price": 1345.06,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pantry-mini-erzak-saklama-kabi-180-ml--b-6a8b.jpg"
   },
   {
@@ -2709,11 +2713,11 @@
     "name": "Gıda Saklama Kabı – PANTRY mini (400 ml)",
     "sku": 12809,
     "page": 145,
-    "price_value": 1495.02,
-    "price_display": "₺1.495,02",
+    "price_value": 1552.52,
+    "price_display": "₺1.552,52",
     "desc": "Borosilikat cam / plastik / paslanmaz çelik • Hacim: 400 ml • Ölçüler: L 7 cm, W 7 cm, H 17,5 cm",
     "id": "d1ee2e27-ad40-4b13-b0dc-aa5bbc488619",
-    "price": 1495.02,
+    "price": 1552.52,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pantry-mini-erzak-saklama-kabi-400-ml--539-8a.jpg"
   },
   {
@@ -2721,11 +2725,11 @@
     "name": "5’i 1 Arada Açacak APERTO",
     "sku": 12830,
     "page": 173,
-    "price_value": 899.01,
-    "price_display": "₺899,01",
+    "price_value": 933.59,
+    "price_display": "₺933,59",
     "desc": "Ø 2–7,5 cm arası kapaklar için çok amaçlı açacak (vida, mantar vb.). Ölçüler: L 13,9 cm × W 4,9 cm × H 2,7 cm. Malzeme: plastik.",
     "id": "fa59d8cb-831a-4d8f-9f80-1f33f88850ee",
-    "price": 899.01,
+    "price": 933.59,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/aperto-5i-1-arada-cok-fonksiyonlu-acic-1b-65d.jpg"
   },
   {
@@ -2733,11 +2737,12 @@
     "name": "Dilimleyici – TARO",
     "sku": 13420,
     "page": 117,
-    "price_value": 3392.93,
-    "price_display": "3.392,93 ₺",
+    "price_value": 3523.42,
+    "price_display": "₺3.523,42",
     "desc": "",
     "id": "02b67cbc-3b31-4103-9857-8f58465b3ab1",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/tari-disk-kesici-20x74x45-cm-4d4-43.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/tari-disk-kesici-20x74x45-cm-4d4-43.jpg",
+    "price": 3523.42
   },
   {
     "brand": "GEFU",
@@ -2754,11 +2759,11 @@
     "name": "Ceviz Kıracağı MANOLO",
     "sku": 13440,
     "page": 173,
-    "price_value": 2693.7,
-    "price_display": "₺2.693,70",
+    "price_value": 2797.3,
+    "price_display": "₺2.797,30",
     "desc": "Ergonomik kıracak; ceviz, fındık, badem vb. için. Ölçüler: L 24,5 cm × W 8,5 cm × H 6,5 cm. Malzeme: paslanmaz çelik / plastik.",
     "id": "28f70bdc-c195-4f11-894f-e88be404a4f0",
-    "price": 2693.7,
+    "price": 2797.3,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/manolo-findikkiran-paslanmaz-celikplas-c3ffc4.jpg"
   },
   {
@@ -2766,44 +2771,47 @@
     "name": "Çok Amaçlı Doğrayıcı – SPEEDWING",
     "sku": 13600,
     "page": 115,
-    "price_value": 4295.27,
-    "price_display": "4.295,27 ₺",
+    "price_value": 4460.47,
+    "price_display": "₺4.460,47",
     "desc": "",
     "id": "60e15b84-1cdc-4026-b6f8-f8382bb7db35",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/speedwing-coklu-kiyici-800-ml-d0-ad8.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/speedwing-coklu-kiyici-800-ml-d0-ad8.jpg",
+    "price": 4460.47
   },
   {
     "brand": "GEFU",
     "name": "Satış/Teşhir Standı – Universal Soyacak (3’ü 1 Arada) SPIN",
     "sku": 13662,
     "page": 117,
-    "price_value": 998.9,
-    "price_display": "998,90 ₺",
+    "price_value": 1037.32,
+    "price_display": "₺1.037,32",
     "desc": "",
     "id": "3d0a78a6-b097-4b7e-bd1f-f6e82899f10d",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/3u-1-arada-evrensel-soyucu-spin-105-cm-47d8-b.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/3u-1-arada-evrensel-soyucu-spin-105-cm-47d8-b.jpg",
+    "price": 1037.32
   },
   {
     "brand": "GEFU",
     "name": "Zencefil & Portakal Soyacağı – MELANSINA",
     "sku": 13730,
     "page": 118,
-    "price_value": 1495.02,
-    "price_display": "1.495,02 ₺",
+    "price_value": 1552.52,
+    "price_display": "₺1.552,52",
     "desc": "",
     "id": "c1661631-7b9e-47ea-845d-a5f1829634fe",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/melansina-zencefil-ve-portakal-soyucu--1-4279.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/melansina-zencefil-ve-portakal-soyucu--1-4279.jpg",
+    "price": 1552.52
   },
   {
     "brand": "GEFU",
     "name": "Katlanır çok amaçlı bıçak – MOVE",
     "sku": 13806,
     "page": 151,
-    "price_value": 1994.47,
-    "price_display": "₺1.994,47",
+    "price_value": 2071.18,
+    "price_display": "₺2.071,18",
     "desc": "Ekstra keskin, kilitlenebilir bıçak; aç/kapa sistemi; hafif ve taşınabilir; ergonomik sap; L 13 cm, W 1,5 cm, H 2,6 cm; malzeme: bıçak çeliği / plastik / paslanmaz çelik.",
     "id": "0ac306db-1c11-4b06-9020-7da3ae03f32f",
-    "price": 1994.47,
+    "price": 2071.18,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/move-katlanir-cok-amacli-bicak-13x15x2--42a0-.jpg"
   },
   {
@@ -2811,11 +2819,11 @@
     "name": "Bıçak Bloğu – SMARTLINE",
     "sku": 13952,
     "page": 110,
-    "price_value": 4491.72,
-    "price_display": "₺4.491,72",
+    "price_value": 4664.48,
+    "price_display": "₺4.664,48",
     "desc": "",
     "id": "3a214687-0571-4e85-b942-c163d52ea45c",
-    "price": 4491.72,
+    "price": 4664.48,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/smartline-bicak-blogu-yuksek-kaliteli---a0a5a.jpg"
   },
   {
@@ -2823,11 +2831,11 @@
     "name": "Bıçak Bloğu – INSIEM",
     "sku": 13955,
     "page": 110,
-    "price_value": 2493.92,
-    "price_display": "₺2.493,92",
+    "price_value": 2589.84,
+    "price_display": "₺2.589,84",
     "desc": "",
     "id": "d5e18e24-3b4c-4ad3-94c4-42f2b7c641aa",
-    "price": 2493.92,
+    "price": 2589.84,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/insiem-bicak-blogu-yuksek-kaliteli-pas--4ee8-.jpg"
   },
   {
@@ -2835,22 +2843,23 @@
     "name": "Manyetik Bıçak Bloğu – ENNO",
     "sku": 13958,
     "page": 109,
-    "price_value": 8986.76,
-    "price_display": "8.986,76 ₺",
+    "price_value": 9332.41,
+    "price_display": "₺9.332,41",
     "desc": "Çift taraflı mıknatıslı bıçak bloğu; en fazla 10 bıçak için güvenli saklama ve şık sergileme. 25 cm bıçaklara kadar uyumlu. Kaymaz taban, sağlam duruş sağlayan ayak.",
     "id": "14c9401f-03c4-4d10-91eb-155082e235d3",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/enno-manyetik-bicak-blogu-yuksek-kalit-1e-db1.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/enno-manyetik-bicak-blogu-yuksek-kalit-1e-db1.jpg",
+    "price": 9332.41
   },
   {
     "brand": "GEFU",
     "name": "SLIZE Kesme Tahtası – küçük",
     "sku": 13965,
     "page": 111,
-    "price_value": 2493.92,
-    "price_display": "₺2.493,92",
+    "price_value": 2589.84,
+    "price_display": "₺2.589,84",
     "desc": "",
     "id": "53268aba-aba4-479a-9be0-16cffaf7b7da",
-    "price": 2493.92,
+    "price": 2589.84,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/slize-kucuy-boy-kesme-tahtasi-siyah-re-242-b0.jpg"
   },
   {
@@ -2858,11 +2867,11 @@
     "name": "SLIZE Kesme Tahtası – orta, oluklu",
     "sku": 13966,
     "page": 111,
-    "price_value": 3992.27,
-    "price_display": "₺3.992,27",
+    "price_value": 4145.82,
+    "price_display": "₺4.145,82",
     "desc": "",
     "id": "65a9eca7-1537-4367-8ede-c38c070013d4",
-    "price": 3992.27,
+    "price": 4145.82,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/slize-orta-boy-kesme-tahtasi-siyah-ren-0e1071.jpg"
   },
   {
@@ -2870,11 +2879,11 @@
     "name": "SLIZE Kesme Tahtası – büyük, oluklu",
     "sku": 13967,
     "page": 111,
-    "price_value": 5490.62,
-    "price_display": "₺5.490,62",
+    "price_value": 5701.79,
+    "price_display": "₺5.701,79",
     "desc": "",
     "id": "4530d84e-11ae-4a7c-a534-dfac80b9c6d7",
-    "price": 5490.62,
+    "price": 5701.79,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/slize-buyuk-kesme-tahtasi-siyah-renk-4-e-eee8.jpg"
   },
   {
@@ -2882,11 +2891,11 @@
     "name": "LEMON Narenciye Sıkacağı",
     "sku": 13970,
     "page": 172,
-    "price_value": 2893.48,
-    "price_display": "₺2.893,48",
+    "price_value": 3004.77,
+    "price_display": "₺3.004,77",
     "desc": "250 ml kapasiteli klasik sıkacak; iki parçalı (süzgeç + meyve suyu kabı). Ölçüler: Ø 12,5 cm × H 10 cm. Malzeme: yüksek kalite paslanmaz çelik (parlatılmış / mat).",
     "id": "cfa51917-adf1-4c9a-93b4-070acbf8895d",
-    "price": 2893.48,
+    "price": 3004.77,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/lemon-limon-sikacagi-paslanmaz-celik-0-e0f-7f.jpg"
   },
   {
@@ -2894,11 +2903,11 @@
     "name": "LEMON PRO Narenciye Presi",
     "sku": 13971,
     "page": 172,
-    "price_value": 3792.49,
-    "price_display": "₺3.792,49",
+    "price_value": 3938.35,
+    "price_display": "₺3.938,35",
     "desc": "Ergonomik kol mekanizması; ters çevirme prensibi. Çekirdek ve posayı ayıran toplama kabı. Ölçüler: L 27,0 cm × W 9,7 cm × H 8,7 cm. Malzeme: paslanmaz çelik / plastik.",
     "id": "6bb9fbd5-c4e5-456b-b57e-e2ea17f9e5a4",
-    "price": 3792.49,
+    "price": 3938.35,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/lemon-pro-limon-sikacagi-cap-84-cm-pas--76fb1.jpg"
   },
   {
@@ -2906,22 +2915,23 @@
     "name": "LAVOS Katlanır Kesme Tahtası",
     "sku": 13975,
     "page": 113,
-    "price_value": 2194.25,
-    "price_display": "2.194,25 ₺",
+    "price_value": 2278.64,
+    "price_display": "₺2.278,64",
     "desc": "",
     "id": "2ea80b0b-38aa-4207-86d7-1b37be71ec20",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/lavos-katlanabilir-kesme-tahtasi-siyah-0c3-00.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/lavos-katlanabilir-kesme-tahtasi-siyah-0c3-00.jpg",
+    "price": 2278.64
   },
   {
     "brand": "GEFU",
     "name": "Kesme Tahtası – LEVORO (Küçük)",
     "sku": 13980,
     "page": 112,
-    "price_value": 1295.24,
-    "price_display": "",
+    "price_value": 1345.06,
+    "price_display": "₺1.345,06",
     "desc": "",
     "id": "0023ed87-9438-4fa6-bb41-47afb3703fc3",
-    "price": 1295.24,
+    "price": 1345.06,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/levoro-kucuy-boy-kesme-tahtasi-siyah-r-145568.jpg"
   },
   {
@@ -2929,11 +2939,11 @@
     "name": "Kesme Tahtası – LEVORO (Orta)",
     "sku": 13985,
     "page": 112,
-    "price_value": 1994.47,
-    "price_display": "",
+    "price_value": 2071.18,
+    "price_display": "₺2.071,18",
     "desc": "",
     "id": "5c2a7ed3-6e0a-44f1-bac6-579bc67f35d7",
-    "price": 1994.47,
+    "price": 2071.18,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/levoro-orta-boy-kesme-tahtasi-siyah-re-b15f-3.jpg"
   },
   {
@@ -2941,11 +2951,11 @@
     "name": "Kesme Tahtası – LEVORO (Büyük)",
     "sku": 13990,
     "page": 112,
-    "price_value": 2693.7,
-    "price_display": "",
+    "price_value": 2797.3,
+    "price_display": "₺2.797,30",
     "desc": "",
     "id": "5db31a23-a968-4e71-b6cc-40e2669d6681",
-    "price": 2693.7,
+    "price": 2797.3,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/levoro-buyuk-kesme-tahtasi-siyah-renk--42ac-b.jpg"
   },
   {
@@ -2953,22 +2963,23 @@
     "name": "Çözdürme ve Kesme Tahtası – CUT PRO",
     "sku": 13991,
     "page": 114,
-    "price_value": 2993.37,
-    "price_display": "2.993,37 ₺",
+    "price_value": 3108.5,
+    "price_display": "₺3.108,50",
     "desc": "",
     "id": "2413a1af-a132-46cb-9ea1-778fe8ec20fa",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/cut-pro-buz-cozme-ve-kesme-tahtasi-siy-ee9194.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/cut-pro-buz-cozme-ve-kesme-tahtasi-siy-ee9194.jpg",
+    "price": 3108.5
   },
   {
     "brand": "GEFU",
     "name": "FRUTI Nar Ayıklayıcı & Sıkıcı",
     "sku": 14480,
     "page": 171,
-    "price_value": 2194.25,
-    "price_display": "₺2.194,25",
+    "price_value": 2278.64,
+    "price_display": "₺2.278,64",
     "desc": "Nar tanelerini ayırır, üst kapakla su sıkar; 700 ml kap; kolay temizlik; plastik.",
     "id": "c5d67b29-efca-4ae2-9a04-e0a0a1f75cb2",
-    "price": 2194.25,
+    "price": 2278.64,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/fruti-nar-cekirdegi-cikarici-ve-sikaca-0a-d6b.jpg"
   },
   {
@@ -2976,11 +2987,12 @@
     "name": "Pizza Mezzaluna – DARIOSO",
     "sku": 14673,
     "page": 120,
-    "price_value": 1295.24,
-    "price_display": "1.295,24 ₺",
+    "price_value": 1345.06,
+    "price_display": "₺1.345,06",
     "desc": "",
     "id": "164c9418-419c-4667-a6f7-5242c7f0aed0",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/darioso-pizza-dograma-bicagi-35x10x25--5-d339.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/darioso-pizza-dograma-bicagi-35x10x25--5-d339.jpg",
+    "price": 1345.06
   },
   {
     "brand": "GEFU",
@@ -2998,11 +3010,11 @@
     "name": "Boil‑over protection – BOLLA",
     "sku": 14763,
     "page": 157,
-    "price_value": 1994.47,
-    "price_display": "₺1.994,47",
+    "price_value": 2071.18,
+    "price_display": "₺2.071,18",
     "desc": "Anti‑taşma kapak; sıçrayan köpüğü yakalayıp tencereye yönlendirir; kızartma tavaları ve mikrodalgada ısıtma için uygun; mikrodalga ve fırında kullanılabilir; 230 °C’ye kadar dayanıklı; Ø 31 cm, H 3 cm; silikon.",
     "id": "beb38695-3b06-4f09-b93d-b8df5b810b7b",
-    "price": 1994.47,
+    "price": 2071.18,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/bolla-silikon-asiri-kaynama-korumasi19--478e-.jpg"
   },
   {
@@ -3020,11 +3032,11 @@
     "name": "PASSO Süzgeç",
     "sku": 15502,
     "page": 149,
-    "price_value": 2194.25,
-    "price_display": "₺2.194,25",
+    "price_value": 2278.64,
+    "price_display": "₺2.278,64",
     "desc": "Profesyonel kalite, özel güçlendirilmiş tel örgü; askı halkalı; yüksek kaliteli paslanmaz çelik; ölçüler: Ø 16 cm, L 34,4 cm, H 6,5 cm.",
     "id": "7cbcb0fd-45cf-4e25-83da-4beadcb33020",
-    "price": 2194.25,
+    "price": 2278.64,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/passo-elek-16-cm-yuksek-kaliteli-pasla-63-083.jpg"
   },
   {
@@ -3032,11 +3044,11 @@
     "name": "PASSO Süzgeç",
     "sku": 15503,
     "page": 149,
-    "price_value": 2693.7,
-    "price_display": "₺2.693,70",
+    "price_value": 2797.3,
+    "price_display": "₺2.797,30",
     "desc": "Profesyonel kalite, özel güçlendirilmiş tel örgü; askı halkalı; yüksek kaliteli paslanmaz çelik; ölçüler: Ø 19 cm, L 40,3 cm, W 19 cm, H 7,4 cm.",
     "id": "9273ddeb-276e-4d0f-9894-601b4099dfff",
-    "price": 2693.7,
+    "price": 2797.3,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/passo-elek-19-cm-yuksek-kaliteli-pasla--48ee-.jpg"
   },
   {
@@ -3044,11 +3056,11 @@
     "name": "PASSO Süzgeç",
     "sku": 15504,
     "page": 149,
-    "price_value": 3293.04,
-    "price_display": "₺3.293,04",
+    "price_value": 3419.69,
+    "price_display": "₺3.419,69",
     "desc": "Profesyonel kalite, özel güçlendirilmiş tel örgü; askı halkalı; yüksek kaliteli paslanmaz çelik; ölçüler: Ø 23 cm, L 45 cm, W 23 cm, H 9 cm.",
     "id": "9322b3b7-6654-4ec2-91b4-a9372dae6c76",
-    "price": 3293.04,
+    "price": 3419.69,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/passo-elek-23-cm-yuksek-kaliteli-pasla-bf0-b0.jpg"
   },
   {
@@ -3056,11 +3068,11 @@
     "name": "VERSARE Mini Huni Seti, 3 Parça",
     "sku": "15511",
     "page": "148",
-    "price_value": 1495.02,
-    "price_display": "₺1.495,02",
+    "price_value": 1552.52,
+    "price_display": "₺1.552,52",
     "desc": "Küçük ve dar kavanoz/şişe ve kapları yağ, sirke, ev yapımı esanslar ve likörlerle düzenli şekilde doldurmak için pratik mini huni seti. Üç farklı boy: her amaç için uygun.",
     "id": "59e6a42f-0b9d-4e4c-beb8-ea4b6c36fa1c",
-    "price": 1495.02,
+    "price": 1552.52,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/versare-mini-huni-seti-3-parca-yuksek--8c57-4.jpg"
   },
   {
@@ -3079,11 +3091,11 @@
     "name": "SPENSO Kağıt Havlu Tutucu",
     "sku": 15700,
     "page": 170,
-    "price_value": 3492.82,
-    "price_display": "₺3.492,82",
+    "price_value": 3627.16,
+    "price_display": "₺3.627,16",
     "desc": "Tek elle kullanım; ağır taban; ruloyu sabitleyen yaylı kol; paslanmaz çelik.",
     "id": "3cd1fa55-b532-44e2-a0b0-561c8b7d4ad9",
-    "price": 3492.82,
+    "price": 3627.16,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/spenso-mutfak-rulo-tutucusu-paslanmaz--52ce06.jpg"
   },
   {
@@ -3091,11 +3103,11 @@
     "name": "Mutfak kağıdı tutucu (SMARTLINE)",
     "sku": 15702,
     "page": 162,
-    "price_value": 4491.72,
-    "price_display": "₺4.491,72",
+    "price_value": 4664.48,
+    "price_display": "₺4.664,48",
     "desc": "Linear tasarım; tek elle kolay koparma ve sarma • Ağırlıklı iç yapı sayesinde devrilmez, kaymaz • Kapak ve tabanın içbükey formu istenmeyen sarımı önler • Mutfak rulosu dahildir; Ø 12,5 cm’e kadar rulolarla uyumlu • Ölçüler: Ø 14,5 cm, H 34 cm • Malzeme: paslanmaz çelik / plastik",
     "id": "00f47cd1-7ef3-4239-a6e2-0c5e8e1e29c9",
-    "price": 4491.72,
+    "price": 4664.48,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/smartline-mutfak-rulo-tutucusu-cap125--b6c7-4.jpg"
   },
   {
@@ -3103,11 +3115,11 @@
     "name": "CURVE Kağıt Havlu Tutucu",
     "sku": 15703,
     "page": 169,
-    "price_value": 2693.7,
-    "price_display": "₺2.693,70",
+    "price_value": 2797.3,
+    "price_display": "₺2.797,30",
     "desc": "Mat siyah, tek elle koparma; ağır taban ve kendiliğinden kavrama. Ölçüler: Ø 16,5 cm, H 30 cm. Malzeme: toz boyalı çelik sac / paslanmaz çelik.",
     "id": "7eabd366-cbab-4d92-aabc-a217cbad0fe4",
-    "price": 2693.7,
+    "price": 2797.3,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/curve-mutfak-rulo-tutucusu-cap13-cm-pa-636-42.jpg"
   },
   {
@@ -3115,11 +3127,11 @@
     "name": "BUTLER Kağıt Havlu Tutucu",
     "sku": 15710,
     "page": 170,
-    "price_value": 2194.25,
-    "price_display": "₺2.194,25",
+    "price_value": 2278.64,
+    "price_display": "₺2.278,64",
     "desc": "Duvara/dolap altına sabitlenebilir; tek elle koparma kenarı; paslanmaz çelik gövde.",
     "id": "6a413a5d-c78b-4796-9b1c-d77c33e71f2d",
-    "price": 2194.25,
+    "price": 2278.64,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/butler-mutfak-rulo-tutucusu-paslanmaz--341372.jpg"
   },
   {
@@ -3127,11 +3139,11 @@
     "name": "Fermenting jar – NATIVO 500 ml",
     "sku": 15809,
     "page": 150,
-    "price_value": 1994.47,
-    "price_display": "₺1.994,47",
+    "price_value": 2071.18,
+    "price_display": "₺2.071,18",
     "desc": "Ferment Vent System kapak; valf açıkken fermantasyon, kapalıyken kokusuz saklama; kolay doldurma; borosilikat cam kavanoz; dolu hacim 500 ml; Ø 12 cm, H 12 cm; malzeme: cam / plastik.",
     "id": "c4eb7f1e-d7b8-4161-9479-7962f5adb399",
-    "price": 1994.47,
+    "price": 2071.18,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nativo-fermantasyon-kavanozu-05-l-0ab259.jpg"
   },
   {
@@ -3139,11 +3151,11 @@
     "name": "Fermenting jar – NATIVO 1.000 ml",
     "sku": 15810,
     "page": 150,
-    "price_value": 2493.92,
-    "price_display": "₺2.493,92",
+    "price_value": 2589.84,
+    "price_display": "₺2.589,84",
     "desc": "Fermentasyon kavanozu; valfli kapak; borosilikat cam; dolu hacim 1.000 ml; Ø 12 cm, H 17,5 cm; malzeme: cam / plastik.",
     "id": "1f6dbbe0-0ec5-4664-b48e-f3e86e48c6b8",
-    "price": 2493.92,
+    "price": 2589.84,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nativo-fermantasyon-kavanozu-1-l-eb83cb.jpg"
   },
   {
@@ -3151,11 +3163,11 @@
     "name": "Karaf (SMARTLINE)",
     "sku": 16500,
     "page": 163,
-    "price_value": 2493.92,
-    "price_display": "₺2.493,92",
+    "price_value": 2589.84,
+    "price_display": "₺2.589,84",
     "desc": "Isıya ve soğuğa dayanıklı, el yapımı borosilikat camdan tasarım karaf • Aroma geçirmez kapağıyla buzdolabı kapı rafına sığar • Şekilli, ergonomik tasarım • El üflenmesi, ısıya dayanıklı borosilikat cam • Standart buzdolabı kapı gözüne uyumlu • Silikon contalı kapak; toz ve böceklere karşı korur • Hacim: 1 L • Ölçüler: Ø 9,2 cm, H 31,3 cm • Malzeme: borosilikat cam / plastik",
     "id": "33bdad96-7172-4035-a8d9-c1afbf707e5e",
-    "price": 2493.92,
+    "price": 2589.84,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/smartline-zarif-ergonomik-tasarim-sura-d-4791.jpg"
   },
   {
@@ -3163,11 +3175,11 @@
     "name": "Karaf ve şişe soğutucu (SMARTLINE)",
     "sku": 16510,
     "page": 163,
-    "price_value": 3293.04,
-    "price_display": "₺3.293,04",
+    "price_value": 3419.69,
+    "price_display": "₺3.419,69",
     "desc": "Mat siyah görünüm, çıkarılabilir soğutma paketiyle şık soğutucu • Paketi dondurup gövdeye yerleştirin; içecekleri masada yaklaşık iki saat ferah serin tutar • İçecekleri ~2 saate kadar serin tutar • Çift duvarlı yapı; termal etki • Silikon halka ile kaymaz taban • Maks. Ø 9,5 cm standart şişe/karaflarla uyumlu • Çıkarılabilir soğutma paketi dâhil • Ölçüler: Ø 12,6 cm, H 15,7 cm • Malzeme: paslanmaz çelik / plastik",
     "id": "5dc8530d-80b8-475c-b1da-b88718fbce7a",
-    "price": 3293.04,
+    "price": 3419.69,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/smartline-surahi-ve-sise-sogutucusu-11-66-43d.jpg"
   },
   {
@@ -3185,11 +3197,11 @@
     "name": "Strainer COLINO",
     "sku": "28130",
     "page": "GEFU",
-    "price_value": 3992.27,
-    "price_display": "₺3.992,27",
+    "price_value": 4145.82,
+    "price_display": "₺4.145,82",
     "desc": "Taban ve yan yüzlerdeki delikleri sayesinde makarna, sebze ve salataları kusursuz süzer. Taban + yan delikler ile optimal süzme. Büyük, konforlu yüzey ve 3 ayak. Kapasite: 4 l. Ölçüler: Ø 24 cm, H 14 cm.",
     "id": "25373d56-cf97-49b7-93fa-ee70ca05eb0e",
-    "price": 3992.27,
+    "price": 4145.82,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/colino-kevgir-24-cm-yuksek-kaliteli-pa-5e7c56.jpg"
   },
   {
@@ -3197,11 +3209,11 @@
     "name": "Strainer PREMIO",
     "sku": 28131,
     "page": 156,
-    "price_value": 2993.37,
-    "price_display": "₺2.993,37",
+    "price_value": 3108.5,
+    "price_display": "₺3.108,50",
     "desc": "Paslanmaz çelik süzgeç; Ø 25 cm, W 26.5 cm, H 9.5 cm; geniş taban; hızlı süzme için delikler; ergonomik kulplar.",
     "id": "5291a043-21cf-4858-a05c-8ffadadd06e0",
-    "price": 2993.37,
+    "price": 3108.5,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/premio-kevgir-23-cm-yuksek-kaliteli-pa-a-e143.jpg"
   },
   {
@@ -3209,11 +3221,11 @@
     "name": "Strainer PREMIO",
     "sku": 28132,
     "page": 156,
-    "price_value": 3692.6,
-    "price_display": "₺3.692,60",
+    "price_value": 3834.62,
+    "price_display": "₺3.834,62",
     "desc": "Paslanmaz çelik süzgeç; Ø 27 cm, W 31 cm, H 10 cm; geniş taban; hızlı süzme; ergonomik kulplar.",
     "id": "69525eb8-98ae-4e68-97cf-30a146e2b1e7",
-    "price": 3692.6,
+    "price": 3834.62,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/premio-kevgir-27-cm-yuksek-kaliteli-pa-d4b025.jpg"
   },
   {
@@ -3221,11 +3233,11 @@
     "name": "Stainless steel bowl PREMIO",
     "sku": 28133,
     "page": 155,
-    "price_value": 2493.92,
-    "price_display": "₺2.493,92",
+    "price_value": 2589.84,
+    "price_display": "₺2.589,84",
     "desc": "Dolu hacim 1.5 l; ölçüler: Ø 23 cm, W 25.5 cm, H 9.5 cm; pratik kulplu el oyalığı, ergonomik kulplar; yüksek kaliteli paslanmaz çelik.",
     "id": "7565098f-8130-4de0-9187-6166a742f82d",
-    "price": 2493.92,
+    "price": 2589.84,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/premio-paslanmaz-celik-kase-23-cm-15-l-e2bd7b.jpg"
   },
   {
@@ -3233,11 +3245,11 @@
     "name": "Stainless steel bowl – PREMIO 27 cm (2.4 l)",
     "sku": 28134,
     "page": 155,
-    "price_value": 2993.37,
-    "price_display": "₺2.993,37",
+    "price_value": 3108.5,
+    "price_display": "₺3.108,50",
     "desc": "Paslanmaz çelik kase • Hacim: 2,4 l • Ölçüler: Ø 27 cm, L 31 cm, W 27 cm, H 10,5 cm • Uyum: PREMIO süzgeç Ø 27 cm.",
     "id": "06efb0c9-754b-4b4e-947d-c510be4839ab",
-    "price": 2993.37,
+    "price": 3108.5,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/premio-paslanmaz-celik-kase-27-cm-24-l-d7d088.jpg"
   },
   {
@@ -3245,11 +3257,11 @@
     "name": "Salad spinner – SPEEDWING",
     "sku": 28150,
     "page": 154,
-    "price_value": 5990.07,
-    "price_display": "₺5.990,07",
+    "price_value": 6220.45,
+    "price_display": "₺6.220,45",
     "desc": "Kablo çekmeli mekanizma; yön değiştirmeden nazik döndürme; otomatik ip sarma; tekrarlayan çekişlerle yüksek hız; stop düğmesi; kapaktan dökme ağzı; kapasite 5 l; Ø 27 cm, H 15 cm; paslanmaz çelik/kasa plastik.",
     "id": "472764d4-a4ae-4424-8d1f-a941e219e72e",
-    "price": 5990.07,
+    "price": 6220.45,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/speedwing-salata-kurutucusu-5-l-855c8e.jpg"
   },
   {
@@ -3257,11 +3269,11 @@
     "name": "Salad spinner – SPEEDWING",
     "sku": 28160,
     "page": 153,
-    "price_value": 9985.66,
-    "price_display": "₺9.985,66",
+    "price_value": 10369.73,
+    "price_display": "₺10.369,73",
     "desc": "Kablo çekme mekanizmasıyla nazik döndürme; mekanizma otomatik sarar; tekrarlayan çekişlerle yüksek hıza ulaşır; stop düğmesi; kapakta entegre dökme ağzı; zarif paslanmaz çelik servis kasesi; çıkarılabilir tahrik disk; kapasite: 5 l; ölçüler: Ø 27 cm, H 14,5 cm; malzeme: yüksek kaliteli paslanmaz çelik / plastik; kase, süzgeç ve tahrik disk bulaşık makinesinde yıkanabilir.",
     "id": "a6a27510-6bcc-445a-bdbf-82b82cc57f20",
-    "price": 9985.66,
+    "price": 10369.73,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/speedwing-salata-kurutucusu-paslanmaz--ab47-4.jpg"
   },
   {
@@ -3269,11 +3281,11 @@
     "name": "Salad spinner ROTARE (plastik kase)",
     "sku": 28170,
     "page": 154,
-    "price_value": 2993.37,
-    "price_display": "₺2.993,37",
+    "price_value": 3108.5,
+    "price_display": "₺3.108,50",
     "desc": "Kol çevirmeli mekanizma; kapaktan dökme ağzı; 3 parça: süzgeç, kap, kapak; kapasite 3,1 l; ölçüler: Ø 25 cm, H 17 cm; malzeme plastik.",
     "id": "450d1af3-691a-48c2-a726-a2de96d8fe4b",
-    "price": 2993.37,
+    "price": 3108.5,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/rotare-plastik-salata-kurutucusu-3-l-eb974a.jpg"
   },
   {
@@ -3281,11 +3293,11 @@
     "name": "Salad spinner ROTARE (paslanmaz çelik kase)",
     "sku": 28180,
     "page": 154,
-    "price_value": 4991.17,
-    "price_display": "₺4.991,17",
+    "price_value": 5183.13,
+    "price_display": "₺5.183,13",
     "desc": "Paslanmaz çelik kase / süzgeç / kapak • 3 parçalı set • Ölçüler: Ø 25 cm, H 17 cm • Koldan çevirmeli tahrik, entegre dökme ağzı; verimli kurutma.",
     "id": "4aa20292-4151-4103-8d6e-99586bc7b08c",
-    "price": 4991.17,
+    "price": 5183.13,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/rotare-salata-kurutucusu-paslanmaz-cel-29e874.jpg"
   },
   {
@@ -3293,11 +3305,11 @@
     "name": "Silikon çevirici/spatula – PRIMELINE",
     "sku": 29202,
     "page": 159,
-    "price_value": 2294.14,
-    "price_display": "₺2.294,14",
+    "price_value": 2382.37,
+    "price_display": "₺2.382,37",
     "desc": "Esnek, sıçramayı önleyen delikli çevirici; kaplamalı tavalara uygun; 250 °C ısıya dayanım; ölçüler: L 35.1 cm, W 9.8 cm.",
     "id": "7d0610b8-1ff3-411e-bd37-653e07e5fef6",
-    "price": 2294.14,
+    "price": 2382.37,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-spatula-silikon-31-cm-paslan-73c-20.jpg"
   },
   {
@@ -3305,11 +3317,11 @@
     "name": "Spatula – PRIMELINE",
     "sku": 29203,
     "page": 158,
-    "price_value": 2693.7,
-    "price_display": "₺2.693,70",
+    "price_value": 2797.3,
+    "price_display": "₺2.797,30",
     "desc": "Düz çevirme yüzeyi; ölçüler: L 36.3 cm, W 7.4 cm; paslanmaz çelik/plastik; askı halkalı, ergonomik sap.",
     "id": "895c6f70-9e4a-414f-8653-0771f42cefa4",
-    "price": 2693.7,
+    "price": 2797.3,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-spatula-paslanmaz-celik-75x2-2fe-a7.jpg"
   },
   {
@@ -3317,11 +3329,11 @@
     "name": "Çırpıcı – 10 telli (PRIMELINE)",
     "sku": 29205,
     "page": 160,
-    "price_value": 1495.02,
-    "price_display": "₺1.495,02",
+    "price_value": 1552.52,
+    "price_display": "₺1.552,52",
     "desc": "Formunu koruyan, halka telli yapı (10 tel); ölçüler: L 22 cm, W 4 cm.",
     "id": "216b34c2-cc1a-4fa6-9e81-cb9e538486e7",
-    "price": 1495.02,
+    "price": 1552.52,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-cirpma-teli-22-cm-paslanmaz--f2047b.jpg"
   },
   {
@@ -3329,11 +3341,11 @@
     "name": "Çırpıcı – 14 telli M (PRIMELINE)",
     "sku": 29206,
     "page": 160,
-    "price_value": 1894.58,
-    "price_display": "₺1.894,58",
+    "price_value": 1967.45,
+    "price_display": "₺1.967,45",
     "desc": "Formunu koruyan, halka telli yapı (14 tel); ölçüler: L 28 cm, W 6,2 cm.",
     "id": "848a9923-1bfe-4075-a114-94c35a2debfc",
-    "price": 1894.58,
+    "price": 1967.45,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-cirpma-teli-28-cm-paslanmaz--9e9-45.jpg"
   },
   {
@@ -3341,11 +3353,11 @@
     "name": "Çırpıcı – 14 telli L (PRIMELINE)",
     "sku": 29207,
     "page": 160,
-    "price_value": 1994.47,
-    "price_display": "₺1.994,47",
+    "price_value": 2071.18,
+    "price_display": "₺2.071,18",
     "desc": "Formunu koruyan, halka telli yapı (14 tel); ölçüler: L 31,5 cm, W 7,5 cm.",
     "id": "163922dd-341e-432e-961a-b8d57cd9733d",
-    "price": 1994.47,
+    "price": 2071.18,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-cirpma-teli-315-cm-paslanmaz-9-ace6.jpg"
   },
   {
@@ -3353,11 +3365,11 @@
     "name": "Spiral çırpıcı (PRIMELINE)",
     "sku": 29208,
     "page": 160,
-    "price_value": 1894.58,
-    "price_display": "₺1.894,58",
+    "price_value": 1967.45,
+    "price_display": "₺1.967,45",
     "desc": "Formunu koruyan yaylı/halka tel yapısı; ölçüler: L 31,5 cm, W 8,5 cm.",
     "id": "9ddb6a31-e65f-48b3-a27d-494c52cfba47",
-    "price": 1894.58,
+    "price": 1967.45,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-spiral-supurge-318-cm-paslan-26c6fa.jpg"
   },
   {
@@ -3365,11 +3377,11 @@
     "name": "Sos Kepçesi – PRIMELINE",
     "sku": 29209,
     "page": 158,
-    "price_value": 2493.92,
-    "price_display": "₺2.493,92",
+    "price_value": 2589.84,
+    "price_display": "₺2.589,84",
     "desc": "Hacim 250 ml; dökme ağzı; ölçüler: L 30.7 cm, W 7.5 cm; paslanmaz çelik/plastik.",
     "id": "a52c2bd9-bf48-451b-856c-150d86cc7cd2",
-    "price": 2493.92,
+    "price": 2589.84,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-sos-kepcesi-paslanmaz-celik--c8058-.jpg"
   },
   {
@@ -3377,11 +3389,11 @@
     "name": "Delikli Kepçe – PRIMELINE",
     "sku": 29210,
     "page": 158,
-    "price_value": 2693.7,
-    "price_display": "₺2.693,70",
+    "price_value": 2797.3,
+    "price_display": "₺2.797,30",
     "desc": "Geniş delikli süzme yüzeyi; ölçüler: L 31 cm, Ø 14 cm; paslanmaz çelik/plastik.",
     "id": "87c355f5-dbc4-4045-aaf0-dc59e2d40163",
-    "price": 2693.7,
+    "price": 2797.3,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-oluklu-kasik-paslanmaz-celik-cf600d.jpg"
   },
   {
@@ -3389,11 +3401,11 @@
     "name": "Kepçe – PRIMELINE",
     "sku": 29211,
     "page": 158,
-    "price_value": 2593.81,
-    "price_display": "₺2.593,81",
+    "price_value": 2693.57,
+    "price_display": "₺2.693,57",
     "desc": "Hacim 100 ml; ölçüler: L 33.5 cm, W 10 cm; paslanmaz çelik/plastik; askı halkalı, ergonomik sap.",
     "id": "56c0f7fd-7a8e-4e71-bb03-b9030f43c360",
-    "price": 2593.81,
+    "price": 2693.57,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-kepce-paslanmaz-celik-9x68x3-1212ae.jpg"
   },
   {
@@ -3401,11 +3413,11 @@
     "name": "Naylon kepçe – PRIMELINE",
     "sku": 29212,
     "page": 159,
-    "price_value": 1994.47,
-    "price_display": "₺1.994,47",
+    "price_value": 2071.18,
+    "price_display": "₺2.071,18",
     "desc": "Tencere/tavalar için uygun; 210 °C ısıya dayanım; hacim 100 ml; ölçüler: L 31.5 cm, W 5.4 cm, H 3.5 cm.",
     "id": "57fa7b88-46df-401d-80d2-3a5f229e219b",
-    "price": 1994.47,
+    "price": 2071.18,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-kepce-335-cm-paslanmaz-celik-df-c39.jpg"
   },
   {
@@ -3413,11 +3425,11 @@
     "name": "Yemek kaşığı – PRIMELINE",
     "sku": 29213,
     "page": 159,
-    "price_value": 1794.69,
-    "price_display": "₺1.794,69",
+    "price_value": 1863.72,
+    "price_display": "₺1.863,72",
     "desc": "Kaplamalı tencere/tavalara uygun; 210 °C ısıya dayanım; ölçüler: L 34 cm, W 6 cm.",
     "id": "b832217a-7ebf-41bf-8f0d-90286975436c",
-    "price": 1794.69,
+    "price": 1863.72,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-yemek-kasigi-333-cm-paslanma-b6-93e.jpg"
   },
   {
@@ -3425,11 +3437,11 @@
     "name": "Silikon spatula (PRIMELINE)",
     "sku": 29214,
     "page": 160,
-    "price_value": 1994.47,
-    "price_display": "₺1.994,47",
+    "price_value": 2071.18,
+    "price_display": "₺2.071,18",
     "desc": "Formunu koruyan esnek başlık; 250°C ısı dayanımı; ölçüler: L 31,5 cm, W 8,5 cm.",
     "id": "28506d28-e46b-42d6-9795-964c1e01f83c",
-    "price": 1994.47,
+    "price": 2071.18,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-hamur-kaziyici-286-cm-paslan-22b95e.jpg"
   },
   {
@@ -3437,11 +3449,11 @@
     "name": "Şişe açacağı (PRIMELINE)",
     "sku": 29219,
     "page": 161,
-    "price_value": 1495.02,
-    "price_display": "₺1.495,02",
+    "price_value": 1552.52,
+    "price_display": "₺1.552,52",
     "desc": "Tüm taç kapaklar için uygun; ölçüler: L 17,5 cm, W 4 cm.",
     "id": "85d15fc1-4294-440d-a4c9-9ac39b21d378",
-    "price": 1495.02,
+    "price": 1552.52,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-sise-acacagi-172-cm-paslanma-4ff-90.jpg"
   },
   {
@@ -3449,11 +3461,11 @@
     "name": "Naylon çırpıcı (PRIMELINE)",
     "sku": 29232,
     "page": 160,
-    "price_value": 1794.69,
-    "price_display": "₺1.794,69",
+    "price_value": 1863.72,
+    "price_display": "₺1.863,72",
     "desc": "Kaplamalı tencere/tavalara uygun; 210°C ısı dayanımı; ölçüler: L 25 cm, W 6,5 cm.",
     "id": "bc61d6b3-0cea-4242-b69c-7f57f4658284",
-    "price": 1794.69,
+    "price": 1863.72,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-cirpma-teli-295-cm-paslanmaz--bebd-.jpg"
   },
   {
@@ -3461,11 +3473,11 @@
     "name": "Izgara spatulası – PRIMELINE",
     "sku": 29233,
     "page": 159,
-    "price_value": 2394.03,
-    "price_display": "₺2.394,03",
+    "price_value": 2486.11,
+    "price_display": "₺2.486,11",
     "desc": "Pratik ızgara/plancha spatulası; kenarlı; ölçüler: L 29.5 cm, W 12.5 cm, H 6.2 cm.",
     "id": "8a97db12-8694-462f-9abf-3bd73fa49507",
-    "price": 2394.03,
+    "price": 2486.11,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-sandvic-paleti-325-cm-paslan-f-8cbb.jpg"
   },
   {
@@ -3473,11 +3485,11 @@
     "name": "Bilyalı çırpıcı (PRIMELINE)",
     "sku": 29239,
     "page": 160,
-    "price_value": 2493.32,
-    "price_display": "₺2.493,32",
+    "price_value": 2589.84,
+    "price_display": "₺2.589,84",
     "desc": "Kaplamalı tencere/tavalara uygun; 210°C ısı dayanımı; ölçüler: L 32,5 cm, W 6,2 cm.",
     "id": "d74acff9-2a57-4600-bf58-d919f7e2a0e7",
-    "price": 2493.32,
+    "price": 2589.84,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-bilyali-cirpma-teli-325-cm-p--8a98-.jpg"
   },
   {
@@ -3485,11 +3497,11 @@
     "name": "Açılı krema spatulası – PRIMELINE",
     "sku": 29244,
     "page": 159,
-    "price_value": 1894.58,
-    "price_display": "₺1.894,58",
+    "price_value": 1967.45,
+    "price_display": "₺1.967,45",
     "desc": "Hamur ve kremaları düzeltmek/örmek için ideal; esnek kullanım; çalışma alanı 21 cm; ölçüler: L 38.7 cm, W 4.5 cm, H 1.8 cm.",
     "id": "7a63c4c8-c199-4cf1-9936-dbeabf5e7c26",
-    "price": 1894.58,
+    "price": 1967.45,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-acili-buzlanma-spatulasi-21--4ae3-4.jpg"
   },
   {
@@ -3497,11 +3509,11 @@
     "name": "Tırtıklı pasta servis spatulası – PRIMELINE",
     "sku": 29245,
     "page": 159,
-    "price_value": 2194.25,
-    "price_display": "₺2.194,25",
+    "price_value": 2278.64,
+    "price_display": "₺2.278,64",
     "desc": "2‑in‑1: hassas kesme ve zahmetsiz servis; tırtıklı bıçak kenarı; ölçüler: L 38.7 cm, W 4.5 cm, H 1.8 cm.",
     "id": "daf2e012-c5fc-4bad-a750-e7908f58b4d3",
-    "price": 2194.25,
+    "price": 2278.64,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/primeline-tirtikli-bicakli-pasta-servi-18f468.jpg"
   },
   {
@@ -3509,11 +3521,11 @@
     "name": "Mutfak askı rayı (SMARTLINE)",
     "sku": 29250,
     "page": 161,
-    "price_value": 3293.04,
-    "price_display": "₺3.293,04",
+    "price_value": 3419.69,
+    "price_display": "₺3.419,69",
     "desc": "Montaj seti dahil; modüler/uzatılabilir yapı; BASELINE ve PRIMELINE ile uyumlu; ölçüler: L 50 cm, W 3,2 cm, H 3,5 cm; malzeme: paslanmaz çelik / plastik.",
     "id": "57c22e9d-8fd5-4d58-b43e-31d2d01b55de",
-    "price": 3293.04,
+    "price": 3419.69,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/smartline-mutfak-seridi-50-cm-paslanma-971e9a.jpg"
   },
   {
@@ -3521,11 +3533,11 @@
     "name": "Mutfak gereç standı (SMARTLINE)",
     "sku": 29252,
     "page": 161,
-    "price_value": 3492.82,
-    "price_display": "₺3.492,82",
+    "price_value": 3627.16,
+    "price_display": "₺3.627,16",
     "desc": "10 bölmeli düzen; çıkarılabilir iç bölücü; ağırlık tabanı ve kaymaz ayaklar; ölçüler: L 22 cm, W 10,2 cm, H 14,2 cm; malzeme: paslanmaz çelik / plastik.",
     "id": "80a11231-e650-4063-b3e3-1b29447a26ae",
-    "price": 3492.82,
+    "price": 3627.16,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/smartline-10-bolmeli-mutfak-gerecleri--924-ba.jpg"
   },
   {
@@ -3533,11 +3545,11 @@
     "name": "Lavabo düzenleyici – SMARTLINE",
     "sku": 29254,
     "page": 167,
-    "price_value": 2993.37,
-    "price_display": "₺2.993,37",
+    "price_value": 3108.5,
+    "price_display": "₺3.108,50",
     "desc": "Lavabo düzenleyici; havalandırmalı kurutma, çıkarılabilir damlama tepsisi, bez askı çubuğu ve kaymaz ayaklar. Ölçüler: L 24 cm, W 10 cm, H 13 cm. Malzeme: paslanmaz çelik / plastik.",
     "id": "aa1e9240-d3b4-461c-8a34-a6366414be32",
-    "price": 2993.37,
+    "price": 3108.5,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/smartline-lavabo-duzenleyici-paslanmaz-c7-ace.jpg"
   },
   {
@@ -3545,11 +3557,11 @@
     "name": "SWIFT Deterjan Hazneli Bulaşık Fırçası",
     "sku": 29255,
     "page": 168,
-    "price_value": 998.9,
-    "price_display": "₺998,90",
+    "price_value": 1037.32,
+    "price_display": "₺1.037,32",
     "desc": "Basılarak deterjan veren hazneli fırça (50 ml). Ölçüler: Ø 6 cm, H 9,9 cm. Malzeme: plastik / paslanmaz çelik; ergonomik tutuş.",
     "id": "d46f1a57-5a29-4e8c-b44f-413d31dead63",
-    "price": 998.9,
+    "price": 1037.32,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/deterjan-dagiticili-bulasik-yikama-fir-18f21e.jpg"
   },
   {
@@ -3557,11 +3569,11 @@
     "name": "SWIFT Dozajlı Sabunluk",
     "sku": 29256,
     "page": 168,
-    "price_value": 2493.92,
-    "price_display": "₺2.493,92",
+    "price_value": 2589.84,
+    "price_display": "₺2.589,84",
     "desc": "230 ml sabun/dezenfektan dağıtıcı; SMARTLINE lavabo düzenleyiciyle uyumlu. Ölçüler: L 5,6 cm, W 7,3 cm, H 18,4 cm. Malzeme: paslanmaz çelik / plastik.",
     "id": "3bea22f5-acae-4a0a-8822-4f9c6b610c69",
-    "price": 2493.92,
+    "price": 2589.84,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/swift-dispenseri-230-ml-paslanmaz-celi-9421-7.jpg"
   },
   {
@@ -3569,11 +3581,11 @@
     "name": "SWIFT Bulaşık Fırçası",
     "sku": 29258,
     "page": 168,
-    "price_value": 998.9,
-    "price_display": "₺998,90",
+    "price_value": 1037.32,
+    "price_display": "₺1.037,32",
     "desc": "Zorlu kirler için ergonomik saplı fırça; yumuşak tutuşlu sap. Ölçüler: L 26,5 cm, W 4,2 cm, H 4 cm. Malzeme: plastik / naylon kıllar.",
     "id": "a0263cc5-cb42-48b5-baaf-4151cd5f8b58",
-    "price": 998.9,
+    "price": 1037.32,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/swift-plastik-bulasik-fircasi-siyah-re-1ca8e7.jpg"
   },
   {
@@ -3581,11 +3593,11 @@
     "name": "Bulaşıklık (damlalıklı) – SMARTLINE",
     "sku": 29262,
     "page": 164,
-    "price_value": 4991.17,
-    "price_display": "₺4.991,17",
+    "price_value": 5183.13,
+    "price_display": "₺5.183,13",
     "desc": "Ayarlanabilir bulaşıklık: tabak, bardak ve çatal–bıçakları verimli kurutur; kompakt/ geniş mutfaklar ve kamp/tekne kullanımı için esnek. Eksen uzar: L 30 × W 36 cm’den L 51 × W 36 cm’ye; tabaklar için paslanmaz çelik ek parça ve çatal–bıçak sepeti; eğimli taban; yıkanabilir kanallar; lavaboya doğrudan boşaltma çıkışı; kaymaz ayaklar. Ölçüler: L 36 cm, W 30,5 cm, H 18 cm. Malzeme: plastik / paslanmaz çelik.",
     "id": "99739c54-0731-48fa-9fe4-2ead51f936e0",
-    "price": 4991.17,
+    "price": 5183.13,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/smartline-siyah-bulasiklik-plastikpasl-bc5-0f.jpg"
   },
   {
@@ -3593,11 +3605,11 @@
     "name": "Lavabo süzgeci – DRENARE",
     "sku": 29263,
     "page": 164,
-    "price_value": 1295.24,
-    "price_display": "₺1.295,24",
+    "price_value": 1345.06,
+    "price_display": "₺1.345,06",
     "desc": "Ayarlanabilir lavabo süzgeci; makarna süzme, meyve–sebze yıkama ve bulaşık süzdürme için. Ayarlanabilir genişlik: 34–47 cm; dökme kenarı ve süzme delikleri; 100 °C/212 °F ısıya dayanım; pratik asma halkası. Ölçüler: L 34,5 cm, W 20 cm, H 6,5 cm. Malzeme: plastik.",
     "id": "e0d7dcb2-0705-422c-a0f1-89d22d117ad8",
-    "price": 1295.24,
+    "price": 1345.06,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/drenare-siyah-lavabo-suzgeci-34-ile-47-9f7d18.jpg"
   },
   {
@@ -3605,11 +3617,11 @@
     "name": "Tuz & Karabiberlik Seti BRUNCH",
     "sku": 33630,
     "page": 173,
-    "price_value": 2394.03,
-    "price_display": "₺2.394,03",
+    "price_value": 2486.11,
+    "price_display": "₺2.486,11",
     "desc": "Paslanmaz çelik tepsi üzerinde tuz ve karabiberlik. Ölçüler: L 10,2 cm × W 7,9 cm × H 7 cm. Malzeme: paslanmaz çelik / cam / plastik.",
     "id": "15912ff6-e8e9-48f0-9215-ce092038af0c",
-    "price": 2394.03,
+    "price": 2486.11,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/brunch-tuzluk-ve-biberlik-seti-yuksek--e97a0b.jpg"
   },
   {
@@ -3617,11 +3629,11 @@
     "name": "Tuz / Karabiberlik BRUNCH (tekli)",
     "sku": 33631,
     "page": 173,
-    "price_value": 1095.46,
-    "price_display": "₺1.095,46",
+    "price_value": 1137.59,
+    "price_display": "₺1.137,59",
     "desc": "Tekli baharatlık. Ölçüler: Ø 3,5 cm × H 6,5 cm. Malzeme: cam / paslanmaz çelik.",
     "id": "ded73cfc-bd11-455b-8a80-c78193ae36e2",
-    "price": 1095.46,
+    "price": 1137.59,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/brunch-tuzbiberlik-paslanmaz-celik--02e7-.jpg"
   },
   {
@@ -3629,11 +3641,11 @@
     "name": "Yumurta Standı OVO (2'li)",
     "sku": 33645,
     "page": 173,
-    "price_value": 998.9,
-    "price_display": "₺998,90",
+    "price_value": 1037.32,
+    "price_display": "₺1.037,32",
     "desc": "Kahvaltı için 2 parça yumurta standı; üstte kabuk için yarıklı kenar. Ölçüler: Ø 8,6 cm × H 2 cm. Malzeme: paslanmaz çelik.",
     "id": "5a55f39c-6455-487e-b4e9-63c14937e590",
-    "price": 998.9,
+    "price": 1037.32,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ovo-2li-yumurtalik-yuksek-kaliteli-pas-c274c7.jpg"
   },
   {
@@ -3641,11 +3653,11 @@
     "name": "Ekmek Sepeti BRUNCH – Köşeli, Siyah",
     "sku": 33670,
     "page": 173,
-    "price_value": 2893.48,
-    "price_display": "₺2.893,48",
+    "price_value": 3004.77,
+    "price_display": "₺3.004,77",
     "desc": "Metal sepet + %100 pamuk tekstil içlik; makinede yıkanabilir (30 °C). Ölçüler: L 22 cm × W 11,5 cm. Renk: siyah.",
     "id": "67658d62-cdbe-4688-af1b-4d9de5a4a000",
-    "price": 2893.48,
+    "price": 3004.77,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/brunch-kare-ekmek-sepeti-siyah-renk-pa-30ef60.jpg"
   },
   {
@@ -3653,11 +3665,11 @@
     "name": "Tuz & Biber Değirmeni Seti – DUETO (2’li)",
     "sku": 34620,
     "page": 141,
-    "price_value": 3392.93,
-    "price_display": "₺3.392,93",
+    "price_value": 3523.42,
+    "price_display": "₺3.523,42",
     "desc": "Set içinde 2 değirmen. Üst öğütmeden ayarlanabilen seramik öğütücü. Ölçüler: Ø 5 cm, H 18 cm. Malzeme: paslanmaz çelik / akrilik.",
     "id": "5f2ba854-9785-40d0-a2d9-5e031f371e9e",
-    "price": 3392.93,
+    "price": 3523.42,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/dueto-biber-ve-tuz-degirmeni-2-parcali-8e6109.jpg"
   },
   {
@@ -3665,11 +3677,11 @@
     "name": "Tuz & Biber Değirmeni – TUSOME (2’li Set)",
     "sku": 34621,
     "page": 141,
-    "price_value": 1694.8,
-    "price_display": "₺1.694,80",
+    "price_value": 1759.98,
+    "price_display": "₺1.759,98",
     "desc": "Kompakt mini set; minimal stand dâhil. Seramik mekanizma, kalından inceye kademesiz ayar; aroma kapağı. Ölçüler: L 7 cm, W 3,6 cm, H 9,2 cm. Malzeme: paslanmaz çelik / plastik / cam.",
     "id": "f73343fb-cbe6-4a70-8ade-101efea28033",
-    "price": 1694.8,
+    "price": 1759.98,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/tusome-tuz-ve-karabiber-degirmeni-2-ad-48e683.jpg"
   },
   {
@@ -3677,11 +3689,11 @@
     "name": "Baharat & Ot Serpici – X-PLOSION",
     "sku": 34622,
     "page": 135,
-    "price_value": 1495.02,
-    "price_display": "₺1.495,02",
+    "price_value": 1552.52,
+    "price_display": "₺1.552,52",
     "desc": "Cam gövde + hava sızdırmaz kapak; döner kapakla kalın/ince serpme ve açık/kapalı ayar; 6 etiket; çıkarılabilir kapakla kolay doldurma; kapak aromayı ve nemi mükemmel şekilde mühürler; ölçüler: Ø 6,7 cm, Y 9,8 cm; malzeme: paslanmaz çelik / cam / plastik.",
     "id": "3f1bfa50-cff4-48e6-a093-8663cfe0b88e",
-    "price": 1495.02,
+    "price": 1552.52,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-baharat-ve-bitki-calkalayici-49c-4a.jpg"
   },
   {
@@ -3689,99 +3701,107 @@
     "name": "Biber Değirmeni – X-PLOSION®",
     "sku": 34623,
     "page": 131,
-    "price_value": 2893.48,
-    "price_display": "2.893,48 ₺",
+    "price_value": 3004.77,
+    "price_display": "₺3.004,77",
     "desc": "",
     "id": "593a2b95-cfee-47ae-bfe8-7bc1e5fb75a2",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-2si-bir-arada-tuzluklu-karab-7d-f85.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-2si-bir-arada-tuzluklu-karab-7d-f85.jpg",
+    "price": 3004.77
   },
   {
     "brand": "GEFU",
     "name": "Biber Değirmeni – X-PLOSION® (Siyah)",
     "sku": 34624,
     "page": 131,
-    "price_value": 3193.15,
-    "price_display": "3.193,15 ₺",
+    "price_value": 3315.96,
+    "price_display": "₺3.315,96",
     "desc": "",
     "id": "02304125-4597-4d65-bb45-58b8a9f9a6bd",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-2si-bir-arada-tuzluklu-karab-1ed569.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-2si-bir-arada-tuzluklu-karab-1ed569.jpg",
+    "price": 3315.96
   },
   {
     "brand": "GEFU",
     "name": "Biber Değirmeni – X-PLOSION® S",
     "sku": 34625,
     "page": 131,
-    "price_value": 2394.03,
-    "price_display": "2.394,03 ₺",
+    "price_value": 2486.11,
+    "price_display": "₺2.486,11",
     "desc": "",
     "id": "13d95bee-193c-45f4-b573-8be8e7d57007",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-veya-karabiber-degirmeni-f5-cf4.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-veya-karabiber-degirmeni-f5-cf4.jpg",
+    "price": 2486.11
   },
   {
     "brand": "GEFU",
     "name": "Biber Değirmeni – X-PLOSION® S (Siyah)",
     "sku": 34626,
     "page": 129,
-    "price_value": 2693.7,
-    "price_display": "2.693,70 ₺",
+    "price_value": 2797.3,
+    "price_display": "₺2.797,30",
     "desc": "",
     "id": "12efc552-c43a-47cf-85f1-1a2a800fa63b",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-veya-karabiber-degirmeni-d58-d3.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-veya-karabiber-degirmeni-d58-d3.jpg",
+    "price": 2797.3
   },
   {
     "brand": "GEFU",
     "name": "Biber Değirmeni – X-PLOSION® M",
     "sku": 34627,
     "page": 131,
-    "price_value": 3492.82,
-    "price_display": "3.492,82 ₺",
+    "price_value": 3627.16,
+    "price_display": "₺3.627,16",
     "desc": "",
     "id": "d39ae56b-f9b7-423e-a6c6-d33ef2ad9248",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-veya-karabiber-degirmeni-2f-875.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-veya-karabiber-degirmeni-2f-875.jpg",
+    "price": 3627.16
   },
   {
     "brand": "GEFU",
     "name": "Biber Değirmeni – X-PLOSION® M (Siyah)",
     "sku": 34628,
     "page": 129,
-    "price_value": 3992.27,
-    "price_display": "3.992,27 ₺",
+    "price_value": 4145.82,
+    "price_display": "₺4.145,82",
     "desc": "",
     "id": "2fe9e06d-c0d4-4ef6-81c0-020b192f1da6",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-veya-karabiber-degirmeni-a89343.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-veya-karabiber-degirmeni-a89343.jpg",
+    "price": 4145.82
   },
   {
     "brand": "GEFU",
     "name": "Biber Değirmeni – X-PLOSION® L",
     "sku": 34629,
     "page": 131,
-    "price_value": 3992.27,
-    "price_display": "3.992,27 ₺",
+    "price_value": 4145.82,
+    "price_display": "₺4.145,82",
     "desc": "",
     "id": "d422b218-4d38-4e46-8ff9-a161fc4f16fe",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-veya-karabiber-degirmeni-6-da69.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-veya-karabiber-degirmeni-6-da69.jpg",
+    "price": 4145.82
   },
   {
     "brand": "GEFU",
     "name": "Biber Değirmeni – X-PLOSION® L (Siyah)",
     "sku": 34630,
     "page": 129,
-    "price_value": 4491.72,
-    "price_display": "4.491,72 ₺",
+    "price_value": 4664.48,
+    "price_display": "₺4.664,48",
     "desc": "",
     "id": "b1632110-b9c0-435e-9d77-f5d3d646c499",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-veya-karabiber-degirmeni-f-7238.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-veya-karabiber-degirmeni-f-7238.jpg",
+    "price": 4664.48
   },
   {
     "brand": "GEFU",
     "name": "Acı Biber Doğrayıcı – X‑PLOSION®",
     "sku": 34631,
     "page": 132,
-    "price_value": 3293.04,
-    "price_display": "₺3.293,04",
+    "price_value": 3419.69,
+    "price_display": "₺3.419,69",
     "desc": "DIACUT paslanmaz çelik kesme ünitesi; maksimum hassasiyet; kolay doldurulan baharat haznesi; aromayı saklayan, neme karşı koruyan hava geçirmez kapak; Ø 6,2 cm, Y 19,5 cm; malzeme: paslanmaz çelik / beyaz çelik(brush) / plastik",
     "id": "d529ad6a-7469-4eb0-9e2a-03137a10a4a7",
-    "price": 3293.04,
+    "price": 3419.69,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-aci-biber-kesici-paslanmaz-c-02725e.jpg"
   },
   {
@@ -3789,11 +3809,11 @@
     "name": "Tuz veya Biber Değirmeni – LAMOLA",
     "sku": 34637,
     "page": 141,
-    "price_value": 1195.35,
-    "price_display": "₺1.195,35",
+    "price_value": 1241.32,
+    "price_display": "₺1.241,32",
     "desc": "Sezonlamada akış ayarı; buharlı tencereye değil, çıkarılabilir aroma kapağına öğütüp doğrudan ölçülü doldurma. Tam ayarlı, yüksek kaliteli seramik öğütücü; S ve P kapak somunları dâhil; kolay doldurulan hazne. Ölçüler: Ø 5,5 cm, H 16,6 cm. Malzeme: paslanmaz çelik / seramik / plastik / alüminyum.",
     "id": "9b30aa79-b7a9-451a-9932-1c8773586360",
-    "price": 1195.35,
+    "price": 1241.32,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/lamola-tuz-veya-karabiber-degirmeni-16-0af-b7.jpg"
   },
   {
@@ -3801,11 +3821,11 @@
     "name": "Set – X‑PLOSION® (çelik)",
     "sku": 34641,
     "page": 133,
-    "price_value": 6988.96,
-    "price_display": "₺6.988,96",
+    "price_value": 7257.77,
+    "price_display": "₺7.257,77",
     "desc": "Tuz & biber değirmeni seti; CYCLONE® seramik konik öğütücü; 14 kademeli ayar; kolay doldurma; aroma koruyan kapak; ölçüler (stand ile): U 16 cm, G 6,6 cm, Y 14 cm; malzeme: paslanmaz çelik / seramik / ahşap / plastik",
     "id": "06503c63-1e8b-4d7c-9831-de06e62cdfd5",
-    "price": 6988.96,
+    "price": 7257.77,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-ve-karabiber-degirmeni-s-c3-112.jpg"
   },
   {
@@ -3813,11 +3833,11 @@
     "name": "Set – X‑PLOSION® black (siyah)",
     "sku": 34642,
     "page": 133,
-    "price_value": 7488.41,
-    "price_display": "₺7.488,41",
+    "price_value": 7776.43,
+    "price_display": "₺7.776,43",
     "desc": "Tuz & biber değirmeni seti (siyah); CYCLONE® seramik konik öğütücü; 16 kademeli ayar; kolay doldurma; aroma koruyan kapak; ölçüler (stand ile): U 16 cm, G 6,6 cm, Y 14 cm; malzeme: paslanmaz çelik / seramik / ahşap / plastik",
     "id": "b83239d3-be33-4b11-9d82-846ac8df5668",
-    "price": 7488.41,
+    "price": 7776.43,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-tuz-ve-karabiber-degirmeni-s-be-3e5.jpg"
   },
   {
@@ -3825,11 +3845,11 @@
     "name": "Öğütücü Kaldesi – X-PLOSION M",
     "sku": "34643",
     "page": "GEFU",
-    "price_value": 1794.69,
-    "price_display": "₺1.794,69",
+    "price_value": 1863.72,
+    "price_display": "₺1.863,72",
     "desc": "Yüksek kaliteli akasya ile paslanmaz çelik mangetin birleşimi. Öğütücü kaldesi.",
     "id": "d4eca9ef-2445-4a95-9241-0c25a04ff5b2",
-    "price": 1794.69,
+    "price": 1863.72,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-degirmen-tabani-m-akasya-aga--8338-.jpg"
   },
   {
@@ -3837,11 +3857,11 @@
     "name": "Öğütücü Kalesi – X‑PLOSION® L",
     "sku": 34644,
     "page": 133,
-    "price_value": 1994.47,
-    "price_display": "₺1.994,47",
+    "price_value": 2071.18,
+    "price_display": "₺2.071,18",
     "desc": "İki adet öğütücü için magnetli paslanmaz çelik stand; ölçüler: U 20 cm, G 10 cm, Y 2 cm; malzeme: ahşap / paslanmaz çelik",
     "id": "4b4a53bc-b8c0-4563-ad45-7d0f9bbf1ee0",
-    "price": 1994.47,
+    "price": 2071.18,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-degirmen-tabani-l-akasya-aga-7eb-44.jpg"
   },
   {
@@ -3849,11 +3869,11 @@
     "name": "Öğütücü Kaldesi – X-PLOSION L",
     "sku": "34644",
     "page": "GEFU",
-    "price_value": 1994.47,
-    "price_display": "₺1.994,47",
+    "price_value": 2071.18,
+    "price_display": "₺2.071,18",
     "desc": "Ölçüler: U 20 cm, G 10 cm, Y 2 cm. X-PLOSION değirmen kaldesi.",
     "id": "488ce952-ad92-4e2d-982d-7502b7b4c1f1",
-    "price": 1994.47,
+    "price": 2071.18,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-degirmen-tabani-l-akasya-aga-7eb-44.jpg"
   },
   {
@@ -3861,11 +3881,11 @@
     "name": "Öğütücü Kalesi – X‑PLOSION® M",
     "sku": 34653,
     "page": 133,
-    "price_value": 2493.92,
-    "price_display": "₺2.493,92",
+    "price_value": 2589.84,
+    "price_display": "₺2.589,84",
     "desc": "Baharat öğütücüler için magnetli paslanmaz çelik stand; ölçüler: U 17 cm, G 6,8 cm, Y 2 cm; malzeme: masif ahşap / paslanmaz çelik",
     "id": "eee400f8-1033-4a20-a612-7c671a1446c5",
-    "price": 2493.92,
+    "price": 2589.84,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-cruet-standi-175x81x187-cm-0-2e5f.jpg"
   },
   {
@@ -3873,11 +3893,11 @@
     "name": "Baharat & Ot Serpici Seti – X-PLOSION",
     "sku": 34654,
     "page": 135,
-    "price_value": 6489.52,
-    "price_display": "₺6.489,52",
+    "price_value": 6739.11,
+    "price_display": "₺6.739,11",
     "desc": "3 cam gövdeli serpici + akasya ahşap saplı stant; kapak döndürerek kalın/ince serpme ve açık/kapalı mod; 18 adet yapışkanlı etiket; çıkarılabilir kapakla kolay doldurma; kilitleme kapak aromayı ve nemi korur; ölçüler: U 23,5 cm, G 6,6 cm, Y 14,2 cm; malzeme: siyah rafine yüzey / akasya / paslanmaz çelik / cam / plastik; bulaşık makinesinde yıkanabilir (stant hariç).",
     "id": "267e6506-78df-4463-8aff-06dac71216c9",
-    "price": 6489.52,
+    "price": 6739.11,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-3lu-baharat-ve-bitki-calkala-a-8afe.jpg"
   },
   {
@@ -3885,11 +3905,11 @@
     "name": "Sirke & Yağ Dispenseri – X-PLOSION®",
     "sku": 34655,
     "page": 137,
-    "price_value": 1994.47,
-    "price_display": "₺1.994,47",
+    "price_value": 2071.18,
+    "price_display": "₺2.071,18",
     "desc": "Kristal camdan ölçü dispenser • Kapaklı, damlatmaz paslanmaz çelik ağız – kontrollü, damla damla döküm • Geniş ağız: kolay doldurma • Hacim: 250 ml • Ölçüler: Ø 6,7 cm, Y 22,4 cm • Malzeme: paslanmaz çelik / kristal cam / plastik.",
     "id": "0f4cb99a-cfec-4674-a54c-82f4b1e79e5b",
-    "price": 1994.47,
+    "price": 2071.18,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-sirke-ve-yag-dagiticisi-250--e-4b15.jpg"
   },
   {
@@ -3897,11 +3917,11 @@
     "name": "Sirke & Yağ Seti – X-PLOSION®",
     "sku": 34656,
     "page": 137,
-    "price_value": 5990.07,
-    "price_display": "₺5.990,07",
+    "price_value": 6220.45,
+    "price_display": "₺6.220,45",
     "desc": "Akasya ahşap stand dâhil • Kristal cam 2 adet şişe, kapaklarda damlatmaz paslanmaz çelik ağız • Geniş ağız: kolay doldurma • Hacim: 250 ml (her biri) • Ölçüler: U 17 cm, G 8,1 cm, Y 23 cm • Malzeme: paslanmaz çelik / siyah rafine yüzey / akasya / kristal cam / plastik • Bulaşık makinesi: stand hariç yıkanabilir.",
     "id": "76af1159-a0c1-4eb0-817d-8595497f34f0",
-    "price": 5990.07,
+    "price": 6220.45,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/x-plosion-sirke-ve-yag-seti-250-ml-175-7afef1.jpg"
   },
   {
@@ -3909,11 +3929,11 @@
     "name": "Sirke ve Yağ Spreyi NEVA (2'li)",
     "sku": 34658,
     "page": 138,
-    "price_value": 2294.14,
-    "price_display": "₺2.294,14",
+    "price_value": 2382.37,
+    "price_display": "₺2.382,37",
     "desc": "Kapasite: 100 ml • %100 sızdırmaz • Sirke ve yağı hassas ve eşit dozlar • Hassas uç suyla kolay temizlenir • Ø 4 cm, Y 18 cm • Malzeme: cam / paslanmaz çelik / plastik",
     "id": "999d9cb1-4df2-4125-99ba-96867cc7b37a",
-    "price": 2294.14,
+    "price": 2382.37,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/neva-2li-sirke-ve-yag-spreyi-100-ml-18-84ba44.jpg"
   },
   {
@@ -3921,11 +3941,11 @@
     "name": "Baharat Değirmeni – SPICE-GRIND",
     "sku": 34671,
     "page": 139,
-    "price_value": 4991.17,
-    "price_display": "₺4.991,17",
+    "price_value": 5183.13,
+    "price_display": "₺5.183,13",
     "desc": "CYCLONE® seramik konik öğütme • Harici, 12 kademeli ayar • Kolay doldurulabilir baharat haznesi • Aroma koruyan conta • Ø 5,3 cm, Y 18,3 cm • Malzeme: paslanmaz çelik / akasya ahşap / plastik / silikon / seramik öğütücü",
     "id": "7baf3baa-8272-47fd-b972-44f8a665c726",
-    "price": 4991.17,
+    "price": 5183.13,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/baharat-degirmenibaharat-ogutme-185-cm-67022-.jpg"
   },
   {
@@ -3933,11 +3953,11 @@
     "name": "Baharat Doğrayıcı – SPICE-CUT",
     "sku": 34672,
     "page": 140,
-    "price_value": 4991.17,
-    "price_display": "₺4.991,17",
+    "price_value": 5183.13,
+    "price_display": "₺5.183,13",
     "desc": "DIACUT paslanmaz çelik bıçak mekanizması; DIAMOND LASER CUT teknolojisi. Farklı boy kesimler için geniş baharat haznesi; kesim malzemesini verimli kullanmayı sağlar; kapakta saklama haznesi; aroma koruyan conta. Ölçüler: Ø 5,3 cm, Y 18,3 cm. Malzeme: paslanmaz çelik / akasya ahşap / plastik / silikon.",
     "id": "e499561d-21fc-4e82-9114-9e2c97890a9e",
-    "price": 4991.17,
+    "price": 5183.13,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/baharat-kesici-183-cm-paslanmaz-celik-20ec0d.jpg"
   },
   {
@@ -4000,11 +4020,11 @@
     "name": "Gıda Saklama Kasesi – MUOVO (600 ml)",
     "sku": "35025",
     "page": "146",
-    "price_value": 1694.8,
-    "price_display": "₺1.694,80",
+    "price_value": 1759.98,
+    "price_display": "₺1.759,98",
     "desc": "Dolu hacim: 600 ml. Ø 12 cm, H 7.5 cm. Çok amaçlı kullanım ve sağlam taban sayesinde çok sevilen bir kase.",
     "id": "16ca0c04-c257-457e-b7a7-9da44ce47596",
-    "price": 1694.8,
+    "price": 1759.98,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/muovo-taze-tutma-kasesi-paslanmaz-celi-2b708-.jpg"
   },
   {
@@ -4012,11 +4032,11 @@
     "name": "Gıda Saklama Kasesi – MUOVO (1.000 ml)",
     "sku": "35030",
     "page": "146",
-    "price_value": 2294.14,
-    "price_display": "₺2.294,14",
+    "price_value": 2382.37,
+    "price_display": "₺2.382,37",
     "desc": "Dolu hacim: 1.000 ml. Ø 16 cm, H 11 cm. Çok amaçlı kullanım ve sağlam taban sayesinde çok sevilen bir kase.",
     "id": "808ebd11-6657-4fcc-b22d-00f3b6c7a815",
-    "price": 2294.14,
+    "price": 2382.37,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/muovo-taze-tutma-kasesi-paslanmaz-celi-b1370c.jpg"
   },
   {
@@ -4024,11 +4044,11 @@
     "name": "Gıda Saklama Kasesi – MUOVO (2.500 ml)",
     "sku": "35040",
     "page": "146",
-    "price_value": 2793.59,
-    "price_display": "₺2.793,59",
+    "price_value": 2901.03,
+    "price_display": "₺2.901,03",
     "desc": "Dolu hacim: 2.500 ml. Ø 20 cm, H 13 cm. Çok amaçlı kullanım ve sağlam taban sayesinde çok sevilen bir kase.",
     "id": "7c8a2528-99c7-41b2-af54-d381f1c7831f",
-    "price": 2793.59,
+    "price": 2901.03,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/muovo-taze-tutma-kasesi-paslanmaz-celi-6dfed-.jpg"
   },
   {
@@ -4036,11 +4056,11 @@
     "name": "Gıda Saklama Kasesi – MUOVO (4.500 ml)",
     "sku": "35050",
     "page": "146",
-    "price_value": 3392.93,
-    "price_display": "₺3.392,93",
+    "price_value": 3523.42,
+    "price_display": "₺3.523,42",
     "desc": "Dolu hacim: 4.500 ml. Ø 24 cm, H 15 cm. Çok amaçlı kullanım ve sağlam taban sayesinde çok sevilen bir kase.",
     "id": "c3741d68-3b95-48c3-a3da-7cbeaf16ca0f",
-    "price": 3392.93,
+    "price": 3523.42,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/muovo-taze-tutma-kasesi-paslanmaz-celi-12199e.jpg"
   },
   {
@@ -4048,11 +4068,11 @@
     "name": "MUOVO Kase Seti, sıçrama korumalı kapaklı (2 parça)",
     "sku": "35055",
     "page": "GEFU",
-    "price_value": 5990.07,
-    "price_display": "₺5.990,07",
+    "price_value": 6220.45,
+    "price_display": "₺6.220,45",
     "desc": "Elegan paslanmaz çelik kaseler çok amaçlı kullanım ve kaymaz taban sunar. Sıçrama korumalı kapak karıştırma sırasında sıçramayı önler ve içeriği taze tutar. 2.5 l ve 4.5 l hacimler.",
     "id": "9dc067a7-469c-46d7-a06e-226b4483aaea",
-    "price": 5990.07,
+    "price": 6220.45,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/muovo-2li-set-sicrama-koruma-kapakli-k-cf7-9e.jpg"
   },
   {
@@ -4060,11 +4080,11 @@
     "name": "ERVINO Termal Sos Sürahisi",
     "sku": "35090",
     "page": "GEFU",
-    "price_value": 2993.37,
-    "price_display": "₺2.993,37",
+    "price_value": 3108.5,
+    "price_display": "₺3.108,50",
     "desc": "Çift duvarlı termal yapı, kuşkonmaz için sıcak Hollandaise'den roste sosuna, tatlı için soğuk meyve sosuna kadar 400 ml'ye kadar sosları ideal servis sıcaklığında tutar. Dolu hacim: 400 ml. Çift duvar sayesinde ısı yalıtımı. Ergonomik sap. Döküş ağzı.",
     "id": "7be7ac98-bf89-40b2-84b2-ffe09dbd0dbb",
-    "price": 2993.37,
+    "price": 3108.5,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/serviro-termal-sos-surahisi-400-ml-pas-9953-2.jpg"
   },
   {
@@ -4083,11 +4103,12 @@
     "name": "Karaf – CASCADA",
     "sku": 35270,
     "page": 126,
-    "price_value": 4291.94,
-    "price_display": "₺4.291,94",
+    "price_value": 4457.01,
+    "price_display": "₺4.457,01",
     "desc": "",
     "id": "209941c0-0da5-4253-a79b-638b50954a21",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/cascada-surahi-1-lt-360-dokme-agzi-e8-41c.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/cascada-surahi-1-lt-360-dokme-agzi-e8-41c.jpg",
+    "price": 4457.01
   },
   {
     "brand": "GEFU",
