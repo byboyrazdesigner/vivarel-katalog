@@ -600,33 +600,35 @@
     "name": "Pamuk Torbalı Lune Çamaşır Sepeti",
     "sku": "G1023",
     "page": 528,
-    "price_value": 33441.98,
-    "price_display": "33.441,98 ₺",
+    "price_value": 34728.21,
+    "price_display": "₺34.728,21",
     "desc": "39×34×60 cm.",
     "id": "fafd85c6-a23c-48e0-a117-1ddd05c6326d",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-ay-camasir-sepeti-kahverengi-d8c4-4.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-ay-camasir-sepeti-kahverengi-d8c4-4.jpg",
+    "price": 34728.21
   },
   {
     "brand": "BAOLGI",
     "name": "Dobby Çamaşır Sepeti L",
     "sku": "G10481",
     "page": 528,
-    "price_value": 22866.48,
-    "price_display": "22.866,48 ₺",
+    "price_value": 23745.96,
+    "price_display": "₺23.745,96",
     "desc": "Ø 38×52 cm.",
     "id": "3c74e1a7-3d1f-44ca-9050-e638b634a8b4",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-dobby-l-camasir-sepeti-kahvereng-cca-cc.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-dobby-l-camasir-sepeti-kahvereng-cca-cc.jpg",
+    "price": 23745.96
   },
   {
     "brand": "BAOLGI",
     "name": "Lola Yan Sehpa",
     "sku": "G2010",
     "page": null,
-    "price_value": 21795.42,
-    "price_display": "₺21.795,42",
+    "price_value": 22633.71,
+    "price_display": "₺22.633,71",
     "desc": "Ø 48 × 57 cm",
     "id": "5562b603-df96-477b-99e5-519cc3bdcbfc",
-    "price": 21795.42,
+    "price": 22633.71,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-lola-yan-sehpa-kahverengi-b42-bd.jpg"
   },
   {
@@ -634,66 +636,71 @@
     "name": "Çöp Kovası",
     "sku": "G411",
     "page": 528,
-    "price_value": 8571.89,
-    "price_display": "8.571,89 ₺",
+    "price_value": 8901.58,
+    "price_display": "₺8.901,58",
     "desc": "Ø 33/22×36 cm.",
     "id": "2f0c4b84-3453-4c9f-b1ff-80de495f521d",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-atik-kagit-kutusu-kahverengi-f-44b6.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-atik-kagit-kutusu-kahverengi-f-44b6.jpg",
+    "price": 8901.58
   },
   {
     "brand": "BAOLGI",
     "name": "Kâğıt Çöp Kovası (S)",
     "sku": "G411S",
     "page": 527,
-    "price_value": 5677.78,
-    "price_display": "5.677,78 ₺",
+    "price_value": 5896.15,
+    "price_display": "₺5.896,15",
     "desc": "Ø 23×23 cm.",
     "id": "48771c13-0663-4bf1-b96e-94c5ab3a8c4b",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-atik-kagit-sepeti-s-kahverengi-12-15c.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-atik-kagit-sepeti-s-kahverengi-12-15c.jpg",
+    "price": 5896.15
   },
   {
     "brand": "BAOLGI",
     "name": "CD Sepeti",
     "sku": "G449",
     "page": 527,
-    "price_value": 3153.04,
-    "price_display": "3.153,04 ₺",
+    "price_value": 3274.32,
+    "price_display": "₺3.274,32",
     "desc": "31×16×13 cm.",
     "id": "f7ad1e26-2dfa-4b1e-9a55-456639cf16b1",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-dikdortgen-sepet-kahverengi-e7-0a5.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-dikdortgen-sepet-kahverengi-e7-0a5.jpg",
+    "price": 3274.32
   },
   {
     "brand": "BAOLGI",
     "name": "Banyo Tepsisi",
     "sku": "G735",
     "page": 527,
-    "price_value": 1920.67,
-    "price_display": "1.920,67 ₺",
+    "price_value": 1994.54,
+    "price_display": "₺1.994,54",
     "desc": "25×12×5 cm.",
     "id": "41b4cb65-296a-4b01-8d89-8162fe6c6179",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-banyo-tepsisi-kahverengi-2c7-2f.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-banyo-tepsisi-kahverengi-2c7-2f.jpg",
+    "price": 1994.54
   },
   {
     "brand": "BAOLGI",
     "name": "Çamaşır Sepeti",
     "sku": "G738N",
     "page": 527,
-    "price_value": 20545.2,
-    "price_display": "20.545,20 ₺",
+    "price_value": 21335.4,
+    "price_display": "₺21.335,40",
     "desc": "Ø 40×50 cm.",
     "id": "38e28b67-42eb-4b0b-a915-a18bc0a419a5",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-camasir-sepeti-kahverengi-4-0a8b.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-camasir-sepeti-kahverengi-4-0a8b.jpg",
+    "price": 21335.4
   },
   {
     "brand": "BAOLGI",
     "name": "Kahvaltı Tepsisi (Ayaklı)",
     "sku": "G806",
     "page": null,
-    "price_value": 13538.39,
-    "price_display": "₺13.538,39",
+    "price_value": 14059.09,
+    "price_display": "₺14.059,09",
     "desc": "65 × 40 × 30 cm",
     "id": "d29078a1-ffb3-4fd4-ba27-cda8b17be942",
-    "price": 13538.39,
+    "price": 14059.09,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-kahvalti-tepsisi-kahverengi-d51-46.jpg"
   },
   {
@@ -701,22 +708,24 @@
     "name": "Kapaklı Çamaşır Kutusu",
     "sku": "G901",
     "page": 528,
-    "price_value": 37048.28,
-    "price_display": "37.048,28 ₺",
+    "price_value": 38473.21,
+    "price_display": "₺38.473,21",
     "desc": "56×36×60 cm.",
     "id": "9fff0924-920f-4e9b-8448-7bf71f4a785d",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-on-camasir-sepeti-alcak-kapak-ka-d0-bd1.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-on-camasir-sepeti-alcak-kapak-ka-d0-bd1.jpg",
+    "price": 38473.21
   },
   {
     "brand": "BAOLGI",
     "name": "Kapaklı Saklama Sepeti",
     "sku": "G956",
     "page": 528,
-    "price_value": 7313.9,
-    "price_display": "7.313,90 ₺",
+    "price_value": 7595.21,
+    "price_display": "₺7.595,21",
     "desc": "35,5×15,5×16,5 cm.",
     "id": "ab501623-a6de-404d-9e93-26b65c7bf360",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-kapakli-cop-kutusu-kahverengi-5b71-4.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-kapakli-cop-kutusu-kahverengi-5b71-4.jpg",
+    "price": 7595.21
   },
   {
     "brand": "BAOLGI",
@@ -733,99 +742,108 @@
     "name": "Çöp Kovası",
     "sku": "GB411",
     "page": 529,
-    "price_value": 8571.89,
-    "price_display": "8.571,89 ₺",
+    "price_value": 8901.58,
+    "price_display": "₺8.901,58",
     "desc": "Ø 33/22×36 cm.",
     "id": "dff4b4bf-744a-4bad-a0a6-f8016691cbaa",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-atik-kagit-kutusu-beyaz-renk-fe1cce.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-atik-kagit-kutusu-beyaz-renk-fe1cce.jpg",
+    "price": 8901.58
   },
   {
     "brand": "BAOLGI",
     "name": "Kâğıt Çöp Kovası (S)",
     "sku": "GB411S",
     "page": 527,
-    "price_value": 5677.78,
-    "price_display": "5.677,78 ₺",
+    "price_value": 5896.15,
+    "price_display": "₺5.896,15",
     "desc": "Ø 23×23 cm.",
     "id": "fb333f76-964f-465a-9c0b-41c20ba007e3",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-atik-kagit-sepeti-s-beyaz-renk-94ed-4.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-atik-kagit-sepeti-s-beyaz-renk-94ed-4.jpg",
+    "price": 5896.15
   },
   {
     "brand": "BAOLGI",
     "name": "CD Sepeti",
     "sku": "GB449",
     "page": 527,
-    "price_value": 3153.04,
-    "price_display": "3.153,04 ₺",
+    "price_value": 3274.32,
+    "price_display": "₺3.274,32",
     "desc": "31×16×13 cm.",
     "id": "ee036919-01ae-407a-bd23-d7be24e6605f",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-dikdortgen-sepet-beyaz-renk-27b2c-.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-dikdortgen-sepet-beyaz-renk-27b2c-.jpg",
+    "price": 3274.32
   },
   {
     "brand": "BAOLGI",
     "name": "Banyo Tepsisi",
     "sku": "GB735",
     "page": 527,
-    "price_value": 1920.67,
-    "price_display": "1.920,67 ₺",
+    "price_value": 1994.54,
+    "price_display": "₺1.994,54",
     "desc": "25×12×5 cm.",
     "id": "95559bed-720e-417c-af84-5b6dd5206a04",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-banyo-tepsisi-beyaz-renk-c0-86c.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-banyo-tepsisi-beyaz-renk-c0-86c.jpg",
+    "price": 1994.54
   },
   {
     "brand": "BAOLGI",
     "name": "Çamaşır Sepeti",
     "sku": "GB738N",
     "page": 527,
-    "price_value": 20545.2,
-    "price_display": "20.545,20 ₺",
+    "price_value": 21335.4,
+    "price_display": "₺21.335,40",
     "desc": "Ø 40×50 cm.",
     "id": "ae421fac-17db-45b5-a527-d1c57111fa94",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-camasir-sepeti-beyaz-renk-e81-49.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-camasir-sepeti-beyaz-renk-e81-49.jpg",
+    "price": 21335.4
   },
   {
     "brand": "BAOLGI",
     "name": "Spa Tepsisi (Beyaz)",
     "sku": "GB856",
     "page": 526,
-    "price_value": 2486.02,
-    "price_display": "2.486,02 ₺",
+    "price_value": 2581.63,
+    "price_display": "₺2.581,63",
     "desc": "30×20×4 cm.",
     "id": "660d8154-164a-47e3-809d-28534f3955bf",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-spa-tepsisi-beyaz-renk-8e961c.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-spa-tepsisi-beyaz-renk-8e961c.jpg",
+    "price": 2581.63
   },
   {
     "brand": "BAOLGI",
     "name": "Plastik Kapaklı Banyo Çöp Kovası (Küçük)",
     "sku": "GB995S",
     "page": 527,
-    "price_value": 8686.08,
-    "price_display": "8.686,08 ₺",
+    "price_value": 9020.16,
+    "price_display": "₺9.020,16",
     "desc": "Ø 20×27 cm.",
     "id": "3f322cff-6cea-4e10-801b-7497400d0f52",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/sdb-kucuk-cop-kutusu-plastik-d4-450.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/sdb-kucuk-cop-kutusu-plastik-d4-450.jpg",
+    "price": 9020.16
   },
   {
     "brand": "BAOLGI",
     "name": "Pamuk Torbalı Lune Çamaşır Sepeti",
     "sku": "GG1023",
     "page": 528,
-    "price_value": 33441.98,
-    "price_display": "33.441,98 ₺",
+    "price_value": 34728.21,
+    "price_display": "₺34.728,21",
     "desc": "39×34×60 cm.",
     "id": "3067c65e-684d-4cd1-8418-5d4d84b6a029",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-ay-camasir-sepeti-bej-renk-39x34--4f47-.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-ay-camasir-sepeti-bej-renk-39x34--4f47-.jpg",
+    "price": 34728.21
   },
   {
     "brand": "BAOLGI",
     "name": "Kulplu Oval Sepet Seti (3’lü)",
     "sku": "GG1030",
     "page": 529,
-    "price_value": 48123.34,
-    "price_display": "48.123,34 ₺",
+    "price_value": 49974.24,
+    "price_display": "₺49.974,24",
     "desc": "54×41×34; 50×36×31; 43×32×27 cm.",
     "id": "12f7d4b1-4668-4f7c-a2cb-9f73b5242c53",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-3lu-oval-sepetler-bej-renk-54x50--9a3e-.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-3lu-oval-sepetler-bej-renk-54x50--9a3e-.jpg",
+    "price": 49974.24
   },
   {
     "brand": "BAOLGI",
@@ -842,11 +860,12 @@
     "name": "Çöp Kovası",
     "sku": "GG411",
     "page": 528,
-    "price_value": 8571.89,
-    "price_display": "8.571,89 ₺",
+    "price_value": 8901.58,
+    "price_display": "₺8.901,58",
     "desc": "Ø 33/22×36 cm.",
     "id": "0ed0a7de-fa69-4d82-94e5-826228ed3525",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-atik-kagit-kutusu-bej-renk-cap-3-e9431a.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-atik-kagit-kutusu-bej-renk-cap-3-e9431a.jpg",
+    "price": 8901.58
   },
   {
     "brand": "BAOLGI",
@@ -863,22 +882,24 @@
     "name": "Büyük Yuvarlak Supla",
     "sku": "GG485L",
     "page": 526,
-    "price_value": 3054.51,
-    "price_display": "3.054,51 ₺",
+    "price_value": 3171.99,
+    "price_display": "₺3.171,99",
     "desc": "Ø 40 cm.",
     "id": "ead6e716-05c3-41be-bb86-3232022116fe",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-buyuk-yuvarlak-servis-altligi-be--5c22f.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-buyuk-yuvarlak-servis-altligi-be--5c22f.jpg",
+    "price": 3171.99
   },
   {
     "brand": "BAOLGI",
     "name": "Kahvaltı Tepsisi (Set)",
     "sku": "GG500",
     "page": 526,
-    "price_value": 11528.32,
-    "price_display": "11.528,32 ₺",
+    "price_value": 11971.72,
+    "price_display": "₺11.971,72",
     "desc": "55×38×8 cm ve 48×32×8 cm.",
     "id": "8cbac679-974b-4d96-93eb-fc6713399840",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/2li-hasir-sabah-tepsisi-set-bej-renk-5-0-8915.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/2li-hasir-sabah-tepsisi-set-bej-renk-5-0-8915.jpg",
+    "price": 11971.72
   },
   {
     "brand": "BAOLGI",
@@ -895,88 +916,96 @@
     "name": "Kare Mendil Kutusu",
     "sku": "GG701",
     "page": 527,
-    "price_value": 2325.37,
-    "price_display": "2.325,37 ₺",
+    "price_value": 2414.81,
+    "price_display": "₺2.414,81",
     "desc": "14×14×14 cm.",
     "id": "f49d0b9d-8f68-478a-9c9e-1af61b08225d",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-kare-kleenex-kutusu-bej-renk-14x-80e5-9.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-kare-kleenex-kutusu-bej-renk-14x-80e5-9.jpg",
+    "price": 2414.81
   },
   {
     "brand": "BAOLGI",
     "name": "Kahvaltı Tepsi Seti (4’lü)",
     "sku": "GG737",
     "page": 526,
-    "price_value": 25992.91,
-    "price_display": "25.992,91 ₺",
+    "price_value": 26992.64,
+    "price_display": "₺26.992,64",
     "desc": "55×55×8; 50×50×8; 45×45×7; 40×40×7 cm.",
     "id": "ced1172d-f918-413d-a57b-814e8e2aeb16",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/4lu-hasir-kahvalti-tepsileri-bej-renk--eb4d-4.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/4lu-hasir-kahvalti-tepsileri-bej-renk--eb4d-4.jpg",
+    "price": 26992.64
   },
   {
     "brand": "BAOLGI",
     "name": "Çamaşır Sepeti",
     "sku": "GG738N",
     "page": 527,
-    "price_value": 20545.2,
-    "price_display": "20.545,20 ₺",
+    "price_value": 21335.4,
+    "price_display": "₺21.335,40",
     "desc": "Ø 40×50 cm.",
     "id": "67081238-9f0d-48f5-a4d6-d0c9b0f72c11",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-camasir-sepeti-bej-renk-cap-40x5-4c84-0.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-camasir-sepeti-bej-renk-cap-40x5-4c84-0.jpg",
+    "price": 21335.4
   },
   {
     "brand": "BAOLGI",
     "name": "Kulplu Dikdörtgen Sepet",
     "sku": "GG811",
     "page": 527,
-    "price_value": 7074.64,
-    "price_display": "7.074,64 ₺",
+    "price_value": 7346.75,
+    "price_display": "₺7.346,75",
     "desc": "45×31×15 cm.",
     "id": "8bcb70b6-0489-42b7-962d-e24dc3643e38",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-cop-kutusu-dikdortgen-sepet-bej--96-941.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-cop-kutusu-dikdortgen-sepet-bej--96-941.jpg",
+    "price": 7346.75
   },
   {
     "brand": "BAOLGI",
     "name": "Spa Tepsisi (Doğal)",
     "sku": "GG856",
     "page": 526,
-    "price_value": 2345.08,
-    "price_display": "2.345,08 ₺",
+    "price_value": 2435.27,
+    "price_display": "₺2.435,27",
     "desc": "30×20×4 cm.",
     "id": "6b98ce77-839a-4f34-9b4a-df91481b87c8",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-spa-tepsisi-bej-renk-30x20x4cm-10-89b.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-spa-tepsisi-bej-renk-30x20x4cm-10-89b.jpg",
+    "price": 2435.27
   },
   {
     "brand": "BAOLGI",
     "name": "Kare Sepet Seti (4’lü)",
     "sku": "GG896",
     "page": 529,
-    "price_value": 13893.1,
-    "price_display": "13.893,10 ₺",
+    "price_value": 14427.45,
+    "price_display": "₺14.427,45",
     "desc": "26×26×15; 21×21×13; 16×16×11; 11×11×10 cm.",
     "id": "5d703733-95f5-46d2-a47d-df0281b61db8",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/4lu-kare-hasir-sepetler-bej-renk-26x21-ce58dc.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/4lu-kare-hasir-sepetler-bej-renk-26x21-ce58dc.jpg",
+    "price": 14427.45
   },
   {
     "brand": "BAOLGI",
     "name": "Saklama Sepeti (Set) — 2’li",
     "sku": "GG955",
     "page": 528,
-    "price_value": 22701.92,
-    "price_display": "22.701,92 ₺",
+    "price_value": 23575.07,
+    "price_display": "₺23.575,07",
     "desc": "43×31×23,5 cm ve 37×27,5×22 cm.",
     "id": "4fba1a89-c8f9-4e82-992d-04c30b6e8926",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/2li-hasir-saklama-sepeti-bej-renk-43-x-3a-931.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/2li-hasir-saklama-sepeti-bej-renk-43-x-3a-931.jpg",
+    "price": 23575.07
   },
   {
     "brand": "BAOLGI",
     "name": "Oval Tepsi Seti (4’lü)",
     "sku": "GG993",
     "page": 526,
-    "price_value": 31963.99,
-    "price_display": "31.963,99 ₺",
+    "price_value": 33193.37,
+    "price_display": "₺33.193,37",
     "desc": "55×40×7; 50×35×6; 45×30×5; 40×25×4 cm.",
     "id": "5742f28e-4d7a-4858-b43d-f8f9fa7b2ce8",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/4lu-oval-hasir-tepsiler-bej-renk-55x50-a8d7f1.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/4lu-oval-hasir-tepsiler-bej-renk-55x50-a8d7f1.jpg",
+    "price": 33193.37
   },
   {
     "brand": "BAOLGI",
@@ -1015,11 +1044,12 @@
     "name": "Lola Yan Sehpa",
     "sku": "GN2010",
     "page": 529,
-    "price_value": 21794.97,
-    "price_display": "21.794,97 ₺",
+    "price_value": 22633.24,
+    "price_display": "₺22.633,24",
     "desc": "Ø 48×57 cm.",
     "id": "c1f687c8-41b2-4e7f-a04c-5df0351fe3cd",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-lola-yan-sehpa-bej-rengi-kahvere-71fb-4.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-lola-yan-sehpa-bej-rengi-kahvere-71fb-4.jpg",
+    "price": 22633.24
   },
   {
     "brand": "BAOLGI",
@@ -1056,77 +1086,84 @@
     "name": "Plastik Kapaklı Banyo Çöp Kovası (Küçük)",
     "sku": "GN995S",
     "page": 526,
-    "price_value": 7074.64,
-    "price_display": "7.074,64 ₺",
+    "price_value": 9020.16,
+    "price_display": "₺9.020,16",
     "desc": "Ø 20×27 cm.",
     "id": "987d2b42-40bd-4db6-a7aa-684335f92931",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/kucuk-banyo-cop-kutusu-plastik-5e7412.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/kucuk-banyo-cop-kutusu-plastik-5e7412.jpg",
+    "price": 9020.16
   },
   {
     "brand": "BAOLGI",
     "name": "Şeker Kutusu",
     "sku": "NBS2",
     "page": 526,
-    "price_value": 4433.97,
-    "price_display": "4.433,97 ₺",
+    "price_value": 4604.51,
+    "price_display": "₺4.604,51",
     "desc": "20×13×7 cm.",
     "id": "a6556365-920c-4d49-90d0-929899293783",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-seker-kutusu-kahverengi-8-43b8.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-seker-kutusu-kahverengi-8-43b8.jpg",
+    "price": 4604.51
   },
   {
     "brand": "BAOLGI",
     "name": "Kokteyl Peçetelik",
     "sku": "NNH1",
     "page": 526,
-    "price_value": 2542.14,
-    "price_display": "2.542,14 ₺",
+    "price_value": 2639.92,
+    "price_display": "₺2.639,92",
     "desc": "14×14×6 cm.",
     "id": "adadf59e-1bdd-4470-bf05-1a176b518fd7",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-kokteyl-pecete-tutacagi-sepeti-k-7ec2d6.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-kokteyl-pecete-tutacagi-sepeti-k-7ec2d6.jpg",
+    "price": 2639.92
   },
   {
     "brand": "BAOLGI",
     "name": "Peçetelik – Küçük",
     "sku": "NNH2",
     "page": 526,
-    "price_value": 3862.48,
-    "price_display": "3.862,48 ₺",
+    "price_value": 4011.04,
+    "price_display": "₺4.011,04",
     "desc": "19×19×6 cm.",
     "id": "3e34672e-ec2e-4519-bf91-0d996d013628",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-kucuk-havlu-tutacagi-sepeti-kahv-9744-4.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-kucuk-havlu-tutacagi-sepeti-kahv-9744-4.jpg",
+    "price": 4011.04
   },
   {
     "brand": "BAOLGI",
     "name": "Peçetelik – Büyük",
     "sku": "NNH3",
     "page": 526,
-    "price_value": 4512.8,
-    "price_display": "4.512,80 ₺",
+    "price_value": 4686.36,
+    "price_display": "₺4.686,36",
     "desc": "22×22×6 cm.",
     "id": "1f7725cc-d472-4279-9b8a-7d78cec34e25",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-buyuk-havlu-tutacagi-sepeti-kahv-04b8-4.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-buyuk-havlu-tutacagi-sepeti-kahv-04b8-4.jpg",
+    "price": 4686.36
   },
   {
     "brand": "BAOLGI",
     "name": "Büyük Kâğıt Çöp Kovası (M)",
     "sku": "NWB2",
     "page": 526,
-    "price_value": 7074.64,
-    "price_display": "7.074,64 ₺",
+    "price_value": 7346.75,
+    "price_display": "₺7.346,75",
     "desc": "Ø 23×23 cm.",
     "id": "3f4fe8f2-449d-4b20-93ac-0dd78f397284",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-atik-kagit-kutusu-kahverengi-9409-4.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-atik-kagit-kutusu-kahverengi-9409-4.jpg",
+    "price": 7346.75
   },
   {
     "brand": "BAOLGI",
     "name": "Büyük Kâğıt Çöp Kovası (L)",
     "sku": "NWB7",
     "page": 526,
-    "price_value": 9657.65,
-    "price_display": "9.657,65 ₺",
+    "price_value": 10029.1,
+    "price_display": "₺10.029,10",
     "desc": "Ø 27×28 cm.",
     "id": "442c1bd2-b5b5-4894-8b7c-c610f762cca6",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-cop-sepeti-l-kahverengi-3e-aff.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hasir-cop-sepeti-l-kahverengi-3e-aff.jpg",
+    "price": 10029.1
   },
   {
     "brand": "Bitz",
