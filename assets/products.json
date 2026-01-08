@@ -19647,5 +19647,27 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/solo-tuvalet-fircasi-taupe-448-cm-cap8--62fa-.jpg",
     "brand": "ZONE DENMARK",
     "name": "Solo Tuvalet Fırçası Taupe"
+  },
+  {
+    "sku": "ZD35554",
+    "page": 108,
+    "price_value": 6135.21,
+    "price_display": "₺6.135,21",
+    "desc": "",
+    "id": "99984675-4e7d-4b5e-ba7f-4e0cf5f6a0b2",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-tuvalet-kagidi-rezervi-siyah-405-c-523b9f.jpg",
+    "brand": "ZONE DENMARK",
+    "name": "Ume Tuvalet Kağıdı Rezervi Siyah"
+  },
+  {
+    "sku": "ZD35557",
+    "page": 109,
+    "price_value": 6135.21,
+    "price_display": "₺6.135,21",
+    "desc": "",
+    "id": "757ce355-26cf-4738-85de-ae4c03d87efc",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-tuvalet-kagidi-rezervi-soft-gri-40-6a-b0d.jpg",
+    "brand": "ZONE DENMARK",
+    "name": "Ume Tuvalet Kağıdı Rezervi Soft Gri"
   }
 ]
