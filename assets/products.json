@@ -19440,5 +19440,113 @@
     "price_display": "₺3.002,96",
     "brand": "Zone Denmark",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/rocks-bira-bardagi-2-adet-30-cl-0-b46d.jpg"
+  },
+  {
+    "brand": "ZONE",
+    "name": "Ume Sıvı Sabunluk 250 Ml Çelik",
+    "sku": "ZD34788",
+    "page": 104,
+    "price_value": 5246.84,
+    "price_display": "₺5.246,84",
+    "desc": "",
+    "id": "85b621f7-eaf6-41ad-ba8b-e642a4905186",
+    "price": 5246.84,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-sivi-sabunluk-250-ml-celik-7281-f.jpg"
+  },
+  {
+    "brand": "ZONE",
+    "name": "Ume Diş Fırçası Kupası Çelik 10,3 cm - Çap:8,3 cm",
+    "sku": "ZD34789",
+    "page": 104,
+    "price_value": 2698.08,
+    "price_display": "₺2.698,08",
+    "desc": "",
+    "id": "42ed029f-0446-41b7-87c9-d7f8ba97b0d1",
+    "price": 2698.08,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-dis-fircasi-kupasi-celik-103-cm-ca-80d0-d.jpg"
+  },
+  {
+    "brand": "ZONE",
+    "name": "Ume Katı Sabunluk Çelik Çap:12 cm",
+    "sku": "ZD34790",
+    "page": 104,
+    "price_value": 2698.08,
+    "price_display": "₺2.698,08",
+    "desc": "",
+    "id": "8781e173-230a-4523-899e-c7a5fbf53415",
+    "price": 2698.08,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-kati-sabunluk-celik-cap12-cm-e4-49c.jpg"
+  },
+  {
+    "brand": "ZONE",
+    "name": "Ume Tuvalet Fırçası Çelik 43 cm - Çap:10 cm",
+    "sku": "ZD34791",
+    "page": 104,
+    "price_value": 9265.64,
+    "price_display": "₺9.265,64",
+    "desc": "",
+    "id": "bd5b47da-1ad5-42eb-b9bd-24aa233ac08c",
+    "price": 9265.64,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-tuvalet-fircasi-celik-43-cm-cap10--8330e9.jpg"
+  },
+  {
+    "brand": "ZONE",
+    "name": "Ume Pedallı Çöp Kovası 4 L Çelik",
+    "sku": "ZD34792",
+    "page": 104,
+    "price_value": 13513.57,
+    "price_display": "₺13.513,57",
+    "desc": "",
+    "id": "b83aaab1-647d-4bb7-9842-a3bb9e93f97a",
+    "price": 13513.57,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-pedalli-cop-kovasi-4-l-celik-f5f976.jpg"
+  },
+  {
+    "brand": "ZONE",
+    "name": "Ume Sıvı Sabunluk 250 ml Mat Pirinç",
+    "sku": "ZD36622",
+    "page": 105,
+    "price_value": 6135.21,
+    "price_display": "₺6.135,21",
+    "desc": "",
+    "id": "081a0bcc-a05a-488e-b6bf-f20585ec60c2",
+    "price": 6135.21,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-sivi-sabunluk-250-ml-mat-pirinc-85-cd2.jpg"
+  },
+  {
+    "brand": "ZONE",
+    "name": "Ume Diş Fırçası Kupası Mat Pirinç 10,3 cm - Çap:8,3 cm",
+    "sku": "ZD36623",
+    "page": 105,
+    "price_value": 3067.61,
+    "price_display": "₺3.067,61",
+    "desc": "",
+    "id": "d19c1863-0a2b-4e67-be15-713a391890b8",
+    "price": 3067.61,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-dis-fircasi-kupasi-mat-pirinc-103--83bd29.jpg"
+  },
+  {
+    "brand": "ZONE",
+    "name": "Ume Tuvalet Fırçası Mat Pirinç 43 cm - Çap:10 cm",
+    "sku": "ZD36625",
+    "page": 105,
+    "price_value": 9900.0,
+    "price_display": "₺9.900,00",
+    "desc": "",
+    "id": "456dbe35-5d03-4573-97a2-2d6b4f92b22e",
+    "price": 9900.0,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-tuvalet-fircasi-mat-pirinc-43-cm-c-9f0819.jpg"
+  },
+  {
+    "brand": "ZONE",
+    "name": "Ume Pedallı Çöp Kovası 4 L Mat Pirinç",
+    "sku": "ZD36626",
+    "page": 105,
+    "price_value": 14117.3,
+    "price_display": "₺14.117,30",
+    "desc": "",
+    "id": "c74307bc-7583-4df5-ae4e-542968a50d95",
+    "price": 14117.3,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-pedalli-cop-kovasi-4-l-mat-pirinc-2-0341.jpg"
   }
 ]
