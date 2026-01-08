@@ -420,6 +420,133 @@
       return `${protocol}//127.0.0.1:8000/api/phpmailer_send.php`;
     },
 
+    // 📍 SAYFAYA GİT - iframe'deki katalogda SKU'yu bulup o sayfaya gider
+    // Farklı markanın ürünüyse önce o markayı yükler
+    goToProductPage(sku) {
+      if (!sku) {
+        Toast.show("Ürün kodu eksik!", "warn");
+        return;
+      }
+
+      const normalizedSku = String(sku).replace(/\s+/g, '').toUpperCase();
+      
+      // Ürünü products.json'dan bul ve markasını al
+      const product = getProducts().find(p => {
+        const pSku = String(p.sku || '').replace(/\s+/g, '').toUpperCase();
+        return pSku === normalizedSku || pSku.includes(normalizedSku);
+      });
+
+      if (!product) {
+        Toast.show("Ürün bulunamadı!", "warn");
+        return;
+      }
+
+      // Ürünün markasını belirle (ZONE -> ZONE_DENMARK dönüşümü)
+      let productBrand = product.brand;
+      if (productBrand === "ZONE") productBrand = "ZONE_DENMARK";
+      
+      // Aktif katalogdan markayı çıkar
+      const iframe = document.getElementById('brandFrame');
+      const currentSrc = iframe?.src || '';
+      let currentBrand = null;
+      
+      // URL'den marka çıkar: /Markalar/ZONE_DENMARK/index.html -> ZONE_DENMARK
+      const brandMatch = currentSrc.match(/\/Markalar\/([^\/]+)\//);
+      if (brandMatch) currentBrand = brandMatch[1];
+
+      console.log('[goToProductPage] Ürün markası:', productBrand, 'Aktif marka:', currentBrand);
+
+      // Farklı marka ise önce o markayı yükle
+      if (productBrand && currentBrand && productBrand !== currentBrand) {
+        Toast.show(`${productBrand.replace(/_/g, ' ')} kataloğu yükleniyor...`, "info");
+        
+        // Modal'ı kapat
+        const modal = document.getElementById('addProductModal');
+        if (modal) modal.remove();
+        
+        // Markayı yükle
+        if (window.Brands?.select) {
+          window.Brands.select(productBrand);
+          
+          // Katalog yüklendikten sonra sayfaya git (2 saniye bekle)
+          setTimeout(() => {
+            Cart._navigateToSkuInCatalog(normalizedSku);
+          }, 2000);
+        }
+        return;
+      }
+
+      // Aynı marka - doğrudan sayfaya git
+      Cart._navigateToSkuInCatalog(normalizedSku);
+    },
+
+    // İç fonksiyon: Aktif katalogda SKU'yu bul ve sayfaya git
+    _navigateToSkuInCatalog(normalizedSku) {
+      const iframe = document.getElementById('brandFrame');
+      if (!iframe || !iframe.contentDocument) {
+        Toast.show("Katalog yüklü değil!", "warn");
+        return;
+      }
+
+      try {
+        const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+        
+        // SKU'yu içeren elementi bul (buton href'inde veya data-sku'da)
+        const allLinks = iframeDoc.querySelectorAll('a[href*="sku"], [data-sku]');
+        let targetPage = null;
+        
+        for (const link of allLinks) {
+          const href = link.getAttribute('href') || '';
+          const dataSku = link.getAttribute('data-sku') || '';
+          const linkSku = (href.match(/sku:'([^']+)'/i) || [])[1] || dataSku;
+          
+          if (linkSku && linkSku.replace(/\s+/g, '').toUpperCase().includes(normalizedSku)) {
+            // Bu linkin hangi sayfada olduğunu bul
+            const page = link.closest('.page, [data-name]');
+            if (page) {
+              targetPage = page.getAttribute('data-name');
+              break;
+            }
+          }
+        }
+
+        if (targetPage) {
+          // in5 slider'ı bu sayfaya götür
+          const slider = iframe.contentWindow.jQuery?.('#slider');
+          if (slider && slider.anythingSlider) {
+            const pageIndex = Array.from(iframeDoc.querySelectorAll('.page[data-name]'))
+              .findIndex(p => p.getAttribute('data-name') === targetPage);
+            if (pageIndex >= 0) {
+              slider.anythingSlider(pageIndex + 1); // 1-indexed
+              Toast.show(`Sayfa ${targetPage}'e gidildi`, "success");
+              
+              // Modal'ı kapat
+              const modal = document.getElementById('addProductModal');
+              if (modal) modal.remove();
+              return;
+            }
+          }
+          
+          // Fallback: scrollIntoView
+          const targetEl = iframeDoc.querySelector(`.page[data-name="${targetPage}"]`);
+          if (targetEl) {
+            targetEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            Toast.show(`Sayfa ${targetPage}'e gidildi`, "success");
+            
+            // Modal'ı kapat
+            const modal = document.getElementById('addProductModal');
+            if (modal) modal.remove();
+            return;
+          }
+        }
+
+        Toast.show("Ürün bu katalogda bulunamadı", "warn");
+      } catch (e) {
+        console.error('[_navigateToSkuInCatalog] Hata:', e);
+        Toast.show("Sayfa navigasyonu başarısız", "warn");
+      }
+    },
+
     // 🛒 IN5'TEN GELEN SKU İÇİN ÜRÜN DETAY MODALI AÇ (iframe-switcher.js'ten çağrılır)
     openModalForProduct(sku) {
       console.log('[Cart.openModalForProduct] SKU:', sku);
@@ -580,18 +707,29 @@
             </div>
 
             <!-- Footer -->
-            <div class="p-5 pt-0 flex gap-3">
-              <button class="flex-1 bg-gray-700 hover:bg-gray-600 text-white font-semibold py-3 px-4 rounded-xl transition-colors"
-                      onclick="document.getElementById('addProductModal').remove()">
-                İptal
-              </button>
-              <button class="flex-1 bg-gradient-to-r from-orange-600 to-orange-500 hover:from-orange-700 hover:to-orange-600 text-white font-bold py-3 px-4 rounded-xl transition-all shadow-lg hover:shadow-orange-500/30"
-                      onclick="Cart._confirmAddProduct('${String(product.sku || product.id)}', '${String(product.id)}')">
-                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 24 24" class="inline-block mr-1 -mt-0.5">
-                  <path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/>
+            <div class="p-5 pt-0 space-y-3">
+              <!-- Sayfaya Git Butonu -->
+              <button class="w-full bg-gradient-to-r from-blue-600/20 to-blue-500/20 hover:from-blue-600/30 hover:to-blue-500/30 text-blue-400 font-semibold py-2.5 px-4 rounded-xl transition-all border border-blue-500/30 hover:border-blue-500/50 flex items-center justify-center gap-2"
+                      onclick="Cart.goToProductPage('${escapeHTML(String(product.sku || ''))}')">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
                 </svg>
-                Sepete Ekle
+                Katalogda Sayfaya Git
               </button>
+              
+              <div class="flex gap-3">
+                <button class="flex-1 bg-gray-700 hover:bg-gray-600 text-white font-semibold py-3 px-4 rounded-xl transition-colors"
+                        onclick="document.getElementById('addProductModal').remove()">
+                  İptal
+                </button>
+                <button class="flex-1 bg-gradient-to-r from-orange-600 to-orange-500 hover:from-orange-700 hover:to-orange-600 text-white font-bold py-3 px-4 rounded-xl transition-all shadow-lg hover:shadow-orange-500/30"
+                        onclick="Cart._confirmAddProduct('${String(product.sku || product.id)}', '${String(product.id)}')">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 24 24" class="inline-block mr-1 -mt-0.5">
+                    <path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/>
+                  </svg>
+                  Sepete Ekle
+                </button>
+              </div>
             </div>
           </div>
         </div>
