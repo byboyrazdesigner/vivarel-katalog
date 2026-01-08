@@ -421,7 +421,7 @@
     },
 
     // 📍 SAYFAYA GİT - iframe'deki katalogda SKU'yu bulup o sayfaya gider
-    // Farklı markanın ürünüyse önce o markayı yükler
+    // ZONE ürünleri farklı kataloglarda olabilir, sırasıyla dener
     goToProductPage(sku) {
       if (!sku) {
         Toast.show("Ürün kodu eksik!", "warn");
@@ -430,7 +430,7 @@
 
       const normalizedSku = String(sku).replace(/\s+/g, '').toUpperCase();
       
-      // Ürünü products.json'dan bul ve markasını al
+      // Ürünü products.json'dan bul
       const product = getProducts().find(p => {
         const pSku = String(p.sku || '').replace(/\s+/g, '').toUpperCase();
         return pSku === normalizedSku || pSku.includes(normalizedSku);
@@ -441,37 +441,48 @@
         return;
       }
 
-      // Ürünün markasını belirle (ZONE -> ZONE_DENMARK dönüşümü)
-      let productBrand = product.brand;
-      if (productBrand === "ZONE") productBrand = "ZONE_DENMARK";
-      
       // Aktif katalogdan markayı çıkar
       const iframe = document.getElementById('brandFrame');
       const currentSrc = iframe?.src || '';
-      let currentBrand = null;
-      
-      // URL'den marka çıkar: /Markalar/ZONE_DENMARK/index.html -> ZONE_DENMARK
       const brandMatch = currentSrc.match(/\/Markalar\/([^\/]+)\//);
-      if (brandMatch) currentBrand = brandMatch[1];
+      const currentBrand = brandMatch ? brandMatch[1] : null;
+
+      // Ürünün markasını belirle
+      let productBrand = product.brand;
+      
+      // ZONE markalı ürünler 3 farklı katalogda olabilir
+      // Önce aktif katalogda ara, bulamazsa diğerlerini dene
+      const zoneCatalogs = ['ZONE_DENMARK', 'ZONE_DENMARK_BANYO', 'ZONE_DENMARK_MUTFAK'];
+      
+      if (productBrand === 'ZONE') {
+        // Aktif katalog ZONE kataloglarından biriyse, önce orada ara
+        if (zoneCatalogs.includes(currentBrand)) {
+          console.log('[goToProductPage] ZONE ürünü, aktif katalogda aranıyor:', currentBrand);
+          const found = Cart._navigateToSkuInCatalog(normalizedSku);
+          if (found) return;
+          
+          // Bulunamadı, diğer ZONE kataloglarını dene
+          const otherCatalogs = zoneCatalogs.filter(c => c !== currentBrand);
+          Cart._tryZoneCatalogs(normalizedSku, otherCatalogs, 0);
+        } else {
+          // Aktif katalog ZONE değil, sırasıyla ZONE kataloglarını dene
+          Cart._tryZoneCatalogs(normalizedSku, zoneCatalogs, 0);
+        }
+        return;
+      }
 
       console.log('[goToProductPage] Ürün markası:', productBrand, 'Aktif marka:', currentBrand);
 
-      // Farklı marka ise önce o markayı yükle
+      // ZONE dışı markalar için normal akış
       if (productBrand && currentBrand && productBrand !== currentBrand) {
         Toast.show(`${productBrand.replace(/_/g, ' ')} kataloğu yükleniyor...`, "info");
         
-        // Modal'ı kapat
         const modal = document.getElementById('addProductModal');
         if (modal) modal.remove();
         
-        // Markayı yükle
         if (window.Brands?.select) {
           window.Brands.select(productBrand);
-          
-          // Katalog yüklendikten sonra sayfaya git (2 saniye bekle)
-          setTimeout(() => {
-            Cart._navigateToSkuInCatalog(normalizedSku);
-          }, 2000);
+          setTimeout(() => Cart._navigateToSkuInCatalog(normalizedSku), 2000);
         }
         return;
       }
@@ -480,12 +491,40 @@
       Cart._navigateToSkuInCatalog(normalizedSku);
     },
 
+    // ZONE kataloglarını sırasıyla dene
+    _tryZoneCatalogs(normalizedSku, catalogs, index) {
+      if (index >= catalogs.length) {
+        Toast.show("Ürün ZONE kataloglarında bulunamadı", "warn");
+        return;
+      }
+
+      const catalog = catalogs[index];
+      console.log('[_tryZoneCatalogs] Deneniyor:', catalog);
+      Toast.show(`${catalog.replace(/_/g, ' ')} katalogunda aranıyor...`, "info");
+
+      const modal = document.getElementById('addProductModal');
+      if (modal) modal.remove();
+
+      if (window.Brands?.select) {
+        window.Brands.select(catalog);
+        
+        setTimeout(() => {
+          const found = Cart._navigateToSkuInCatalog(normalizedSku);
+          if (!found) {
+            // Bu katalogda bulunamadı, sonrakini dene
+            Cart._tryZoneCatalogs(normalizedSku, catalogs, index + 1);
+          }
+        }, 2000);
+      }
+    },
+
     // İç fonksiyon: Aktif katalogda SKU'yu bul ve sayfaya git
+    // Bulunduysa true, bulunamadıysa false döner
     _navigateToSkuInCatalog(normalizedSku) {
       const iframe = document.getElementById('brandFrame');
       if (!iframe || !iframe.contentDocument) {
-        Toast.show("Katalog yüklü değil!", "warn");
-        return;
+        console.log('[_navigateToSkuInCatalog] Katalog yüklü değil');
+        return false;
       }
 
       try {
@@ -523,7 +562,7 @@
               // Modal'ı kapat
               const modal = document.getElementById('addProductModal');
               if (modal) modal.remove();
-              return;
+              return true;
             }
           }
           
@@ -536,14 +575,15 @@
             // Modal'ı kapat
             const modal = document.getElementById('addProductModal');
             if (modal) modal.remove();
-            return;
+            return true;
           }
         }
 
-        Toast.show("Ürün bu katalogda bulunamadı", "warn");
+        console.log('[_navigateToSkuInCatalog] SKU bu katalogda bulunamadı:', normalizedSku);
+        return false;
       } catch (e) {
         console.error('[_navigateToSkuInCatalog] Hata:', e);
-        Toast.show("Sayfa navigasyonu başarısız", "warn");
+        return false;
       }
     },
 
