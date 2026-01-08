@@ -2493,3 +2493,211 @@ body, #container-wrap { background:#ededed; }
 #in5footer,  #prefooter {display:none;}
 
 #loadIndicator{display:none;}
+
+/* Sayfa 28: Ume Mendil Kutusu - pecetelikler */
+#item609p {
+	width:34px !important;
+	height:18px !important;
+	left:36px !important;
+	top:25px !important;
+}
+
+#item669p {
+	width:43px !important;
+	height:9px !important;
+	left:54px !important;
+	top:810px !important;
+}
+
+#item38969p {
+	width:134px !important;
+	left:56px !important;
+	top:239px !important;
+	min-height:48px !important;
+}
+
+#item40110p {
+	width:134px !important;
+	left:56px !important;
+	top:515px !important;
+	min-height:48px !important;
+}
+
+#item39913p {
+	width:134px !important;
+	left:254px !important;
+	top:239px !important;
+	min-height:48px !important;
+}
+
+#item40133p {
+	width:134px !important;
+	left:254px !important;
+	top:515px !important;
+	min-height:48px !important;
+}
+
+#item39990p {
+	width:134px !important;
+	left:428px !important;
+	top:239px !important;
+	min-height:48px !important;
+}
+
+#item40156p {
+	width:134px !important;
+	left:428px !important;
+	top:515px !important;
+	min-height:48px !important;
+}
+
+#item39030p {
+	width:43px !important;
+	height:18px !important;
+	border-radius:3px;
+	background:#000;
+}
+
+#item39027p {
+	width:43px !important;
+	height:18px !important;
+	left:56px !important;
+	top:314px !important;
+}
+
+#item40194p {
+	width:43px !important;
+	height:18px !important;
+	border-radius:3px;
+	background:#000;
+}
+
+#item40191p {
+	width:43px !important;
+	height:18px !important;
+	left:56px !important;
+	top:591px !important;
+}
+
+#item39943p {
+	width:43px !important;
+	height:18px !important;
+	border-radius:3px;
+	background:#000;
+}
+
+#item39940p {
+	width:43px !important;
+	height:18px !important;
+	left:254px !important;
+	top:314px !important;
+}
+
+#item40220p {
+	width:43px !important;
+	height:18px !important;
+	border-radius:3px;
+	background:#000;
+}
+
+#item40217p {
+	width:43px !important;
+	height:18px !important;
+	left:254px !important;
+	top:591px !important;
+}
+
+#item40020p {
+	width:43px !important;
+	height:18px !important;
+	border-radius:3px;
+	background:#000;
+}
+
+#item40017p {
+	width:43px !important;
+	height:18px !important;
+	left:428px !important;
+	top:314px !important;
+}
+
+#item40428p {
+	width:16px !important;
+	height:9px !important;
+	left:36px !important;
+	top:810px !important;
+}
+
+#item40247p {
+	width:43px !important;
+	height:18px !important;
+	border-radius:3px;
+	background:#000;
+}
+
+#item40244p {
+	width:43px !important;
+	height:18px !important;
+	left:428px !important;
+	top:591px !important;
+}
+
+#item39079p {
+	width:69px !important;
+	height:16px !important;
+	left:56px !important;
+	top:294px !important;
+}
+
+#item40270p {
+	width:69px !important;
+	height:16px !important;
+	left:56px !important;
+	top:570px !important;
+}
+
+#item39966p {
+	width:69px !important;
+	height:16px !important;
+	left:254px !important;
+	top:294px !important;
+}
+
+#item40293p {
+	width:69px !important;
+	height:16px !important;
+	left:254px !important;
+	top:570px !important;
+}
+
+#item40043p {
+	width:69px !important;
+	height:16px !important;
+	left:428px !important;
+	top:294px !important;
+}
+
+#item40316p {
+	width:69px !important;
+	height:16px !important;
+	left:428px !important;
+	top:570px !important;
+}
+
+#item39016p, #item40180p, #item39936p, #item40184p, #item40014p, #item40188p {
+	width:auto !important;
+	height:auto !important;
+}
+
+#item611p {
+	width:34px !important;
+	height:18px !important;
+}
+
+}
+
+#item40014p img, #item40180p img, #item40184p img, #item40188p img {
+    width: 166px !important;
+    height: 226px !important;
+    object-fit: cover !important;
+}
