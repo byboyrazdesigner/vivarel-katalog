@@ -19999,5 +19999,29 @@
     "desc": "",
     "id": "12091a33-1823-44b5-af66-fadb0c877c6b",
     "brand": "Yamazaki"
+  },
+  {
+    "sku": "HL4310-181",
+    "name": "Hailo MK61 StandartLine Çelik 2 Basamaklı Katlanabilir Merdiven Siyah Renk",
+    "price": 2056.75,
+    "brand": "Hailo",
+    "page": 576,
+    "modalImage": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hailo-mk61-standartline-celik-2-basama--4edb-.jpg"
+  },
+  {
+    "sku": "HL4342-100",
+    "name": "Hailo DK40 Selekta BasicLine 2 Basamaklı Emniyet Merdiveni Alüminyum Renk",
+    "price": 6893.1,
+    "brand": "Hailo",
+    "page": 577,
+    "modalImage": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hailo-dk40-standartline-2-basamakli-em-e3e4cb.jpg"
+  },
+  {
+    "sku": "HL4343-100",
+    "name": "Hailo DK40 Selekta BasicLine 3 Basamaklı Emniyet Merdiveni Alüminyum Renk",
+    "price": 8085.42,
+    "brand": "Hailo",
+    "page": 578,
+    "modalImage": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hailo-dk40-standartline-3-basamakli-em-363a7e.jpg"
   }
 ]
