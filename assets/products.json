@@ -20006,7 +20006,7 @@
     "price": 2056.75,
     "brand": "Hailo",
     "page": 576,
-    "modalImage": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hailo-mk61-standartline-celik-2-basama--4edb-.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hailo-mk61-standartline-celik-2-basama--4edb-.jpg"
   },
   {
     "sku": "HL4342-100",
@@ -20014,7 +20014,7 @@
     "price": 6893.1,
     "brand": "Hailo",
     "page": 577,
-    "modalImage": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hailo-dk40-standartline-2-basamakli-em-e3e4cb.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hailo-dk40-standartline-2-basamakli-em-e3e4cb.jpg"
   },
   {
     "sku": "HL4343-100",
@@ -20022,6 +20022,38 @@
     "price": 8085.42,
     "brand": "Hailo",
     "page": 578,
-    "modalImage": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hailo-dk40-standartline-3-basamakli-em-363a7e.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/hailo-dk40-standartline-3-basamakli-em-363a7e.jpg"
+  },
+  {
+    "sku": "AR638",
+    "name": "Sinfonia Ciliegio Ahşap Dönüştürülebilir Ütü Masası + Sandalye",
+    "price": 20344.5,
+    "brand": "ARIT",
+    "page": 498,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/sinfonia-ciliegio-ahsap-donusturulebil-0-eb5c.jpg"
+  },
+  {
+    "sku": "AR616",
+    "name": "Karim Kiraz Ağacı Kurutmalık Duvara Monte 3 Kanatlı",
+    "price": 9558.0,
+    "brand": "ARIT",
+    "page": 498,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/karim-kiraz-agaci-kurutmalik-duvara-mo-0d7d-5.jpg"
+  },
+  {
+    "sku": "AR70",
+    "name": "Osimo Kiraz Ağacı Merdiven 3 Basamaklı",
+    "price": 9396.0,
+    "brand": "ARIT",
+    "page": 499,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/osimo-kiraz-agaci-merdiven-3-basamakli-e2a58a.jpg"
+  },
+  {
+    "sku": "AR71",
+    "name": "Dorotea Naturel Ahşaptan Merdiven 3 Basamaklı",
+    "price": 9720.0,
+    "brand": "ARIT",
+    "page": 499,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/dorotea-naturel-ahsaptan-merdiven-3-ba-c746-c.jpg"
   }
 ]
