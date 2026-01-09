@@ -21,21 +21,21 @@ window.Config.BRAND_ORDER = [
   "ZONE_DENMARK",
   "ZONE_DENMARK_MUTFAK",
   "ZONE_DENMARK_BANYO",
-  "GEFU",
-  "Yamazaki",
-  "Hailo",
   "ARIT",
-  "Foppapedretti",
-  "Lyngby Glas",
   "BAOLGI",
-  "TEM",
+  "Bitz",
+  "Foppapedretti",
+  "GEFU",
+  "Gense",
+  "Hailo",
+  "Le Feu",
+  "Lyngby Glas",
   "Rosti",
   "STUDIO_ROUND",
-  "Bitz",
-  "Gense",
-  "Le Feu",
   "Umbra",
-  "Villa Collection"
+  "Villa Collection",
+  "Yamazaki",
+  "TEM"
 ];
 
 // Resolve brand -> src path robustly
