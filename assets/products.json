@@ -20134,5 +20134,145 @@
     "price": 4140.0,
     "brand": "TEM",
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/dikdortgen-puro-kullugu-taba-0d8495.jpg"
+  },
+  {
+    "sku": "SR 31157",
+    "name": "North Seramik Makarna Kasesi",
+    "brand": "STUDIO_ROUND",
+    "price": 1226.18,
+    "price_display": "₺1.226.18",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/north-seramik-makarna-kasesi-mat-beyaz-e2b296.jpg",
+    "specs": "Ölçü: Çap:19 Cm | Renk: Mat Beyaz/Parlak Nehir | Malzeme: Seramik",
+    "full_name": "North Seramik Makarna Kasesi Mat Beyaz/Parlak Nehir Çap:19 Cm"
+  },
+  {
+    "sku": "SR 31158",
+    "name": "North Seramik Yemek Tabağı",
+    "brand": "STUDIO_ROUND",
+    "price": 1226.18,
+    "price_display": "₺1.226.18",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/north-seramik-yemek-tabagi-mat-beyazpa-24-ddf.jpg",
+    "specs": "Ölçü: Çap:27 Cm | Renk: Mat Beyaz/Parlak Nehir | Malzeme: Seramik",
+    "full_name": "North Seramik Yemek Tabağı Mat Beyaz/Parlak Nehir Çap:27 Cm"
+  },
+  {
+    "sku": "SR 31159",
+    "name": "North Seramik Öğle Yemeği Tabağı",
+    "brand": "STUDIO_ROUND",
+    "price": 1060.74,
+    "price_display": "₺1.060.74",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/north-seramik-ogle-yemegi-tabagi-mat-b-4665-b.jpg",
+    "specs": "Ölçü: Çap:21 Cm | Renk: Mat Beyaz/Parlak Nehir | Malzeme: Seramik",
+    "full_name": "North Seramik Öğle Yemeği Tabağı Mat Beyaz/Parlak Nehir Çap:21 Cm"
+  },
+  {
+    "sku": "SR 31161",
+    "name": "North Seramik Salata Kasesi",
+    "brand": "STUDIO_ROUND",
+    "price": 3826.45,
+    "price_display": "₺3.826.45",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/north-seramik-salata-kasesi-mat-beyazm-09-558.jpg",
+    "specs": "Ölçü: Çap:25 Cm | Renk: Mat Beyaz/Mat Nehir | Malzeme: Seramik",
+    "full_name": "North Seramik Salata Kasesi Mat Beyaz/Mat Nehir Çap:25 Cm"
+  },
+  {
+    "sku": "SR 31162",
+    "name": "North Seramik Servis Tabağı",
+    "brand": "STUDIO_ROUND",
+    "price": 3236.72,
+    "price_display": "₺3.236.72",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/north-seramik-servis-tabagi-mat-beyazm-1-4d44.jpg",
+    "specs": "Ölçü: 19 X 38 Cm | Renk: Mat Beyaz/Mat Nehir | Malzeme: Seramik",
+    "full_name": "North Seramik Servis Tabağı Mat Beyaz/Mat Nehir 19 X 38 Cm"
+  },
+  {
+    "sku": "SR 31166",
+    "name": "North Seramik Kase 4 Adet",
+    "brand": "STUDIO_ROUND",
+    "price": 2207.12,
+    "price_display": "₺2.207.12",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/north-seramik-kase-4-adet-cap11-cm-75a-9d.jpg",
+    "specs": "Ölçü: Çap:11 Cm | Malzeme: Seramik",
+    "full_name": "North Seramik Kase 4 Adet Çap:11 Cm"
+  },
+  {
+    "sku": "SR 31711",
+    "name": "North Seramik Salata Kasesi",
+    "brand": "STUDIO_ROUND",
+    "price": 3826.45,
+    "price_display": "₺3.826.45",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/north-seramik-salata-kasesi-mat-beyazp-94c-40.jpg",
+    "specs": "Ölçü: Çap:25 Cm | Renk: Mat Beyaz/Parlak Nehir | Malzeme: Seramik",
+    "full_name": "North Seramik Salata Kasesi Mat Beyaz/Parlak Nehir Çap:25 Cm"
+  },
+  {
+    "sku": "SR 31884",
+    "name": "North Seramik Salata Kasesi",
+    "brand": "STUDIO_ROUND",
+    "price": 3826.45,
+    "price_display": "₺3.826.45",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/north-seramik-salata-kasesi-mat-beyazp-7ec002.jpg",
+    "specs": "Ölçü: Çap:25 Cm | Renk: Mat Beyaz/Parlak Yosun | Malzeme: Seramik",
+    "full_name": "North Seramik Salata Kasesi Mat Beyaz/Parlak Yosun Çap:25 Cm"
+  },
+  {
+    "sku": "SR 32107",
+    "name": "Storm Paslanmaz Çelik Çatal Bıçak Takımı",
+    "brand": "STUDIO_ROUND",
+    "price": 4511.56,
+    "price_display": "₺4.511.56",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/storm-paslanmaz-celik-catal-bicak-taki-d17511.jpg",
+    "specs": "Ölçü: 16 Parça | Malzeme: Paslanmaz Çelik",
+    "full_name": "Storm Paslanmaz Çelik Çatal Bıçak Takımı 16 Parça"
+  },
+  {
+    "sku": "SR 32191",
+    "name": "North Seramik Yemek Takımı",
+    "brand": "STUDIO_ROUND",
+    "price": 16282.87,
+    "price_display": "₺16.282.87",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/north-seramik-yemek-takimi-16-parca-ma-1-4828.jpg",
+    "specs": "Ölçü: 16 Parça | Renk: Mat Beyaz/Parlak Nehir | Malzeme: Seramik",
+    "full_name": "North Seramik Yemek Takımı 16 Parça Mat Beyaz/Parlak Nehir"
+  },
+  {
+    "sku": "SR 32193",
+    "name": "North Seramik Yemek Takımı",
+    "brand": "STUDIO_ROUND",
+    "price": 16282.87,
+    "price_display": "₺16.282.87",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/north-seramik-yemek-takimi-16-parca-ma-1f-a3d.jpg",
+    "specs": "Ölçü: 16 Parça | Renk: Mat Beyaz/Parlak Yosun | Malzeme: Seramik",
+    "full_name": "North Seramik Yemek Takımı 16 Parça Mat Beyaz/Parlak Yosun"
+  },
+  {
+    "sku": "SR 32194",
+    "name": "North Seramik Yemek Takımı",
+    "brand": "STUDIO_ROUND",
+    "price": 16282.87,
+    "price_display": "₺16.282.87",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/north-seramik-yemek-takimi-16-parca-ma-e3e-94.jpg",
+    "specs": "Ölçü: 16 Parça | Renk: Mat Beyaz/Mat Kum | Malzeme: Seramik",
+    "full_name": "North Seramik Yemek Takımı 16 Parça Mat Beyaz/Mat Kum"
+  },
+  {
+    "sku": "SR 32195",
+    "name": "North Seramik Yemek Takımı",
+    "brand": "STUDIO_ROUND",
+    "price": 16282.87,
+    "price_display": "₺16.282.87",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/north-seramik-yemek-takimi-16-parca-ma-f7be-4.jpg",
+    "specs": "Ölçü: 16 Parça | Renk: Mat Beyaz/Mat Kabuk | Malzeme: Seramik",
+    "full_name": "North Seramik Yemek Takımı 16 Parça Mat Beyaz/Mat Kabuk"
+  },
+  {
+    "sku": "SR 32313",
+    "name": "Storm Paslanmaz Çelik Çatal Bıçak Takımı",
+    "brand": "STUDIO_ROUND",
+    "price": 4904.71,
+    "price_display": "₺4.904.71",
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/storm-paslanmaz-celik-catal-bicak-taki-158-01.jpg",
+    "specs": "Ölçü: 16 Parça | Renk: Bal Rengi | Malzeme: Paslanmaz Çelik",
+    "full_name": "Storm Paslanmaz Çelik Çatal Bıçak Takımı 16 Parça Bal Rengi"
   }
 ]
