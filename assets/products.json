@@ -2209,7 +2209,7 @@
   },
   {
     "brand": "GEFU",
-    "name": "Satış/Teşhir Standı – Universal Soyacak (3’ü 1 Arada) SPIN",
+    "name": "Universal Soyacak (3'u 1 Arada) SPIN",
     "sku": 13662,
     "page": 117,
     "price_value": 1037.32,
@@ -3544,33 +3544,36 @@
     "name": "Dört Yönlü Rende – CUBO",
     "sku": "GF 10750",
     "page": 123,
-    "price_value": 2493.92,
-    "price_display": "2.493,92 ₺",
+    "price_value": 2589.84,
+    "price_display": "₺2.589,84",
     "desc": "",
     "id": "089b01b2-8f14-41b2-a643-b704a8021a1c",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/cubo-dort-yonlu-kare-rende-paslanmaz-c-8d89-5.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/cubo-dort-yonlu-kare-rende-paslanmaz-c-8d89-5.jpg",
+    "price": 2589.84
   },
   {
     "brand": "GEFU",
     "name": "Dört Yönlü Rende – VITALES",
     "sku": "GF 10760",
     "page": 122,
-    "price_value": 3992.27,
-    "price_display": "3.992,27 ₺",
+    "price_value": 4145.82,
+    "price_display": "₺4.145,82",
     "desc": "",
     "id": "4a26c4ec-7ae9-4383-9449-498f2db3425a",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/vitales-dort-yonlu-kare-rende-136x81x2-cab145.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/vitales-dort-yonlu-kare-rende-136x81x2-cab145.jpg",
+    "price": 4145.82
   },
   {
     "brand": "GEFU",
     "name": "Katlanır Rende – RAFINO",
     "sku": "GF 50490",
     "page": 123,
-    "price_value": 2294.14,
-    "price_display": "2.294,14 ₺",
+    "price_value": 2382.37,
+    "price_display": "₺2.382,37",
     "desc": "",
     "id": "1480b317-5e92-473e-a098-20f875ba0f8c",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/rafino-2si-1-arada-katlanir-rende-295x-266af6.jpg"
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/rafino-2si-1-arada-katlanir-rende-295x-266af6.jpg",
+    "price": 2382.37
   },
   {
     "brand": "GEFU",
@@ -7511,18 +7514,6 @@
   },
   {
     "brand": "Umbra",
-    "name": "BELLWOOD Fotoğraf Çerçevesi (Siyah) – 4\"×6\"",
-    "sku": "1022813-040",
-    "page": 180,
-    "price_value": 2596.3,
-    "price_display": "₺2.596,30",
-    "desc": "Çift taraflı, dönebilen dekoratif çerçeve; fotoğrafları dikey veya yatay sergiler. Tasarım: Matt Carr. Ölçüler (dış): 21,6 × 16,2 × 5,1 cm (8½\" × 6⅜\" × 2\").",
-    "price": 2596.3,
-    "id": 1371,
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/bellwood-resim-cercevesi-siyah-renk-4x-144fc6.jpg"
-  },
-  {
-    "brand": "Umbra",
     "name": "BELLWOOD Fotoğraf Çerçevesi (Doğal) – 4\"×6\"",
     "sku": "1022813-390",
     "page": 180,
@@ -7637,17 +7628,6 @@
     "price": 2832.33,
     "id": 1360,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/flute-resim-cercevesi-krom-renk-5x7-13-b4762e.jpg"
-  },
-  {
-    "brand": "Umbra",
-    "name": "BELLWOOD Fotoğraf Çerçevesi (Siyah) – 8\"×10\"",
-    "sku": "1022846-040",
-    "page": 180,
-    "price_value": 4545.72,
-    "price_display": "₺4.545,72",
-    "desc": "Çift taraflı, dönebilen dekoratif çerçeve; fotoğrafları dikey veya yatay sergiler. Tasarım: Matt Carr. Ölçüler (dış): 26 × 30,4 × 10,7 cm (10¼\" × 12\" × 4¼\").",
-    "price": 4545.72,
-    "id": 1373
   },
   {
     "brand": "Umbra",
@@ -8096,18 +8076,6 @@
   },
   {
     "brand": "Umbra",
-    "name": "FLIP 5 Kancalı Askılık Siyah",
-    "sku": "318850-048",
-    "page": 197,
-    "price": 3303.63,
-    "price_value": 3303.63,
-    "price_display": "₺3.303,63",
-    "desc": "",
-    "id": "1443",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/flip-ceviz-rengi-5li-askilik-2d5605.jpg"
-  },
-  {
-    "brand": "Umbra",
     "name": "FLIP 5 Kancalı Askılık Driftwood/Nikel",
     "sku": "318850-1143",
     "page": 197,
@@ -8128,17 +8096,6 @@
     "price_display": "₺3.181,28",
     "desc": "",
     "id": "1438"
-  },
-  {
-    "brand": "Umbra",
-    "name": "FLIP 5 Kancalı Askılık Gri",
-    "sku": "318850-145",
-    "page": 197,
-    "price": 3181.28,
-    "price_value": 3181.28,
-    "price_display": "₺3.181,28",
-    "desc": "",
-    "id": "1445"
   },
   {
     "brand": "Umbra",
@@ -8166,18 +8123,6 @@
   },
   {
     "brand": "Umbra",
-    "name": "FLIP 5 Kancalı Askılık Doğal",
-    "sku": "318850-390",
-    "page": 197,
-    "price": 3303.63,
-    "price_value": 3303.63,
-    "price_display": "₺3.303,63",
-    "desc": "",
-    "id": "1444",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/flip-dogal-ahsap-5li-askilik--af07-.jpg"
-  },
-  {
-    "brand": "Umbra",
     "name": "FLIP 5 Kancalı Askılık Beyaz/Nikel",
     "sku": "318850-660",
     "page": 197,
@@ -8186,18 +8131,6 @@
     "price_display": "₺3.304,39",
     "desc": "",
     "id": "1435",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/flip-5-duvara-monte-kanca--f457-.jpg"
-  },
-  {
-    "brand": "Umbra",
-    "name": "FLIP 5 Kancalı Askılık Beyaz",
-    "sku": "318850-660",
-    "page": 197,
-    "price": 3304.39,
-    "price_value": 3304.39,
-    "price_display": "₺3.304,39",
-    "desc": "",
-    "id": "1442",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/flip-5-duvara-monte-kanca--f457-.jpg"
   },
   {
@@ -13587,10 +13520,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/rocks-bardak-altliklari-4lu-gri-cap104-6a9b-4.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Nova One",
     "sku": "ZD15248",
-    "page": 84,
+    "page": 80,
     "price_value": 3100.48,
     "price_display": "₺3.100,48",
     "desc": "Sıvı Sabunluk – Nova One – Matcha Green",
@@ -13599,10 +13532,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd15248.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Nova One",
     "sku": "ZD15249",
-    "page": 84,
+    "page": 80,
     "price_value": 1874.3,
     "price_display": "₺1.874,30",
     "desc": "Diş Fırçalık – Nova One – Matcha Green",
@@ -13611,10 +13544,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd15249.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Nova One",
     "sku": "ZD15251",
-    "page": 84,
+    "page": 80,
     "price_value": 1629.07,
     "price_display": "₺1.629,07",
     "desc": "Katı Sabunluk – Nova One – Matcha Green",
@@ -13921,10 +13854,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-mutfak-rulo-tutucu-taupe-32-cm-4-4a20.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Nova One",
     "sku": "ZD28086",
-    "page": 84,
+    "page": 80,
     "price_value": 3100.48,
     "price_display": "₺3.100,48",
     "desc": "Sıvı Sabunluk – Nova One – Taupe",
@@ -13933,10 +13866,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd28086.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Nova One",
     "sku": "ZD28087",
-    "page": 84,
+    "page": 80,
     "price_value": 1874.3,
     "price_display": "₺1.874,30",
     "desc": "Diş Fırçalık – Nova One – Taupe",
@@ -13945,10 +13878,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd28087.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Nova One",
     "sku": "ZD28096",
-    "page": 84,
+    "page": 80,
     "price_value": 1629.07,
     "price_display": "₺1.629,07",
     "desc": "Katı Sabunluk – Nova One – Taupe",
@@ -13957,7 +13890,7 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd28096.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Nova One",
     "sku": "ZD28160",
     "page": 80,
@@ -13969,10 +13902,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-seramik-kavanoz-2-parca-siyah-4823-a.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Nova One",
     "sku": "ZD28185",
-    "page": 84,
+    "page": 80,
     "price_value": "1568,73",
     "price_display": "₺1.568,73",
     "desc": "Pamukluk – Grey",
@@ -13981,10 +13914,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd28185.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Nova One",
     "sku": "ZD28186",
-    "page": 84,
+    "page": 80,
     "price_value": "1966,07",
     "price_display": "₺1.966,07",
     "desc": "Pamukluk – Gull Grey",
@@ -14004,10 +13937,10 @@
     "price": 1966.07
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Nova One",
     "sku": "ZD28188",
-    "page": 84,
+    "page": 80,
     "price_value": 2041.68,
     "price_display": "₺2.041,68",
     "desc": "Pamukluk – Matcha Green",
@@ -14016,10 +13949,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd28188.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Nova One",
     "sku": "ZD28189",
-    "page": 84,
+    "page": 80,
     "price_value": 2041.68,
     "price_display": "₺2.041,68",
     "desc": "Kapaklı Kavanoz – Nova One – Taupe",
@@ -14397,10 +14330,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-yag-spreyi-soft-taupegri-200-m-ff8-8f.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Nova One",
     "sku": "ZD330099",
-    "page": 84,
+    "page": 80,
     "price_value": 1629.07,
     "price_display": "₺1.629,07",
     "desc": "Kapaklı Kavanoz – Nova One – Black",
@@ -14409,10 +14342,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-porselen-kati-sabunluk-siyah-9b4f-2.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Nova One",
     "sku": "ZD330107",
-    "page": 84,
+    "page": 80,
     "price_value": "1966,07",
     "price_display": "₺1.966,07",
     "desc": "Kapaklı Kavanoz – Nova One – Grey",
@@ -14421,10 +14354,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd330107.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Nova One",
     "sku": "ZD330161",
-    "page": 84,
+    "page": 80,
     "price_value": 1874.3,
     "price_display": "₺1.874,30",
     "desc": "Diş Fırçalık – Nova One – Black",
@@ -14433,7 +14366,7 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-dis-fircasi-kupasi-siyah--a515c.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Nova One",
     "sku": "ZD330163",
     "page": 80,
@@ -14445,10 +14378,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd330163.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Nova One",
     "sku": "ZD330164",
-    "page": 84,
+    "page": 80,
     "price_value": "1804,88",
     "price_display": "₺1.804,88",
     "desc": "Diş Fırçalık – Nova One – Grey",
@@ -14457,10 +14390,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd330164.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Nova One",
     "sku": "ZD330186",
-    "page": 84,
+    "page": 80,
     "price_value": "2985,65",
     "price_display": "₺2.985,65",
     "desc": "Sıvı Sabunluk – Nova One – Royal Blue",
@@ -14469,10 +14402,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd330186.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Nova One",
     "sku": "ZD330187",
-    "page": 84,
+    "page": 80,
     "price_value": "1804,88",
     "price_display": "₺1.804,88",
     "desc": "Diş Fırçalık – Nova One – Royal Blue",
@@ -14481,10 +14414,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd330187.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Nova One",
     "sku": "ZD330189",
-    "page": 84,
+    "page": 80,
     "price_value": "1966,07",
     "price_display": "₺1.966,07",
     "desc": "Kapaklı Kavanoz – Nova One – Royal Blue",
@@ -14612,10 +14545,10 @@
     "price": 2481.45
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Nova One",
     "sku": "ZD331217",
-    "page": 84,
+    "page": 80,
     "price_value": 3100.48,
     "price_display": "₺3.100,48",
     "desc": "Sıvı Sabunluk – Nova One – Gull Grey",
@@ -14624,10 +14557,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd331217.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Nova One",
     "sku": "ZD331218",
-    "page": 84,
+    "page": 80,
     "price_value": 1874.3,
     "price_display": "₺1.874,30",
     "desc": "Diş Fırçalık – Nova One – Gull Grey",
@@ -14636,7 +14569,7 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd331218.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Nova One",
     "sku": "ZD331221",
     "page": 80,
@@ -14848,10 +14781,10 @@
     "price": 2985.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Nova One",
     "sku": "ZD33277",
-    "page": 84,
+    "page": 80,
     "price_value": "1804,88",
     "price_display": "₺1.804,88",
     "desc": "Diş Fırçalık – Nova One – Mandarine",
@@ -14860,10 +14793,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd33277.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Nova One",
     "sku": "ZD33278",
-    "page": 84,
+    "page": 80,
     "price_value": "1568,73",
     "price_display": "₺1.568,73",
     "desc": "Katı Sabunluk – Nova One – Mandarine",
@@ -14872,10 +14805,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd33278.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Nova One",
     "sku": "ZD33283",
-    "page": 84,
+    "page": 80,
     "price_value": "1966,07",
     "price_display": "₺1.966,07",
     "desc": "Kapaklı Kavanoz – Nova One – Mandarine",
@@ -14965,10 +14898,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/rocks-bar-seti-3-parca-cilali-paslanma-c3223-.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sepet – INU",
     "sku": "ZD10550",
-    "page": 16,
+    "page": 100,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "Toz boyalı çelik, D 40,6 cm, H 41,1 cm, Renk: Black",
@@ -14977,10 +14910,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/inu-masa-ustu-tel-sepet-siyah-406-x-41-81-239.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sepet – INU",
     "sku": "ZD10551",
-    "page": 16,
+    "page": 100,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "Toz boyalı çelik, D 40,6 cm, H 41,1 cm, Renk: Soft Grey",
@@ -14989,10 +14922,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/inu-masa-ustu-tel-sepet-yumusak-gri-40-c05b66.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sepet – INU",
     "sku": "ZD10552",
-    "page": 16,
+    "page": 100,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "Toz boyalı çelik, D 40,6 cm, H 41,1 cm, Renk: Taupe",
@@ -15001,10 +14934,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/inu-masa-ustu-tel-sepet-taupe-406-x-41-68-dc6.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sepet – INU",
     "sku": "ZD10554",
-    "page": 16,
+    "page": 100,
     "price_value": 5307.6,
     "price_display": "₺5.307,60",
     "desc": "Toz boyalı çelik, D 30 cm, H 30,5 cm, Renk: Black",
@@ -15013,10 +14946,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/inu-masa-ustu-tel-sepet-siyah-30-x-305-ffe6ea.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sepet – INU",
     "sku": "ZD10569",
-    "page": 16,
+    "page": 100,
     "price_value": 5307.6,
     "price_display": "₺5.307,60",
     "desc": "Toz boyalı çelik, D 30 cm, H 30,5 cm, Renk: Soft Grey",
@@ -15025,10 +14958,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/inu-masa-ustu-tel-sepet-yumusak-gri-30-87-85b.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sepet – INU",
     "sku": "ZD10570",
-    "page": 16,
+    "page": 100,
     "price_value": 5307.6,
     "price_display": "₺5.307,60",
     "desc": "Toz boyalı çelik, D 30 cm, H 30,5 cm, Renk: Taupe",
@@ -15037,10 +14970,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/inu-masa-ustu-tel-sepet-taupe-30-x-305-d54c9e.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD10913",
     "sku": "ZD10913",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 97,
     "price_value": 9398.75,
     "price_display": "₺9.398,75",
     "desc": "",
@@ -15049,10 +14982,10 @@
     "price": 9398.75
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD10916",
     "sku": "ZD10916",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 97,
     "price_value": 9398.75,
     "price_display": "₺9.398,75",
     "desc": "",
@@ -15061,10 +14994,10 @@
     "price": 9398.75
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD13534",
     "sku": "ZD13534",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 3033.38,
     "price_display": "₺3.033,38",
     "desc": "",
@@ -15073,10 +15006,10 @@
     "price": 3033.38
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14635",
     "sku": "ZD14635",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 89,
     "price_value": 4494.04,
     "price_display": "₺4.494,04",
     "desc": "",
@@ -15085,10 +15018,10 @@
     "price": 4494.04
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14636",
     "sku": "ZD14636",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 89,
     "price_value": 5720.22,
     "price_display": "₺5.720,22",
     "desc": "",
@@ -15097,10 +15030,10 @@
     "price": 5720.22
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14637",
     "sku": "ZD14637",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 91,
     "price_value": 3267.86,
     "price_display": "₺3.267,86",
     "desc": "",
@@ -15109,10 +15042,10 @@
     "price": 3267.86
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14638",
     "sku": "ZD14638",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 90,
     "price_value": 4902.77,
     "price_display": "₺4.902,77",
     "desc": "",
@@ -15121,10 +15054,10 @@
     "price": 4902.77
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14639",
     "sku": "ZD14639",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 90,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "",
@@ -15133,10 +15066,10 @@
     "price": 6533.78
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14640",
     "sku": "ZD14640",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 90,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "",
@@ -15145,10 +15078,10 @@
     "price": 6533.78
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14642",
     "sku": "ZD14642",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 90,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "",
@@ -15157,10 +15090,10 @@
     "price": 6533.78
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14644",
     "sku": "ZD14644",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 91,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "",
@@ -15169,10 +15102,10 @@
     "price": 6533.78
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14645",
     "sku": "ZD14645",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 89,
     "price_value": 5720.22,
     "price_display": "₺5.720,22",
     "desc": "",
@@ -15181,10 +15114,10 @@
     "price": 5720.22
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14646",
     "sku": "ZD14646",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 89,
     "price_value": 8172.64,
     "price_display": "₺8.172,64",
     "desc": "",
@@ -15193,10 +15126,10 @@
     "price": 8172.64
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14647",
     "sku": "ZD14647",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 91,
     "price_value": 5720.22,
     "price_display": "₺5.720,22",
     "desc": "",
@@ -15205,10 +15138,10 @@
     "price": 5720.22
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14648",
     "sku": "ZD14648",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 91,
     "price_value": 2855.24,
     "price_display": "₺2.855,24",
     "desc": "",
@@ -15217,10 +15150,10 @@
     "price": 2855.24
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14649",
     "sku": "ZD14649",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 91,
     "price_value": 2855.24,
     "price_display": "₺2.855,24",
     "desc": "",
@@ -15229,10 +15162,10 @@
     "price": 2855.24
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14650",
     "sku": "ZD14650",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 89,
     "price_value": 3267.86,
     "price_display": "₺3.267,86",
     "desc": "",
@@ -15241,10 +15174,10 @@
     "price": 3267.86
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14651",
     "sku": "ZD14651",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 91,
     "price_value": 4494.04,
     "price_display": "₺4.494,04",
     "desc": "",
@@ -15253,10 +15186,10 @@
     "price": 4494.04
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14652",
     "sku": "ZD14652",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 91,
     "price_value": 8986.13,
     "price_display": "₺8.986,13",
     "desc": "",
@@ -15265,10 +15198,10 @@
     "price": 8986.13
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14653",
     "sku": "ZD14653",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 90,
     "price_value": 1629.07,
     "price_display": "₺1.629,07",
     "desc": "",
@@ -15277,10 +15210,10 @@
     "price": 1629.07
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14654",
     "sku": "ZD14654",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 90,
     "price_value": 2041.68,
     "price_display": "₺2.041,68",
     "desc": "",
@@ -15289,10 +15222,10 @@
     "price": 2041.68
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14655",
     "sku": "ZD14655",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 89,
     "price_value": 8986.13,
     "price_display": "₺8.986,13",
     "desc": "",
@@ -15301,10 +15234,10 @@
     "price": 8986.13
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14895",
     "sku": "ZD14895",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 89,
     "price_value": 4902.77,
     "price_display": "₺4.902,77",
     "desc": "",
@@ -15313,10 +15246,10 @@
     "price": 4902.77
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD14896",
     "sku": "ZD14896",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 89,
     "price_value": 4494.04,
     "price_display": "₺4.494,04",
     "desc": "",
@@ -15325,10 +15258,10 @@
     "price": 4494.04
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Yumurta Dilimleyici – Singles",
     "sku": "ZD15236",
-    "page": 59,
+    "page": 57,
     "price_value": 1708.19,
     "price_display": "₺1.708,19",
     "desc": "PP • D 10,4 cm, H 3,5 cm • 6’lı Set • Tasarım: VE2",
@@ -15337,10 +15270,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-tekli-yumurta-dilimleyici-sica-ea9dc-.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Yumurta Dilimleyici – Singles",
     "sku": "ZD15237",
-    "page": 59,
+    "page": 57,
     "price_value": 1708.19,
     "price_display": "₺1.708,19",
     "desc": "PP • D 10,4 cm, H 3,5 cm • 6’lı Set • Tasarım: VE2",
@@ -15349,10 +15282,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-tekli-yumurta-dilimleyici-siya-a77f27.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Bulaşık Seti – Singles",
     "sku": "ZD15238",
-    "page": 58,
+    "page": 56,
     "price_value": 3836.19,
     "price_display": "₺3.836,19",
     "desc": "Silikon / Seramik / ABS • L 19 cm, W 6 cm, H 20,5 cm, 0,4 l",
@@ -15361,10 +15294,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/bulasik-yikama-seti-4-parca-sicak-gri-17-bae.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Bulaşık Seti – Singles",
     "sku": "ZD15240",
-    "page": 58,
+    "page": 56,
     "price_value": 3836.19,
     "price_display": "₺3.836,19",
     "desc": "Silikon / Seramik / ABS • L 19 cm, W 6 cm, H 20,5 cm, 0,4 l",
@@ -15373,10 +15306,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/bulasik-yikama-seti-4-parca-bej-40d-a9.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Bulaşık Seti – Singles",
     "sku": "ZD15241",
-    "page": 58,
+    "page": 56,
     "price_value": 3836.19,
     "price_display": "₺3.836,19",
     "desc": "Silikon / Seramik / ABS • L 19 cm, W 6 cm, H 20,5 cm, 0,4 l",
@@ -15385,46 +15318,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/bulasik-yikama-seti-4-parca-soguk-gri-f9c256.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
-    "name": "Sıvı Sabunluk – Nova One",
-    "sku": "ZD15248",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 3100.48,
-    "price_display": "₺3.100,48",
-    "desc": "Sıvı Sabunluk – Nova One – Matcha Green",
-    "id": 1914,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd15248.jpg",
-    "price": 3100.48
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Diş Fırçalık – Nova One",
-    "sku": "ZD15249",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 1874.3,
-    "price_display": "₺1.874,30",
-    "desc": "Diş Fırçalık – Nova One – Matcha Green",
-    "id": 1915,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd15249.jpg",
-    "price": 1874.3
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Katı Sabunluk – Nova One",
-    "sku": "ZD15251",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 1629.07,
-    "price_display": "₺1.629,07",
-    "desc": "Katı Sabunluk – Nova One – Matcha Green",
-    "id": 1916,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd15251.jpg",
-    "price": 1629.07
-  },
-  {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Nova One",
     "sku": "ZD15252",
-    "page": 85,
+    "page": 81,
     "price_value": 4326.66,
     "price_display": "₺4.326,66",
     "desc": "Malzeme: Stoneware / Soft Touch / SS304 | Ölçüler: D 10,3 cm, H 37 cm | Tasarım: Thomas Dudzinski",
@@ -15433,10 +15330,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-tuvalet-fircasi-matcha-yesili-134402.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Nova (3 L)",
     "sku": "ZD15253",
-    "page": 85,
+    "page": 81,
     "price_value": 5720.22,
     "price_display": "₺5.720,22",
     "desc": "Malzeme: ABS / Soft Touch | Ölçüler: D 20,5 cm, H 23,5 cm | Hacim: 3 litre | Tasarım: Thomas Dudzinski",
@@ -15455,10 +15352,10 @@
     "id": "643970a9-4687-4882-a38e-331773a2e646"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD15359",
     "sku": "ZD15359",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 1101.65,
     "price_display": "₺1.101,65",
     "desc": "",
@@ -15467,10 +15364,10 @@
     "price": 1101.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD15361",
     "sku": "ZD15361",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 95,
     "price_value": 2481.45,
     "price_display": "₺2.481,45",
     "desc": "",
@@ -15479,10 +15376,10 @@
     "price": 2481.45
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD15364",
     "sku": "ZD15364",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 95,
     "price_value": 549.73,
     "price_display": "₺549,73",
     "desc": "",
@@ -15491,10 +15388,10 @@
     "price": 549.73
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Ume",
     "sku": "ZD15753",
-    "page": 88,
+    "page": 84,
     "price_value": 2450.41,
     "price_display": "₺2.450,41",
     "desc": "",
@@ -15503,10 +15400,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-kavanozu-2-parca-siyah-103-cm-cap8-97b99d.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Ume",
     "sku": "ZD15754",
-    "page": 88,
+    "page": 84,
     "price_value": 2359.65,
     "price_display": "₺2.359,65",
     "desc": "",
@@ -15514,10 +15411,10 @@
     "price": 2359.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Ume",
     "sku": "ZD15755",
-    "page": 88,
+    "page": 84,
     "price_value": 2359.65,
     "price_display": "₺2.359,65",
     "desc": "",
@@ -15525,10 +15422,10 @@
     "price": 2359.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Ume",
     "sku": "ZD15756",
-    "page": 88,
+    "page": 84,
     "price_value": 2450.41,
     "price_display": "₺2.450,41",
     "desc": "",
@@ -15537,10 +15434,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-kavanozu-2-parca-yumusak-gri-103-c-d2-b02.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Ume",
     "sku": "ZD15758",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 84,
     "price_value": "2359,65",
     "price_display": "₺2.359,65",
     "desc": "Kapaklı Kavanoz – Ume – Eucalyptus Green",
@@ -15549,10 +15446,10 @@
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/item_23629.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD23884",
     "sku": "ZD23884",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 3033.38,
     "price_display": "₺3.033,38",
     "desc": "",
@@ -15575,7 +15472,7 @@
     "brand": "ZONE_DENMARK",
     "name": "Vazo – INU",
     "sku": "ZD25936",
-    "page": 16,
+    "page": 12,
     "price_value": 14303.46,
     "price_display": "₺14.303,46",
     "desc": "Ağızla üflenmiş cam, D 23 cm, H 25 cm, Renk: Smoked Grey",
@@ -15587,7 +15484,7 @@
     "brand": "ZONE_DENMARK",
     "name": "Vazo – INU",
     "sku": "ZD25938",
-    "page": 16,
+    "page": 12,
     "price_value": 14303.46,
     "price_display": "₺14.303,46",
     "desc": "Ağızla üflenmiş cam, D 23 cm, H 25 cm, Renk: Moss Green",
@@ -15599,7 +15496,7 @@
     "brand": "ZONE_DENMARK",
     "name": "Vazo – INU",
     "sku": "ZD25940",
-    "page": 16,
+    "page": 12,
     "price_value": 19616.9,
     "price_display": "₺19.616,90",
     "desc": "Ağızla üflenmiş cam, D 31,7 cm, H 33 cm, Renk: Smoked Grey",
@@ -15611,7 +15508,7 @@
     "brand": "ZONE_DENMARK",
     "name": "Vazo – INU",
     "sku": "ZD25941",
-    "page": 16,
+    "page": 12,
     "price_value": 19616.9,
     "price_display": "₺19.616,90",
     "desc": "Ağızla üflenmiş cam, D 23 cm, H 25 cm, Renk: Smoked Grey",
@@ -15620,10 +15517,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/inu-vazo-yosun-yesili-317-x-33-cm-e5723f.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD26428",
-    "page": 88,
+    "page": 84,
     "price_value": 3513.1,
     "price_display": "₺3.513,10",
     "desc": "",
@@ -15632,10 +15529,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-sivi-sabunluk-250-ml-zeytin-yesili-f-02e5.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD26429",
-    "page": 88,
+    "page": 84,
     "price_value": 3382.98,
     "price_display": "₺3.382,98",
     "desc": "",
@@ -15643,10 +15540,10 @@
     "price": 3382.98
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD26430",
-    "page": 88,
+    "page": 84,
     "price_value": 1874.3,
     "price_display": "₺1.874,30",
     "desc": "",
@@ -15655,10 +15552,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-dis-fircasi-kupasi-zeytin-yesili-1-ea9-e9.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD26431",
-    "page": 88,
+    "page": 84,
     "price_value": 1804.88,
     "price_display": "₺1.804,88",
     "desc": "",
@@ -15666,10 +15563,10 @@
     "price": 1804.88
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD26432",
-    "page": 89,
+    "page": 85,
     "price_value": 5403.88,
     "price_display": "₺5.403,88",
     "desc": "",
@@ -15678,10 +15575,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-tuvalet-fircasi-zeytin-yesil-387-c-ce919e.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD26433",
-    "page": 89,
+    "page": 85,
     "price_value": 5508.36,
     "price_display": "₺5.508,36",
     "desc": "",
@@ -15689,10 +15586,10 @@
     "price": 5508.36
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD26434",
-    "page": 88,
+    "page": 84,
     "price_value": 1629.07,
     "price_display": "₺1.629,07",
     "desc": "",
@@ -15701,10 +15598,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-kati-sabunluk-zeytin-yesili-cap12--ec3b47.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD26435",
-    "page": 88,
+    "page": 84,
     "price_value": 1568.73,
     "price_display": "₺1.568,73",
     "desc": "",
@@ -15712,10 +15609,10 @@
     "price": 1568.73
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD26436",
-    "page": 89,
+    "page": 85,
     "price_value": 6128.94,
     "price_display": "₺6.128,94",
     "desc": "",
@@ -15724,10 +15621,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-pedalli-cop-kovasi-4-l-zeytin-yesi-02-814.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD26437",
-    "page": 89,
+    "page": 85,
     "price_value": 5901.95,
     "price_display": "₺5.901,95",
     "desc": "",
@@ -15735,10 +15632,10 @@
     "price": 5901.95
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Ume",
     "sku": "ZD26438",
-    "page": 88,
+    "page": 84,
     "price_value": 2450.41,
     "price_display": "₺2.450,41",
     "desc": "",
@@ -15747,10 +15644,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-kavanozu-2-parca-zeytin-yesili-103-2-ff10.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Ume",
     "sku": "ZD26439",
-    "page": 88,
+    "page": 84,
     "price_value": 2359.65,
     "price_display": "₺2.359,65",
     "desc": "",
@@ -15758,10 +15655,10 @@
     "price": 2359.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD26441",
     "sku": "ZD26441",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 95,
     "price_value": 2481.45,
     "price_display": "₺2.481,45",
     "desc": "",
@@ -15770,10 +15667,10 @@
     "price": 2481.45
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD26443",
     "sku": "ZD26443",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 1101.65,
     "price_display": "₺1.101,65",
     "desc": "",
@@ -15782,10 +15679,10 @@
     "price": 1101.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD26444",
     "sku": "ZD26444",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 1101.65,
     "price_display": "₺1.101,65",
     "desc": "",
@@ -15794,20 +15691,20 @@
     "price": 1101.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD26447",
     "sku": "ZD26447",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 95,
     "price_value": "2.389,55",
     "price_display": "₺2.389,55",
     "desc": "",
     "id": 1925
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD26451",
     "sku": "ZD26451",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 3033.38,
     "price_display": "₺3.033,38",
     "desc": "",
@@ -15816,10 +15713,10 @@
     "price": 3033.38
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD26452",
     "sku": "ZD26452",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 3033.38,
     "price_display": "₺3.033,38",
     "desc": "",
@@ -15828,10 +15725,10 @@
     "price": 3033.38
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Çamaşır Sepeti – Ume",
     "sku": "ZD26523",
-    "page": 89,
+    "page": 85,
     "price_value": 8168.68,
     "price_display": "₺8.168,68",
     "desc": "",
@@ -15840,32 +15737,34 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-camasir-sepeti-60-l-siyah-204a53.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Çamaşır Sepeti – Ume",
     "sku": "ZD26525",
-    "page": 89,
+    "page": 85,
     "price_value": 7669.02,
     "price_display": "₺7.669,02",
     "desc": "",
     "id": "31e105b1-2c6e-497b-ada2-b734f545cf95",
-    "price": 7669.02
+    "price": 7669.02,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-camasir-sepeti-60-l-beyaz-cap-40-c-0f7-4f.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Çamaşır Sepeti – Ume",
     "sku": "ZD26526",
-    "page": 89,
+    "page": 85,
     "price_value": 7669.02,
     "price_display": "₺7.669,02",
     "desc": "",
     "id": "67a210ec-1ba0-4015-8ebe-0d1a4b2f2b99",
-    "price": 7669.02
+    "price": 7669.02,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-camasir-sepeti-60-l-gri-cap-40-cm-f-9598.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Çamaşır Sepeti – Ume",
     "sku": "ZD26527",
-    "page": 89,
+    "page": 85,
     "price_value": 8168.68,
     "price_display": "₺8.168,68",
     "desc": "",
@@ -15874,10 +15773,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-camasir-sepeti-60-l-yumusak-gri-18-8b1.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Çamaşır Sepeti – Ume",
     "sku": "ZD26528",
-    "page": 89,
+    "page": 85,
     "price_value": 8168.68,
     "price_display": "₺8.168,68",
     "desc": "",
@@ -15886,10 +15785,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-camasir-sepeti-60-l-haki--abca-.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Çamaşır Sepeti – Ume",
     "sku": "ZD26529",
-    "page": 89,
+    "page": 85,
     "price_value": 8168.68,
     "price_display": "₺8.168,68",
     "desc": "",
@@ -15898,10 +15797,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-camasir-sepeti-60-l-taupe-cb70d8.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Çamaşır Sepeti – Ume",
     "sku": "ZD26530",
-    "page": 89,
+    "page": 85,
     "price_value": 8168.68,
     "price_display": "₺8.168,68",
     "desc": "",
@@ -15910,10 +15809,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-camasir-sepeti-60-l-zeytin-yesili-2e271f.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Bulaşık Süzgeci Seti – DIISH",
     "sku": "ZD26658",
-    "page": 58,
+    "page": 56,
     "price_value": 6537.67,
     "price_display": "₺6.537,67",
     "desc": "Silikon / Metal • L 42 cm, W 32 cm, H 10 cm",
@@ -15922,10 +15821,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/diish-bulasiklik-seti-4-parca-siyah-b75f6d.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Bulaşık Fırçası – DIISH",
     "sku": "ZD26667",
-    "page": 59,
+    "page": 57,
     "price_value": 1078.72,
     "price_display": "₺1.078,72",
     "desc": "PP • L 23,5 cm, W 5 cm, H 5 cm • Tasarım: Mavro/Lefevre",
@@ -15934,10 +15833,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/diish-bulasik-makinesi-fircasi-siyah-2-cdf-93.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Bulaşık Fırçası – DIISH",
     "sku": "ZD26671",
-    "page": 59,
+    "page": 57,
     "price_value": 1078.72,
     "price_display": "₺1.078,72",
     "desc": "PP • L 23,5 cm, W 5 cm, H 5 cm • Tasarım: Mavro/Lefevre",
@@ -15946,10 +15845,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/diish-bulasik-makinesi-fircasi-sicak-g-7b3-46.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Bulaşık Fırçası – Circular",
     "sku": "ZD26731",
-    "page": 59,
+    "page": 57,
     "price_value": 1078.72,
     "price_display": "₺1.078,72",
     "desc": "PP • L 24 cm, W 3,2 cm, H 4 cm • Tasarım: VE2",
@@ -15958,10 +15857,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/dairesel-bulasik-makinesi-fircasi-siya--4b4f-.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Bulaşık Fırçası – Circular",
     "sku": "ZD26747",
-    "page": 59,
+    "page": 57,
     "price_value": 1078.72,
     "price_display": "₺1.078,72",
     "desc": "PP • L 24 cm, W 3,2 cm, H 4 cm • Tasarım: VE2",
@@ -15970,10 +15869,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/dairesel-bulasik-makinesi-fircasi-sica-a6a-9d.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD27920",
     "sku": "ZD27920",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 96,
     "price_value": 2205.17,
     "price_display": "₺2.205,17",
     "desc": "",
@@ -15982,10 +15881,10 @@
     "price": 2205.17
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Bulaşık Seti – Singles",
     "sku": "ZD28078",
-    "page": 58,
+    "page": 56,
     "price_value": 3836.19,
     "price_display": "₺3.836,19",
     "desc": "Silikon / Seramik / ABS • L 19 cm, W 6 cm, H 20,5 cm, 0,4 l",
@@ -15994,10 +15893,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/bulasik-yikama-seti-4-parca-taupe-7f29b0.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Nova (5 L)",
     "sku": "ZD28085",
-    "page": 85,
+    "page": 81,
     "price_value": 6173.66,
     "price_display": "₺6.173,66",
     "desc": "Malzeme: ABS / Soft Touch | Ölçüler: D 23 cm, H 29 cm | Hacim: 5 litre | Tasarım: Thomas Dudzinski",
@@ -16006,34 +15905,10 @@
     "price": 6173.66
   },
   {
-    "brand": "ZONE_DENMARK",
-    "name": "Sıvı Sabunluk – Nova One",
-    "sku": "ZD28086",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 3100.48,
-    "price_display": "₺3.100,48",
-    "desc": "Sıvı Sabunluk – Nova One – Taupe",
-    "id": 1927,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd28086.jpg",
-    "price": 3100.48
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Diş Fırçalık – Nova One",
-    "sku": "ZD28087",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 1874.3,
-    "price_display": "₺1.874,30",
-    "desc": "Diş Fırçalık – Nova One – Taupe",
-    "id": 1928,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd28087.jpg",
-    "price": 1874.3
-  },
-  {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Nova One",
     "sku": "ZD28088",
-    "page": 85,
+    "page": 81,
     "price_value": 4326.66,
     "price_display": "₺4.326,66",
     "desc": "Malzeme: Stoneware / Soft Touch / SS304 | Ölçüler: D 10,3 cm, H 37 cm | Tasarım: Thomas Dudzinski",
@@ -16042,33 +15917,22 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-tuvalet-fircasi-taupe-5f7983.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Nova (3 L)",
     "sku": "ZD28089",
-    "page": 85,
+    "page": 81,
     "price_value": 5369.63,
     "price_display": "₺5.369,63",
     "desc": "Malzeme: ABS / Soft Touch | Ölçüler: D 20,5 cm, H 23,5 cm | Hacim: 3 litre | Tasarım: Thomas Dudzinski",
     "id": "01bcefe5-8986-457d-8937-6f03bd17446b",
-    "price": 5369.63
+    "price": 5369.63,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-pedalli-cop-kovasi-3-l-taupe-1-30ed.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
-    "name": "Katı Sabunluk – Nova One",
-    "sku": "ZD28096",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 1629.07,
-    "price_display": "₺1.629,07",
-    "desc": "Katı Sabunluk – Nova One – Taupe",
-    "id": 1929,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd28096.jpg",
-    "price": 1629.07
-  },
-  {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sabunluk – Time",
     "sku": "ZD28114",
-    "page": 78,
+    "page": 74,
     "price_value": 3100.48,
     "price_display": "₺3.100,48",
     "desc": "Beton / ABS; L 8 cm, W 8 cm, H 13 cm, 0,22 l; Tasarım: Mavro/Lefèvre",
@@ -16077,10 +15941,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-soap-sivi-sabunluk-220-ml-siyah--518f7.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Time",
     "sku": "ZD28117",
-    "page": 78,
+    "page": 74,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "Beton / ABS; L 10,5 cm, W 10,5 cm, H 36 cm",
@@ -16089,10 +15953,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-soap-tuvalet-fircasi-siyah-b56e1b.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Time",
     "sku": "ZD28121",
-    "page": 78,
+    "page": 74,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "ABS; L 20,8 cm, W 20,8 cm, H 27,5 cm; Hacim: 3 litre",
@@ -16101,10 +15965,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-pedalli-cop-kovasi-3-l-siyah-ee6a56.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sabunluk – Time",
     "sku": "ZD28122",
-    "page": 78,
+    "page": 74,
     "price_value": 3100.48,
     "price_display": "₺3.100,48",
     "desc": "Beton / ABS; L 8 cm, W 8 cm, H 13 cm, 0,22 l; Tasarım: Mavro/Lefèvre",
@@ -16113,10 +15977,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-soap-sivi-sabunluk-220-ml-beton-g-a655c2.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sabunluk – Time",
     "sku": "ZD28123",
-    "page": 78,
+    "page": 74,
     "price_value": 3100.48,
     "price_display": "₺3.100,48",
     "desc": "Beton / ABS; L 8 cm, W 8 cm, H 13 cm, 0,22 l; Tasarım: Mavro/Lefèvre",
@@ -16125,10 +15989,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-soap-sivi-sabunluk-220-ml-yumusak-3b3-49.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçası Bardağı – Time",
     "sku": "ZD28124",
-    "page": 78,
+    "page": 74,
     "price_value": 1874.3,
     "price_display": "₺1.874,30",
     "desc": "Beton; L 8 cm, W 8 cm, H 9,8 cm; Tasarım: Mavro/Lefèvre",
@@ -16137,10 +16001,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-dis-fircasi-kupasi-beton-gri-5-6a20.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçası Bardağı – Time",
     "sku": "ZD28125",
-    "page": 78,
+    "page": 74,
     "price_value": 1874.3,
     "price_display": "₺1.874,30",
     "desc": "Beton; L 8 cm, W 8 cm, H 9,8 cm; Tasarım: Mavro/Lefèvre",
@@ -16149,10 +16013,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-dis-fircasi-kupasi-yumusak-gri-02fd25.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Time",
     "sku": "ZD28126",
-    "page": 78,
+    "page": 74,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "Beton / ABS; L 10,5 cm, W 10,5 cm, H 36 cm",
@@ -16161,10 +16025,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-soap-tuvalet-fircasi-beton-gri-054-93.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Time",
     "sku": "ZD28127",
-    "page": 78,
+    "page": 74,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "Beton / ABS; L 10,5 cm, W 10,5 cm, H 36 cm",
@@ -16173,10 +16037,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-soap-tuvalet-fircasi-yumusak-gri-217-34.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Time",
     "sku": "ZD28128",
-    "page": 78,
+    "page": 74,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "ABS; L 20,8 cm, W 20,8 cm, H 27,5 cm; Hacim: 3 litre",
@@ -16185,10 +16049,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-pedalli-cop-kovasi-3-l-beton-gri-5-01da.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Time",
     "sku": "ZD28129",
-    "page": 78,
+    "page": 74,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "ABS; L 20,8 cm, W 20,8 cm, H 27,5 cm; Hacim: 3 litre",
@@ -16197,70 +16061,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-pedalli-cop-kovasi-3-l-yumusak-gr-ac9f-b.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
-    "name": "Pamukluk – Nova One",
-    "sku": "ZD28160",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 2041.68,
-    "price_display": "₺2.041,68",
-    "desc": "Katı Sabunluk – Nova One – Black",
-    "id": 1930,
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-seramik-kavanoz-2-parca-siyah-4823-a.jpg",
-    "price": 2041.68
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Pamukluk – Nova One",
-    "sku": "ZD28185",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": "1568,73",
-    "price_display": "₺1.568,73",
-    "desc": "Pamukluk – Grey",
-    "id": 1931,
-    "price": 1568.73,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd28185.jpg"
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Pamukluk – Nova One",
-    "sku": "ZD28186",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": "1966,07",
-    "price_display": "₺1.966,07",
-    "desc": "Pamukluk – Gull Grey",
-    "id": 1932,
-    "price": 1966.07,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd28186.jpg"
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Pamukluk – Nova One",
-    "sku": "ZD28188",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 2041.68,
-    "price_display": "₺2.041,68",
-    "desc": "Pamukluk – Matcha Green",
-    "id": 1934,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd28188.jpg",
-    "price": 2041.68
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Pamukluk – Nova One",
-    "sku": "ZD28189",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 2041.68,
-    "price_display": "₺2.041,68",
-    "desc": "Kapaklı Kavanoz – Nova One – Taupe",
-    "id": 1935,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd28189.jpg",
-    "price": 2041.68
-  },
-  {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Masa Aynası – Ume",
     "sku": "ZD28222",
-    "page": 89,
+    "page": 85,
     "price_value": 5720.22,
     "price_display": "₺5.720,22",
     "desc": "",
@@ -16269,10 +16073,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-masa-aynasi-normal-5x-zoom-siyah-abe296.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Masa Aynası – Ume",
     "sku": "ZD28223",
-    "page": 89,
+    "page": 85,
     "price_value": 5508.36,
     "price_display": "₺5.508,36",
     "desc": "",
@@ -16280,10 +16084,10 @@
     "price": 5508.36
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Masa Aynası – Ume",
     "sku": "ZD28224",
-    "page": 89,
+    "page": 85,
     "price_value": 5508.36,
     "price_display": "₺5.508,36",
     "desc": "",
@@ -16291,21 +16095,22 @@
     "price": 5508.36
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Masa Aynası – Ume",
     "sku": "ZD28225",
-    "page": 89,
+    "page": 85,
     "price_value": 5369.63,
     "price_display": "₺5.369,63",
     "desc": "",
     "id": "c9d67bb6-685f-4219-b998-53abfd79baf7",
-    "price": 5369.63
+    "price": 5369.63,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-masa-aynasi-normal-5x-zoom-soft-gr-65-277.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Masa Aynası – Ume",
     "sku": "ZD28226",
-    "page": 89,
+    "page": 85,
     "price_value": 5508.36,
     "price_display": "₺5.508,36",
     "desc": "",
@@ -16313,10 +16118,10 @@
     "price": 5508.36
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Masa Aynası – Ume",
     "sku": "ZD28227",
-    "page": 89,
+    "page": 85,
     "price_value": 5720.22,
     "price_display": "₺5.720,22",
     "desc": "",
@@ -16325,10 +16130,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-masa-aynasi-normal-5x-zoom-zeytin--27d988.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Masa Aynası – Ume",
     "sku": "ZD28228",
-    "page": 89,
+    "page": 85,
     "price_value": 5720.22,
     "price_display": "₺5.720,22",
     "desc": "",
@@ -16337,10 +16142,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-masa-aynasi-normal-5x-zoom-taupe-ae796f.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD28247",
     "sku": "ZD28247",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 4137.22,
     "price_display": "₺4.137,22",
     "desc": "",
@@ -16349,10 +16154,10 @@
     "price": 4137.22
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD28248",
     "sku": "ZD28248",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 4137.22,
     "price_display": "₺4.137,22",
     "desc": "",
@@ -16361,10 +16166,10 @@
     "price": 4137.22
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD28249",
     "sku": "ZD28249",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 4137.22,
     "price_display": "₺4.137,22",
     "desc": "",
@@ -16373,10 +16178,10 @@
     "price": 4137.22
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD28250",
     "sku": "ZD28250",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 4137.22,
     "price_display": "₺4.137,22",
     "desc": "",
@@ -16385,10 +16190,10 @@
     "price": 4137.22
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD28251",
     "sku": "ZD28251",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 3033.38,
     "price_display": "₺3.033,38",
     "desc": "",
@@ -16397,30 +16202,30 @@
     "price": 3033.38
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD28252",
     "sku": "ZD28252",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": "2.921,03",
     "price_display": "₺2.921,03",
     "desc": "",
     "id": 1941
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD28253",
     "sku": "ZD28253",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": "2.921,03",
     "price_display": "₺2.921,03",
     "desc": "",
     "id": 1942
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD28254",
     "sku": "ZD28254",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 3033.38,
     "price_display": "₺3.033,38",
     "desc": "",
@@ -16429,10 +16234,10 @@
     "price": 3033.38
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sepet – INU",
     "sku": "ZD28259",
-    "page": 16,
+    "page": 100,
     "price_value": 2041.68,
     "price_display": "₺2.041,68",
     "desc": "Toz boyalı çelik, D 10,5 cm, H 13,5 cm, Renk: Black",
@@ -16441,10 +16246,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/inu-masa-ustu-tel-sepet-siyah-0.5-x-13-35d2-4.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sepet – INU",
     "sku": "ZD28260",
-    "page": 16,
+    "page": 100,
     "price_value": 2041.68,
     "price_display": "₺2.041,68",
     "desc": "Toz boyalı çelik, D 10,5 cm, H 13,5 cm, Renk: Soft Grey",
@@ -16453,10 +16258,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/inu-masa-ustu-tel-sepet-yumusak-gri-0.-22-aa2.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sepet – INU",
     "sku": "ZD28261",
-    "page": 16,
+    "page": 100,
     "price_value": 2041.68,
     "price_display": "₺2.041,68",
     "desc": "Toz boyalı çelik, D 10,5 cm, H 13,5 cm, Renk: Taupe",
@@ -16465,10 +16270,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/inu-masa-ustu-tel-sepet-taupe-0.5-x-13-be640e.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD29543",
     "sku": "ZD29543",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 2757.42,
     "price_display": "₺2.757,42",
     "desc": "",
@@ -16477,10 +16282,10 @@
     "price": 2757.42
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD29544",
     "sku": "ZD29544",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 2757.42,
     "price_display": "₺2.757,42",
     "desc": "",
@@ -16489,10 +16294,10 @@
     "price": 2757.42
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD29545",
     "sku": "ZD29545",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 2757.42,
     "price_display": "₺2.757,42",
     "desc": "",
@@ -16501,10 +16306,10 @@
     "price": 2757.42
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD29546",
     "sku": "ZD29546",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 2757.42,
     "price_display": "₺2.757,42",
     "desc": "",
@@ -16513,10 +16318,10 @@
     "price": 2757.42
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD29552",
     "sku": "ZD29552",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 1101.65,
     "price_display": "₺1.101,65",
     "desc": "",
@@ -16525,10 +16330,10 @@
     "price": 1101.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD29553",
     "sku": "ZD29553",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 1101.65,
     "price_display": "₺1.101,65",
     "desc": "",
@@ -16537,10 +16342,10 @@
     "price": 1101.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD29554",
     "sku": "ZD29554",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 1101.65,
     "price_display": "₺1.101,65",
     "desc": "",
@@ -16549,10 +16354,10 @@
     "price": 1101.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD29555",
     "sku": "ZD29555",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 101,
     "price_value": 1101.65,
     "price_display": "₺1.101,65",
     "desc": "",
@@ -16561,10 +16366,10 @@
     "price": 1101.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Bulaşık Seti – Inu",
     "sku": "ZD29720",
-    "page": 58,
+    "page": 56,
     "price_value": 4494.04,
     "price_display": "₺4.494,04",
     "desc": "Taş seramik / ABS / Silikon • L 20,2 cm, W 8,8 cm, H 21 cm",
@@ -16573,10 +16378,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/inu-bulasik-seti-4-parca-beyaz-01e76-.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Masa Aynası – Time",
     "sku": "ZD30742",
-    "page": 78,
+    "page": 74,
     "price_value": 4494.04,
     "price_display": "₺4.494,04",
     "desc": "Beton / Cam; L 20 cm, W 6 cm, H 26,5 cm",
@@ -16585,10 +16390,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-table-dikdortgen-masa-aynasi-siya-78b-79.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Masa Aynası – Time",
     "sku": "ZD30745",
-    "page": 78,
+    "page": 74,
     "price_value": 4494.04,
     "price_display": "₺4.494,04",
     "desc": "Beton / Cam; L 20 cm, W 6 cm, H 26,5 cm",
@@ -16597,10 +16402,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-table-dikdortgen-masa-aynasi-yumu-3b98c4.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Masa Aynası – Time",
     "sku": "ZD30746",
-    "page": 78,
+    "page": 74,
     "price_value": 4494.04,
     "price_display": "₺4.494,04",
     "desc": "Beton / Cam; L 20 cm, W 6 cm, H 26,5 cm",
@@ -16609,10 +16414,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-table-dikdortgen-masa-aynasi-beto-20-95b.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD31543",
-    "page": 88,
+    "page": 84,
     "price_value": 3513.1,
     "price_display": "₺3.513,10",
     "desc": "",
@@ -16621,10 +16426,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-sivi-sabunluk-250-ml-terracotta-re--0ff5-.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD31544",
-    "page": 88,
+    "page": 84,
     "price_value": 1874.3,
     "price_display": "₺1.874,30",
     "desc": "",
@@ -16633,10 +16438,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-dis-fircasi-kupasi-terracotta-renk-39-513.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD31545",
-    "page": 89,
+    "page": 85,
     "price_value": 5403.88,
     "price_display": "₺5.403,88",
     "desc": "",
@@ -16645,10 +16450,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-tuvalet-fircasi-terracotta-387-cm--ab6556.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD31546",
-    "page": 88,
+    "page": 84,
     "price_value": 1629.07,
     "price_display": "₺1.629,07",
     "desc": "",
@@ -16657,10 +16462,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-kati-sabunluk-terracotta-renk-cap1-234-99.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD31547",
-    "page": 89,
+    "page": 85,
     "price_value": 5790.06,
     "price_display": "₺5.790,06",
     "desc": "",
@@ -16669,10 +16474,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-pedalli-cop-kovasi-4-l-terracotta--4293-.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Ume",
     "sku": "ZD31548",
-    "page": 88,
+    "page": 84,
     "price_value": 2359.65,
     "price_display": "₺2.359,65",
     "desc": "",
@@ -16680,10 +16485,10 @@
     "price": 2359.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Çamaşır Sepeti – Ume",
     "sku": "ZD31549",
-    "page": 89,
+    "page": 85,
     "price_value": 8168.68,
     "price_display": "₺8.168,68",
     "desc": "",
@@ -16692,10 +16497,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-camasir-sepeti-60-l-terracotta-ren-a1d-4d.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD31552",
-    "page": 88,
+    "page": 84,
     "price_value": 3382.98,
     "price_display": "₺3.382,98",
     "desc": "",
@@ -16703,10 +16508,10 @@
     "price": 3382.98
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD31553",
-    "page": 88,
+    "page": 84,
     "price_value": 1804.88,
     "price_display": "₺1.804,88",
     "desc": "",
@@ -16714,10 +16519,10 @@
     "price": 1804.88
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD31554",
-    "page": 89,
+    "page": 85,
     "price_value": 5508.36,
     "price_display": "₺5.508,36",
     "desc": "",
@@ -16725,10 +16530,10 @@
     "price": 5508.36
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD31555",
-    "page": 88,
+    "page": 84,
     "price_value": 1568.73,
     "price_display": "₺1.568,73",
     "desc": "",
@@ -16736,10 +16541,10 @@
     "price": 1568.73
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD31556",
-    "page": 89,
+    "page": 85,
     "price_value": 5901.95,
     "price_display": "₺5.901,95",
     "desc": "",
@@ -16747,10 +16552,10 @@
     "price": 5901.95
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Ume",
     "sku": "ZD31557",
-    "page": 88,
+    "page": 84,
     "price_value": 2359.65,
     "price_display": "₺2.359,65",
     "desc": "",
@@ -16758,20 +16563,20 @@
     "price": 2359.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD31558",
     "sku": "ZD31558",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 85,
     "price_value": "7.866,14",
     "price_display": "₺7.866,14",
     "desc": "",
     "id": 1891
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD31566",
     "sku": "ZD31566",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 1101.65,
     "price_display": "₺1.101,65",
     "desc": "",
@@ -16780,10 +16585,10 @@
     "price": 1101.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD31569",
     "sku": "ZD31569",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 3033.38,
     "price_display": "₺3.033,38",
     "desc": "",
@@ -16803,10 +16608,10 @@
     "price": 7866.14
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Buz Kalıbı – Singles",
     "sku": "ZD31764",
-    "page": 59,
+    "page": 57,
     "price_value": 1708.19,
     "price_display": "₺1.708,19",
     "desc": "Silikon • L 22 cm, W 11,2 cm, H 3,9 cm • Tasarım: Mavro/Lefevre",
@@ -16815,10 +16620,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-tekli-buzluk-siyah-22x112x39-c-7a-489.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Pompa – DIISH",
     "sku": "ZD31794",
-    "page": 59,
+    "page": 57,
     "price_value": 975.74,
     "price_display": "₺975,74",
     "desc": "PP • 12’li Set",
@@ -16827,10 +16632,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/diish-pompa-basligi-siyah-105x75x15-cm-cedc97.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Pompa – DIISH",
     "sku": "ZD31795",
-    "page": 59,
+    "page": 57,
     "price_value": 975.74,
     "price_display": "₺975,74",
     "desc": "PP • 12’li Set",
@@ -16842,7 +16647,7 @@
     "brand": "ZONE_DENMARK",
     "name": "LED Fener – Firefly",
     "sku": "ZD32314",
-    "page": 16,
+    "page": 12,
     "price_value": 14371.58,
     "price_display": "₺14.371,58",
     "desc": "Alüminyum, D 19 cm, H 30 cm, Renk: Soft Grey",
@@ -16854,7 +16659,7 @@
     "brand": "ZONE_DENMARK",
     "name": "LED Fener – Firefly",
     "sku": "ZD32315",
-    "page": 16,
+    "page": 12,
     "price_value": 14371.58,
     "price_display": "₺14.371,58",
     "desc": "Alüminyum, D 19 cm, H 30 cm, Renk: Black",
@@ -16866,7 +16671,7 @@
     "brand": "ZONE_DENMARK",
     "name": "Fener – Firefly",
     "sku": "ZD32316",
-    "page": 16,
+    "page": 12,
     "price_value": 8986.13,
     "price_display": "₺8.986,13",
     "desc": "Toz boyalı ve elektro kaplamalı çelik, D 21,5 cm, H 35 cm, Renk: Soft Grey",
@@ -16878,7 +16683,7 @@
     "brand": "ZONE_DENMARK",
     "name": "Fener – Firefly",
     "sku": "ZD32318",
-    "page": 16,
+    "page": 12,
     "price_value": 6533.78,
     "price_display": "₺6.533,78",
     "desc": "Toz boyalı ve elektro kaplamalı çelik, D 15,3 cm, H 25 cm, Renk: Black",
@@ -16931,10 +16736,10 @@
     "price": 1644.85
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Tencere Altlığı – Hexagon",
     "sku": "ZD32701",
-    "page": 51,
+    "page": 49,
     "price_value": 2940.88,
     "price_display": "₺2.940,88",
     "desc": "Silikon; Renk: Karışık Renkler; Ölçüler: L 16 cm, W 14 cm, H 0,9 cm / L 24 cm, W 14 cm, H 0,9 cm; 3 parça; Tasarım: VE2",
@@ -16943,10 +16748,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/altigen-tencere-altligi-3lu-lupinsicak-e-8fe7.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Tencere Altlığı – Triangles",
     "sku": "ZD32708",
-    "page": 51,
+    "page": 49,
     "price_value": 2286.92,
     "price_display": "₺2.286,92",
     "desc": "Silikon; Renk: Karışık Renkler; Ölçüler: L 16 cm, W 14 cm, H 0,9 cm; 3 parça; Tasarım: VE2",
@@ -16955,40 +16760,16 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/triangles-tencere-altligi-3lu-cok-renk-ab3b0f.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD330092",
     "sku": "ZD330092",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 1101.65,
     "price_display": "₺1.101,65",
     "desc": "",
     "id": 1953,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/klasik-havlu-siyah-100-pamuk-50x70-cm-30-4e0.jpg",
     "price": 1101.65
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Katı Sabunluk – Nova One",
-    "sku": "ZD330099",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 1629.07,
-    "price_display": "₺1.629,07",
-    "desc": "Kapaklı Kavanoz – Nova One – Black",
-    "id": 1954,
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-porselen-kati-sabunluk-siyah-9b4f-2.jpg",
-    "price": 1629.07
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Katı Sabunluk – Nova One",
-    "sku": "ZD330107",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": "1966,07",
-    "price_display": "₺1.966,07",
-    "desc": "Kapaklı Kavanoz – Nova One – Grey",
-    "id": 1955,
-    "price": 1966.07,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd330107.jpg"
   },
   {
     "brand": "ZONE_DENMARK",
@@ -17011,10 +16792,10 @@
     "id": "400b26c8-712e-4c31-9858-9b8a687188b3"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Nova One",
     "sku": "ZD330160",
-    "page": 84,
+    "page": 80,
     "price_value": 3100.48,
     "price_display": "₺3.100,48",
     "desc": "Sıvı Sabunluk – Nova One – Black",
@@ -17023,22 +16804,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-sivi-sabunluk-250-ml-siyah-371ea3.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
-    "name": "Diş Fırçalık – Nova One",
-    "sku": "ZD330161",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 1874.3,
-    "price_display": "₺1.874,30",
-    "desc": "Diş Fırçalık – Nova One – Black",
-    "id": 1956,
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-dis-fircasi-kupasi-siyah--a515c.jpg",
-    "price": 1874.3
-  },
-  {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Nova",
     "sku": "ZD330162",
-    "page": 80,
+    "page": 81,
     "price_value": 4326.66,
     "price_display": "₺4.326,66",
     "desc": "Renk: Black",
@@ -17047,34 +16816,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-tuvalet-fircasi-siyah-44-ce8.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
-    "name": "Sıvı Sabunluk – Nova One",
-    "sku": "ZD330163",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": "2985,65",
-    "price_display": "₺2.985,65",
-    "desc": "Sıvı Sabunluk – Nova One – Grey",
-    "id": 1957,
-    "price": 2985.65,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd330163.jpg"
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Diş Fırçalık – Nova One",
-    "sku": "ZD330164",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": "1804,88",
-    "price_display": "₺1.804,88",
-    "desc": "Diş Fırçalık – Nova One – Grey",
-    "id": 1958,
-    "price": 1804.88,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd330164.jpg"
-  },
-  {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Nova",
     "sku": "ZD330165",
-    "page": 80,
+    "page": 81,
     "price_value": 4166.41,
     "price_display": "₺4.166,41",
     "desc": "Renk: Grey",
@@ -17082,52 +16827,16 @@
     "price": 4166.41
   },
   {
-    "brand": "ZONE_DENMARK",
-    "name": "Sıvı Sabunluk – Nova One",
-    "sku": "ZD330186",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": "2985,65",
-    "price_display": "₺2.985,65",
-    "desc": "Sıvı Sabunluk – Nova One – Royal Blue",
-    "id": 1959,
-    "price": 2985.65,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd330186.jpg"
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Diş Fırçalık – Nova One",
-    "sku": "ZD330187",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": "1804,88",
-    "price_display": "₺1.804,88",
-    "desc": "Diş Fırçalık – Nova One – Royal Blue",
-    "id": 1960,
-    "price": 1804.88,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd330187.jpg"
-  },
-  {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Nova One",
     "sku": "ZD330188",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 81,
     "price_value": "1568,73",
     "price_display": "₺1.568,73",
     "desc": "Katı Sabunluk – Nova One – Royal Blue",
     "id": 1961,
     "price": 1568.73,
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd330188.jpg"
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Katı Sabunluk – Nova One",
-    "sku": "ZD330189",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": "1966,07",
-    "price_display": "₺1.966,07",
-    "desc": "Kapaklı Kavanoz – Nova One – Royal Blue",
-    "id": 1962,
-    "price": 1966.07,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd330189.jpg"
   },
   {
     "brand": "ZONE_DENMARK",
@@ -17140,10 +16849,10 @@
     "id": "42c1c62a-c44f-4114-b99f-4e119029a964"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD330393",
-    "page": 88,
+    "page": 84,
     "price_value": 3513.1,
     "price_display": "₺3.513,10",
     "desc": "",
@@ -17152,10 +16861,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-sivi-sabunluk-250-ml-siyah-5ab-a7.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD330394",
-    "page": 88,
+    "page": 84,
     "price_value": 3382.98,
     "price_display": "₺3.382,98",
     "desc": "",
@@ -17163,10 +16872,10 @@
     "price": 3382.98
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD330395",
-    "page": 88,
+    "page": 84,
     "price_value": 3382.98,
     "price_display": "₺3.382,98",
     "desc": "",
@@ -17174,10 +16883,10 @@
     "price": 3382.98
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD330397",
-    "page": 88,
+    "page": 84,
     "price_value": 1874.3,
     "price_display": "₺1.874,30",
     "desc": "",
@@ -17186,10 +16895,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-dis-fircasi-kupasi-siyah-103-cm-ca-2c-001.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD330398",
-    "page": 88,
+    "page": 84,
     "price_value": 1804.88,
     "price_display": "₺1.804,88",
     "desc": "",
@@ -17197,10 +16906,10 @@
     "price": 1804.88
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD330399",
-    "page": 88,
+    "page": 84,
     "price_value": 1804.88,
     "price_display": "₺1.804,88",
     "desc": "",
@@ -17208,10 +16917,10 @@
     "price": 1804.88
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD330401",
-    "page": 89,
+    "page": 85,
     "price_value": 5720.22,
     "price_display": "₺5.720,22",
     "desc": "",
@@ -17220,10 +16929,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-tuvalet-fircasi-siyah-387-cm-cap10-703043.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD330402",
-    "page": 89,
+    "page": 85,
     "price_value": 5508.36,
     "price_display": "₺5.508,36",
     "desc": "",
@@ -17231,10 +16940,10 @@
     "price": 5508.36
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD330403",
-    "page": 89,
+    "page": 85,
     "price_value": 5508.36,
     "price_display": "₺5.508,36",
     "desc": "",
@@ -17242,10 +16951,10 @@
     "price": 5508.36
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD330405",
-    "page": 89,
+    "page": 85,
     "price_value": 6128.94,
     "price_display": "₺6.128,94",
     "desc": "",
@@ -17254,10 +16963,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-pedalli-cop-kovasi-4-l-siyah--75a0-.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD330406",
-    "page": 89,
+    "page": 85,
     "price_value": 5901.95,
     "price_display": "₺5.901,95",
     "desc": "",
@@ -17265,10 +16974,10 @@
     "price": 5901.95
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD330407",
-    "page": 89,
+    "page": 85,
     "price_value": 5901.95,
     "price_display": "₺5.901,95",
     "desc": "",
@@ -17276,10 +16985,10 @@
     "price": 5901.95
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Bulaşık Seti – Singles",
     "sku": "ZD330413",
-    "page": 58,
+    "page": 56,
     "price_value": 3836.19,
     "price_display": "₺3.836,19",
     "desc": "Silikon / Seramik / ABS • L 19 cm, W 6 cm, H 20,5 cm, 0,4 l",
@@ -17288,10 +16997,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/bulasik-yikama-seti-4-parca-siyah-a18-4e.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Bulaşık Seti – Singles",
     "sku": "ZD330446",
-    "page": 58,
+    "page": 56,
     "price_value": 3842.02,
     "price_display": "₺3.842,02",
     "desc": "Silikon / Seramik / ABS • L 22 cm, W 6,7 cm, H 19 cm",
@@ -17311,10 +17020,10 @@
     "price": 4166.41
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD330491",
     "sku": "ZD330491",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 95,
     "price_value": 2481.45,
     "price_display": "₺2.481,45",
     "desc": "",
@@ -17323,10 +17032,10 @@
     "price": 2481.45
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD330492",
     "sku": "ZD330492",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 95,
     "price_value": 549.73,
     "price_display": "₺549,73",
     "desc": "",
@@ -17368,10 +17077,10 @@
     "price": 4166.41
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD331180",
     "sku": "ZD331180",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 1101.65,
     "price_display": "₺1.101,65",
     "desc": "",
@@ -17380,10 +17089,10 @@
     "price": 1101.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD331182",
     "sku": "ZD331182",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 95,
     "price_value": 2481.45,
     "price_display": "₺2.481,45",
     "desc": "",
@@ -17392,10 +17101,10 @@
     "price": 2481.45
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD331185",
     "sku": "ZD331185",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 1101.65,
     "price_display": "₺1.101,65",
     "desc": "",
@@ -17404,10 +17113,10 @@
     "price": 1101.65
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD331187",
     "sku": "ZD331187",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 95,
     "price_value": 2481.45,
     "price_display": "₺2.481,45",
     "desc": "",
@@ -17416,10 +17125,10 @@
     "price": 2481.45
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD331206",
-    "page": 88,
+    "page": 84,
     "price_value": 1629.07,
     "price_display": "₺1.629,07",
     "desc": "",
@@ -17428,10 +17137,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-kati-sabunluk-siyah-cap12-cm-1-59a4.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD331208",
-    "page": 88,
+    "page": 84,
     "price_value": 1568.73,
     "price_display": "₺1.568,73",
     "desc": "",
@@ -17439,10 +17148,10 @@
     "price": 1568.73
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD331209",
-    "page": 88,
+    "page": 84,
     "price_value": 1568.73,
     "price_display": "₺1.568,73",
     "desc": "",
@@ -17450,52 +17159,16 @@
     "price": 1568.73
   },
   {
-    "brand": "ZONE_DENMARK",
-    "name": "Sıvı Sabunluk – Nova One",
-    "sku": "ZD331217",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 3100.48,
-    "price_display": "₺3.100,48",
-    "desc": "Sıvı Sabunluk – Nova One – Gull Grey",
-    "id": 1969,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd331217.jpg",
-    "price": 3100.48
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Diş Fırçalık – Nova One",
-    "sku": "ZD331218",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 1874.3,
-    "price_display": "₺1.874,30",
-    "desc": "Diş Fırçalık – Nova One – Gull Grey",
-    "id": 1970,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd331218.jpg",
-    "price": 1874.3
-  },
-  {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Nova One",
     "sku": "ZD331219",
-    "page": 85,
+    "page": 81,
     "price_value": 4326.66,
     "price_display": "₺4.326,66",
     "desc": "Malzeme: Stoneware / Soft Touch / SS304 | Ölçüler: D 10,3 cm, H 37 cm | Tasarım: Thomas Dudzinski",
     "id": "fffc3dea-1072-444e-a0f4-dc59e59a050d",
     "price": 4326.66,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-tuvalet-fircasi-marti-grisi-3-4397-9.jpg"
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Katı Sabunluk – Nova One",
-    "sku": "ZD331221",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": 1629.07,
-    "price_display": "₺1.629,07",
-    "desc": "Katı Sabunluk – Nova One – Gull Grey",
-    "id": 1971,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd331221.jpg",
-    "price": 1629.07
   },
   {
     "brand": "ZONE_DENMARK",
@@ -17508,10 +17181,10 @@
     "id": "71938bd8-58ce-403e-9e32-f4d906410a4d"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD331847",
     "sku": "ZD331847",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 3033.38,
     "price_display": "₺3.033,38",
     "desc": "",
@@ -17520,10 +17193,10 @@
     "price": 3033.38
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD331849",
     "sku": "ZD331849",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 94,
     "price_value": 3033.38,
     "price_display": "₺3.033,38",
     "desc": "",
@@ -17532,10 +17205,10 @@
     "price": 3033.38
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD331855",
-    "page": 88,
+    "page": 84,
     "price_value": 3382.98,
     "price_display": "₺3.382,98",
     "desc": "",
@@ -17543,10 +17216,10 @@
     "price": 3382.98
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD331856",
-    "page": 88,
+    "page": 84,
     "price_value": 1804.88,
     "price_display": "₺1.804,88",
     "desc": "",
@@ -17554,10 +17227,10 @@
     "price": 1804.88
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD331857",
-    "page": 89,
+    "page": 85,
     "price_value": 5508.36,
     "price_display": "₺5.508,36",
     "desc": "",
@@ -17565,10 +17238,10 @@
     "price": 5508.36
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD331858",
-    "page": 89,
+    "page": 85,
     "price_value": 5901.95,
     "price_display": "₺5.901,95",
     "desc": "",
@@ -17576,10 +17249,10 @@
     "price": 5901.95
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD331859",
-    "page": 88,
+    "page": 84,
     "price_value": 1568.73,
     "price_display": "₺1.568,73",
     "desc": "",
@@ -17587,10 +17260,10 @@
     "price": 1568.73
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD331861",
     "sku": "ZD331861",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 97,
     "price_value": 3267.86,
     "price_display": "₺3.267,86",
     "desc": "",
@@ -17599,10 +17272,10 @@
     "price": 3267.86
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD331923",
-    "page": 88,
+    "page": 84,
     "price_value": 3513.1,
     "price_display": "₺3.513,10",
     "desc": "",
@@ -17611,10 +17284,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-sivi-sabunluk-250-ml-yumusak-gri-4d1-20.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD331925",
-    "page": 88,
+    "page": 84,
     "price_value": 1874.3,
     "price_display": "₺1.874,30",
     "desc": "",
@@ -17623,10 +17296,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-dis-fircasi-kupasi-yumusak-gri-103-f562a9.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD331927",
-    "page": 89,
+    "page": 85,
     "price_value": 5720.22,
     "price_display": "₺5.720,22",
     "desc": "",
@@ -17635,10 +17308,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-tuvalet-fircasi-yumusak-gri-387-cm-2c9251.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD331929",
-    "page": 88,
+    "page": 84,
     "price_value": 1629.07,
     "price_display": "₺1.629,07",
     "desc": "",
@@ -17647,10 +17320,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-kati-sabunluk-yumusak-gri-cap12-cm-79ec-4.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD331931",
-    "page": 89,
+    "page": 85,
     "price_value": 6128.94,
     "price_display": "₺6.128,94",
     "desc": "",
@@ -17659,20 +17332,20 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-pedalli-cop-kovasi-4-l-yumusak-gri-37e970.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD331947",
     "sku": "ZD331947",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 95,
     "price_value": "2.389,55",
     "price_display": "₺2.389,55",
     "desc": "",
     "id": 1892
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD331948",
     "sku": "ZD331948",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 95,
     "price_value": 549.73,
     "price_display": "₺549,73",
     "desc": "",
@@ -17681,10 +17354,10 @@
     "price": 549.73
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Nova (3 L)",
     "sku": "ZD331971",
-    "page": 85,
+    "page": 81,
     "price_value": 5720.22,
     "price_display": "₺5.720,22",
     "desc": "Malzeme: ABS / Soft Touch | Ölçüler: D 20,5 cm, H 23,5 cm | Hacim: 3 litre | Tasarım: Thomas Dudzinski",
@@ -17693,10 +17366,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-pedalli-cop-kovasi-5-l-siyah-8d3e-5.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Nova (3 L)",
     "sku": "ZD331972",
-    "page": 85,
+    "page": 81,
     "price_value": 5508.36,
     "price_display": "₺5.508,36",
     "desc": "Malzeme: ABS / Soft Touch | Ölçüler: D 20,5 cm, H 23,5 cm | Hacim: 3 litre | Tasarım: Thomas Dudzinski",
@@ -17704,10 +17377,10 @@
     "price": 5508.36
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Nova (3 L)",
     "sku": "ZD331977",
-    "page": 85,
+    "page": 81,
     "price_value": 5508.36,
     "price_display": "₺5.508,36",
     "desc": "Malzeme: ABS / Soft Touch | Ölçüler: D 20,5 cm, H 23,5 cm | Hacim: 3 litre | Tasarım: Thomas Dudzinski",
@@ -17715,10 +17388,10 @@
     "price": 5508.36
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Nova (3 L)",
     "sku": "ZD331980",
-    "page": 85,
+    "page": 81,
     "price_value": 5720.22,
     "price_display": "₺5.720,22",
     "desc": "Malzeme: ABS / Soft Touch | Ölçüler: D 20,5 cm, H 23,5 cm | Hacim: 3 litre | Tasarım: Thomas Dudzinski",
@@ -17727,10 +17400,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-pedalli-cop-kovasi-3-l-marti-gris-d8fad2.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Yumurta Kapları (Taşıyıcılı, 4'lü) – Singles",
     "sku": "ZD332021",
-    "page": 51,
+    "page": 49,
     "price_value": 2828.2,
     "price_display": "₺2.828,20",
     "desc": "Silikon / Metal; Renk: Black; D 11,2 cm, H 9,5 cm; Tasarım: VE2",
@@ -17739,10 +17412,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-tekli-yumurtalik-4-adet-siyah--bc1ce2.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Yumurta Kapları (Taşıyıcılı, 4'lü) – Singles",
     "sku": "ZD332023",
-    "page": 51,
+    "page": 49,
     "price_value": 2828.2,
     "price_display": "₺2.828,20",
     "desc": "Silikon / Metal; Renk: Warm Grey; D 11,2 cm, H 9,5 cm; Tasarım: VE2",
@@ -17751,10 +17424,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-tekli-yumurtalik-4-adet-sicak--f3-06e.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Bulaşık Seti – Singles",
     "sku": "ZD332056",
-    "page": 58,
+    "page": 56,
     "price_value": 3842.02,
     "price_display": "₺3.842,02",
     "desc": "Seramik / Silikon / ABS • L 15 cm, W 8,2 cm, H 22 cm",
@@ -17763,10 +17436,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-bulasik-yikama-seti-3-parca-si-1d63-4.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Duvar Askısı – Ume",
     "sku": "ZD332063",
-    "page": 91,
+    "page": 87,
     "price_value": 1469.47,
     "price_display": "₺1.469,47",
     "desc": "",
@@ -17775,10 +17448,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-duvar-braketi-siyah-cap89-cm-1-2717.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Duvar Askısı – Ume",
     "sku": "ZD332105",
-    "page": 91,
+    "page": 87,
     "price_value": 1469.47,
     "price_display": "₺1.469,47",
     "desc": "",
@@ -17787,10 +17460,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-duvar-braketi-beyaz-cap89-cm-63f-eb.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Sabun Kabı – Singles",
     "sku": "ZD33263",
-    "page": 59,
+    "page": 57,
     "price_value": 2085.35,
     "price_display": "₺2.085,35",
     "desc": "ABS / Silikon • D 7 cm, H 15 cm • Tasarım: VE2",
@@ -17799,10 +17472,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-tekli-sabunluk-siyah-03-litre--bbd2-4.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Sabun Kabı – Singles",
     "sku": "ZD33264",
-    "page": 59,
+    "page": 57,
     "price_value": 2085.35,
     "price_display": "₺2.085,35",
     "desc": "ABS / Silikon • D 7 cm, H 15 cm • Tasarım: VE2",
@@ -17811,60 +17484,38 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-tekli-sabunluk-sicak-gri-03-li-4a1135.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD33276",
     "sku": "ZD33276",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 80,
     "price_value": "2.985,65",
     "price_display": "₺2.985,65",
     "desc": "",
     "id": 1976
   },
   {
-    "brand": "ZONE_DENMARK",
-    "name": "Diş Fırçalık – Nova One",
-    "sku": "ZD33277",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": "1804,88",
-    "price_display": "₺1.804,88",
-    "desc": "Diş Fırçalık – Nova One – Mandarine",
-    "id": 1893,
-    "price": 1804.88,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd33277.jpg"
-  },
-  {
-    "brand": "ZONE_DENMARK",
-    "name": "Katı Sabunluk – Nova One",
-    "sku": "ZD33278",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": "1568,73",
-    "price_display": "₺1.568,73",
-    "desc": "Katı Sabunluk – Nova One – Mandarine",
-    "id": 1977,
-    "price": 1568.73,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd33278.jpg"
-  },
-  {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Nova One",
     "sku": "ZD33279",
-    "page": 85,
+    "page": 81,
     "price_value": 4062.08,
     "price_display": "₺4.062,08",
     "desc": "Malzeme: Stoneware / Soft Touch / SS304 | Ölçüler: D 10,3 cm, H 37 cm | Tasarım: Thomas Dudzinski",
     "id": "99dde519-5c4f-4c1d-9119-50f5ccb84442",
-    "price": 4062.08
+    "price": 4062.08,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-tuvalet-fircasi-mandarine-37--f7c-b3.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Nova (3 L)",
     "sku": "ZD33280",
-    "page": 85,
+    "page": 81,
     "price_value": 5369.63,
     "price_display": "₺5.369,63",
     "desc": "Malzeme: ABS / Soft Touch | Ölçüler: D 20,5 cm, H 23,5 cm | Hacim: 3 litre | Tasarım: Thomas Dudzinski",
     "id": "f0cf99c3-613f-4d94-b763-5d96ab22fa8b",
-    "price": 5369.63
+    "price": 5369.63,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-pedalli-cop-kovasi-3-l-mandarine-f5-40f.jpg"
   },
   {
     "brand": "ZONE_DENMARK",
@@ -17878,18 +17529,6 @@
   },
   {
     "brand": "ZONE_DENMARK",
-    "name": "Pamukluk – Nova One",
-    "sku": "ZD33283",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
-    "price_value": "1966,07",
-    "price_display": "₺1.966,07",
-    "desc": "Kapaklı Kavanoz – Nova One – Mandarine",
-    "id": 1978,
-    "price": 1966.07,
-    "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd33283.jpg"
-  },
-  {
-    "brand": "ZONE_DENMARK",
     "name": "Sabun Kabı – Singles",
     "sku": "ZD33365",
     "page": 59,
@@ -17900,10 +17539,10 @@
     "price": 2008.11
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD33526",
     "sku": "ZD33526",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 91,
     "price_value": 27616.35,
     "price_display": "₺27.616,35",
     "desc": "",
@@ -17912,10 +17551,10 @@
     "price": 27616.35
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD33528",
     "sku": "ZD33528",
-    "page": "Markalar/ZONE_DENMARK_BANYO/index.html",
+    "page": 91,
     "price_value": 11582.69,
     "price_display": "₺11.582,69",
     "desc": "",
@@ -17947,10 +17586,10 @@
     "price": 7434.98
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "name": "Sabun Kabı – Singles",
     "sku": "ZD33560",
-    "page": 59,
+    "page": 57,
     "price_value": 2008.11,
     "price_display": "₺2.008,11",
     "desc": "ABS / Silikon • D 7 cm, H 15 cm • Tasarım: VE2",
@@ -17958,10 +17597,10 @@
     "price": 2008.11
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sepet – INU",
     "sku": "ZD33561",
-    "page": 16,
+    "page": 100,
     "price_value": 3324.3,
     "price_display": "₺3.324,30",
     "desc": "Toz boyalı çelik, D 22 cm, H 8 cm, Renk: Black",
@@ -17970,10 +17609,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/inu-masa-ustu-tel-sepet-siyah-22-x-8-c-77ad1f.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sepet – INU",
     "sku": "ZD33562",
-    "page": 16,
+    "page": 100,
     "price_value": 3324.3,
     "price_display": "₺3.324,30",
     "desc": "Toz boyalı çelik, D 22 cm, H 8 cm, Renk: Soft Grey",
@@ -17982,10 +17621,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/inu-masa-ustu-tel-sepet-yumusak-gri-22-19f109.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Sepet – INU",
     "sku": "ZD33563",
-    "page": 16,
+    "page": 100,
     "price_value": 3324.3,
     "price_display": "₺3.324,30",
     "desc": "Toz boyalı çelik, D 22 cm, H 8 cm, Renk: Taupe",
@@ -18005,10 +17644,10 @@
     "price": 2008.11
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Banyo Paspası – Time",
     "sku": "ZD33909",
-    "page": 79,
+    "page": 75,
     "price_value": 3677.28,
     "price_display": "₺3.677,28",
     "desc": "%100 Pamuk / 1200 g; L 80 × W 50 cm; Tasarım: Mavro/LeFevre",
@@ -18017,10 +17656,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-banyo-paspasi-yumusak-gri-100-pam-bbd2-9.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Banyo Paspası – Time",
     "sku": "ZD33910",
-    "page": 79,
+    "page": 75,
     "price_value": 3677.28,
     "price_display": "₺3.677,28",
     "desc": "%100 Pamuk / 1200 g; L 80 × W 50 cm; Tasarım: Mavro/LeFevre",
@@ -18029,10 +17668,10 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/time-banyo-paspasi-beton-rengi-100-pam-b2a2-9.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Banyo Paspası – Time",
     "sku": "ZD33911",
-    "page": 79,
+    "page": 75,
     "price_value": 3677.28,
     "price_display": "₺3.677,28",
     "desc": "%100 Pamuk / 1200 g; L 80 × W 50 cm; Tasarım: Mavro/LeFevre",
@@ -18139,34 +17778,41 @@
   {
     "sku": "ZD32232",
     "name": "Buz Kalıbı – Singles Indigo Blue",
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "price": 1708.19,
     "price_value": 1708.19,
-    "price_display": "₺1.708,19"
+    "price_display": "₺1.708,19",
+    "page": 57
   },
   {
     "sku": "ZD32233",
     "name": "Buz Kalıbı – Singles Lupine",
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "price": 1708.19,
     "price_value": 1708.19,
-    "price_display": "₺1.708,19"
+    "price_display": "₺1.708,19",
+    "page": 57,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-tekli-buzluk-mor-22x112x39-cm-6b-9f7.jpg"
   },
   {
     "sku": "ZD32234",
     "name": "Buz Kalıbı – Singles Apricot",
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "price": 1708.19,
     "price_value": 1708.19,
-    "price_display": "₺1.708,19"
+    "price_display": "₺1.708,19",
+    "page": 57,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-tekli-buzluk-turuncu-22x112x39--b0f0-.jpg"
   },
   {
     "sku": "ZD32235",
     "name": "Buz Kalıbı – Singles Leek Green",
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_MUTFAK",
     "price": 1708.19,
     "price_value": 1708.19,
-    "price_display": "₺1.708,19"
+    "price_display": "₺1.708,19",
+    "page": 57,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-tekli-buzluk-yesil-22x112x39-c-dc5bab.jpg"
   },
   {
     "sku": "ZD36023",
@@ -18175,7 +17821,8 @@
     "brand": "ZONE_DENMARK",
     "price_value": 3833.19,
     "price_display": "₺3.833,19",
-    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=85/65747/uploads/urunresimleri/buyuk/ume-mendil-kutusu-siyah-13x13x151-cm-0ee476.jpg"
+    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=85/65747/uploads/urunresimleri/buyuk/ume-mendil-kutusu-siyah-13x13x151-cm-0ee476.jpg",
+    "page": 28
   },
   {
     "sku": "ZD36026",
@@ -18184,7 +17831,8 @@
     "brand": "ZONE_DENMARK",
     "price_value": 3833.19,
     "price_display": "₺3.833,19",
-    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=85/65747/uploads/urunresimleri/buyuk/ume-mendil-kutusu-soft-gri-13x13x151-c--f4bf-.jpg"
+    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=85/65747/uploads/urunresimleri/buyuk/ume-mendil-kutusu-soft-gri-13x13x151-c--f4bf-.jpg",
+    "page": 28
   },
   {
     "sku": "ZD36027",
@@ -18193,7 +17841,8 @@
     "brand": "ZONE_DENMARK",
     "price_value": 3833.19,
     "price_display": "₺3.833,19",
-    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=85/65747/uploads/urunresimleri/buyuk/ume-mendil-kutusu-taupe-13x13x151-cm-28a1de.jpg"
+    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=85/65747/uploads/urunresimleri/buyuk/ume-mendil-kutusu-taupe-13x13x151-cm-28a1de.jpg",
+    "page": 28
   },
   {
     "sku": "ZD36028",
@@ -18202,7 +17851,8 @@
     "brand": "ZONE_DENMARK",
     "price_value": 3833.19,
     "price_display": "₺3.833,19",
-    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=85/65747/uploads/urunresimleri/buyuk/ume-mendil-kutusu-siyah-256x14x107-cm-b-903c.jpg"
+    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=85/65747/uploads/urunresimleri/buyuk/ume-mendil-kutusu-siyah-256x14x107-cm-b-903c.jpg",
+    "page": 28
   },
   {
     "sku": "ZD36030",
@@ -18211,7 +17861,8 @@
     "brand": "ZONE_DENMARK",
     "price_value": 3833.19,
     "price_display": "₺3.833,19",
-    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=85/65747/uploads/urunresimleri/buyuk/ume-mendil-kutusu-soft-gri-256x14x107--5-cf93.jpg"
+    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=85/65747/uploads/urunresimleri/buyuk/ume-mendil-kutusu-soft-gri-256x14x107--5-cf93.jpg",
+    "page": 28
   },
   {
     "sku": "ZD36031",
@@ -18220,7 +17871,8 @@
     "brand": "ZONE_DENMARK",
     "price_value": 3833.19,
     "price_display": "₺3.833,19",
-    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=85/65747/uploads/urunresimleri/buyuk/ume-mendil-kutusu-taupe-256x14x107-cm-2ea75d.jpg"
+    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=85/65747/uploads/urunresimleri/buyuk/ume-mendil-kutusu-taupe-256x14x107-cm-2ea75d.jpg",
+    "page": 28
   },
   {
     "sku": "ZD10546",
@@ -18228,8 +17880,9 @@
     "price": 2533.54,
     "price_value": 2533.54,
     "price_display": "₺2.533,54",
-    "brand": "ZONE_DENMARK",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-mutfak-rulo-tutucu-camur-rengi-e-8f51.jpg"
+    "brand": "ZONE_DENMARK_MUTFAK",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-mutfak-rulo-tutucu-camur-rengi-e-8f51.jpg",
+    "page": 47
   },
   {
     "sku": "ZD13675",
@@ -18237,8 +17890,9 @@
     "price": 3606.94,
     "price_value": 3606.94,
     "price_display": "₺3.606,94",
-    "brand": "ZONE_DENMARK",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-bicak-blogu-camur-rengi-9x17x2-d92c-b.jpg"
+    "brand": "ZONE_DENMARK_MUTFAK",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-bicak-blogu-camur-rengi-9x17x2-d92c-b.jpg",
+    "page": 46
   },
   {
     "sku": "ZD28072",
@@ -18246,8 +17900,9 @@
     "price": 2533.54,
     "price_value": 2533.54,
     "price_display": "₺2.533,54",
-    "brand": "ZONE_DENMARK",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-6li-bardak-altligi-taupe-31-cm-f094-4.jpg"
+    "brand": "ZONE_DENMARK_MUTFAK",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-6li-bardak-altligi-taupe-31-cm-f094-4.jpg",
+    "page": 46
   },
   {
     "sku": "ZD28079",
@@ -18255,8 +17910,9 @@
     "price": 3606.94,
     "price_value": 3606.94,
     "price_display": "₺3.606,94",
-    "brand": "ZONE_DENMARK",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-bicak-blogu-taupe-9x17x24-cm-c66-4b.jpg"
+    "brand": "ZONE_DENMARK_MUTFAK",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-bicak-blogu-taupe-9x17x24-cm-c66-4b.jpg",
+    "page": 46
   },
   {
     "sku": "ZD32231",
@@ -18264,8 +17920,9 @@
     "price": 2533.54,
     "price_value": 2533.54,
     "price_display": "₺2.533,54",
-    "brand": "ZONE_DENMARK",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-6li-bardak-altligi-acik-yesil--92ddee.jpg"
+    "brand": "ZONE_DENMARK_MUTFAK",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-6li-bardak-altligi-acik-yesil--92ddee.jpg",
+    "page": 46
   },
   {
     "sku": "ZD330257",
@@ -18273,8 +17930,9 @@
     "price": 924.25,
     "price_value": 924.25,
     "price_display": "₺924,25",
-    "brand": "ZONE_DENMARK",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/stand-bulasik-makinesi-fircasi-siyah-2-80889a.jpg"
+    "brand": "ZONE_DENMARK_MUTFAK",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/stand-bulasik-makinesi-fircasi-siyah-2-80889a.jpg",
+    "page": 47
   },
   {
     "sku": "ZD330303",
@@ -18282,8 +17940,9 @@
     "price": 2533.54,
     "price_value": 2533.54,
     "price_display": "₺2.533,54",
-    "brand": "ZONE_DENMARK",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-6li-bardak-altligi-siyah-31-cm-dacfc8.jpg"
+    "brand": "ZONE_DENMARK_MUTFAK",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-6li-bardak-altligi-siyah-31-cm-dacfc8.jpg",
+    "page": 46
   },
   {
     "sku": "ZD330304",
@@ -18291,8 +17950,9 @@
     "price": 2533.54,
     "price_value": 2533.54,
     "price_display": "₺2.533,54",
-    "brand": "ZONE_DENMARK",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-6li-bardak-altligi-soguk-gri-3-3c88-4.jpg"
+    "brand": "ZONE_DENMARK_MUTFAK",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-6li-bardak-altligi-soguk-gri-3-3c88-4.jpg",
+    "page": 46
   },
   {
     "sku": "ZD330305",
@@ -18300,8 +17960,9 @@
     "price": 2533.54,
     "price_value": 2533.54,
     "price_display": "₺2.533,54",
-    "brand": "ZONE_DENMARK",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-6li-bardak-altligi-sicak-gri-3--4ee6-.jpg"
+    "brand": "ZONE_DENMARK_MUTFAK",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-6li-bardak-altligi-sicak-gri-3--4ee6-.jpg",
+    "page": 46
   },
   {
     "sku": "ZD330465",
@@ -18309,8 +17970,9 @@
     "price": 2533.54,
     "price_value": 2533.54,
     "price_display": "₺2.533,54",
-    "brand": "ZONE_DENMARK",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-mutfak-rulo-tutucu-soguk-gri-3-de182a.jpg"
+    "brand": "ZONE_DENMARK_MUTFAK",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-mutfak-rulo-tutucu-soguk-gri-3-de182a.jpg",
+    "page": 47
   },
   {
     "sku": "ZD330469",
@@ -18318,8 +17980,9 @@
     "price": 3606.94,
     "price_value": 3606.94,
     "price_display": "₺3.606,94",
-    "brand": "ZONE_DENMARK",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-bicak-blogu-soguk-gri-9x17x24--5cfd96.jpg"
+    "brand": "ZONE_DENMARK_MUTFAK",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-bicak-blogu-soguk-gri-9x17x24--5cfd96.jpg",
+    "page": 46
   },
   {
     "sku": "ZD332062",
@@ -18327,8 +17990,9 @@
     "price": 2533.54,
     "price_value": 2533.54,
     "price_display": "₺2.533,54",
-    "brand": "ZONE_DENMARK",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-6li-bardak-altligi-camur-rengi-bc94-7.jpg"
+    "brand": "ZONE_DENMARK_MUTFAK",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/singles-6li-bardak-altligi-camur-rengi-bc94-7.jpg",
+    "page": 46
   },
   {
     "sku": "ZD34833",
@@ -18336,11 +18000,12 @@
     "price": 3002.96,
     "price_value": 3002.96,
     "price_display": "₺3.002,96",
-    "brand": "ZONE_DENMARK",
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/rocks-bira-bardagi-2-adet-30-cl-0-b46d.jpg"
+    "brand": "ZONE_DENMARK_MUTFAK",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/rocks-bira-bardagi-2-adet-30-cl-0-b46d.jpg",
+    "page": 47
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Ume Sıvı Sabunluk 250 Ml Çelik",
     "sku": "ZD34788",
     "page": 104,
@@ -18352,7 +18017,7 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-sivi-sabunluk-250-ml-celik-7281-f.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Ume Diş Fırçası Kupası Çelik 10,3 cm - Çap:8,3 cm",
     "sku": "ZD34789",
     "page": 104,
@@ -18364,7 +18029,7 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-dis-fircasi-kupasi-celik-103-cm-ca-80d0-d.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Ume Katı Sabunluk Çelik Çap:12 cm",
     "sku": "ZD34790",
     "page": 104,
@@ -18376,7 +18041,7 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-kati-sabunluk-celik-cap12-cm-e4-49c.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Ume Tuvalet Fırçası Çelik 43 cm - Çap:10 cm",
     "sku": "ZD34791",
     "page": 104,
@@ -18388,7 +18053,7 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-tuvalet-fircasi-celik-43-cm-cap10--8330e9.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Ume Pedallı Çöp Kovası 4 L Çelik",
     "sku": "ZD34792",
     "page": 104,
@@ -18400,7 +18065,7 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-pedalli-cop-kovasi-4-l-celik-f5f976.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Ume Sıvı Sabunluk 250 ml Mat Pirinç",
     "sku": "ZD36622",
     "page": 105,
@@ -18412,7 +18077,7 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-sivi-sabunluk-250-ml-mat-pirinc-85-cd2.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Ume Diş Fırçası Kupası Mat Pirinç 10,3 cm - Çap:8,3 cm",
     "sku": "ZD36623",
     "page": 105,
@@ -18424,7 +18089,7 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-dis-fircasi-kupasi-mat-pirinc-103--83bd29.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Ume Tuvalet Fırçası Mat Pirinç 43 cm - Çap:10 cm",
     "sku": "ZD36625",
     "page": 105,
@@ -18455,8 +18120,9 @@
     "desc": "",
     "id": "71e546a8-f1c1-4642-a9d4-bd7ffc5a0fbe",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-masa-aynasi-normal-5x-zoom-mat-pir-cd3-18.jpg",
-    "brand": "ZONE_DENMARK",
-    "name": "Ume Masa Aynası Normal & 5X Zoom Mat Pirinç"
+    "brand": "ZONE_DENMARK_BANYO",
+    "name": "Ume Masa Aynası Normal & 5X Zoom Mat Pirinç",
+    "price": 7284.91
   },
   {
     "sku": "ZD34774",
@@ -18466,8 +18132,9 @@
     "desc": "",
     "id": "0c8ea577-9d95-4e5f-b959-9189c4e3381d",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/solo-pedalli-cop-kovasi-3-l-soft-gri-c34770.jpg",
-    "brand": "ZONE_DENMARK",
-    "name": "Solo Pedallı Çöp Kovası 3 L Soft Gri"
+    "brand": "ZONE_DENMARK_BANYO",
+    "name": "Solo Pedallı Çöp Kovası 3 L Soft Gri",
+    "price": 4217.3
   },
   {
     "sku": "ZD34775",
@@ -18477,8 +18144,9 @@
     "desc": "",
     "id": "84edf194-0653-49d3-a2f8-a1a3b4af1346",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/solo-sivi-sabunluk-300-ml-soft-gri-d-2784.jpg",
-    "brand": "ZONE_DENMARK",
-    "name": "Solo Sıvı Sabunluk 300 ml Soft Gri"
+    "brand": "ZONE_DENMARK_BANYO",
+    "name": "Solo Sıvı Sabunluk 300 ml Soft Gri",
+    "price": 1915.28
   },
   {
     "sku": "ZD34776",
@@ -18488,8 +18156,9 @@
     "desc": "",
     "id": "a816da5d-848d-4c89-aefd-8feac5fee88a",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/solo-dis-fircasi-kupasi-soft-gri-122-c-19-b2d.jpg",
-    "brand": "ZONE_DENMARK",
-    "name": "Solo Diş Fırçası Kupası Soft Gri"
+    "brand": "ZONE_DENMARK_BANYO",
+    "name": "Solo Diş Fırçası Kupası Soft Gri",
+    "price": 1378.58
   },
   {
     "sku": "ZD34777",
@@ -18499,8 +18168,9 @@
     "desc": "",
     "id": "d407a26a-cf41-40b7-802b-ddc6aebb8440",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/solo-tuvalet-fircasi-soft-gri-448-cm-c--a827-.jpg",
-    "brand": "ZONE_DENMARK",
-    "name": "Solo Tuvalet Fırçası Soft Gri"
+    "brand": "ZONE_DENMARK_BANYO",
+    "name": "Solo Tuvalet Fırçası Soft Gri",
+    "price": 3833.19
   },
   {
     "sku": "ZD34779",
@@ -18510,8 +18180,9 @@
     "desc": "",
     "id": "ee177eca-3933-4a07-999e-317f53f05ff7",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/solo-pedalli-cop-kovasi-3-l-taupe-5ce-f4.jpg",
-    "brand": "ZONE_DENMARK",
-    "name": "Solo Pedallı Çöp Kovası 3 L Taupe"
+    "brand": "ZONE_DENMARK_BANYO",
+    "name": "Solo Pedallı Çöp Kovası 3 L Taupe",
+    "price": 4217.3
   },
   {
     "sku": "ZD34780",
@@ -18521,8 +18192,9 @@
     "desc": "",
     "id": "4151f357-0b07-4a93-a8b6-81fb88817244",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/solo-sivi-sabunluk-300-ml-taupe-d838-4.jpg",
-    "brand": "ZONE_DENMARK",
-    "name": "Solo Sıvı Sabunluk 300 ml Taupe"
+    "brand": "ZONE_DENMARK_BANYO",
+    "name": "Solo Sıvı Sabunluk 300 ml Taupe",
+    "price": 1915.28
   },
   {
     "sku": "ZD34781",
@@ -18532,8 +18204,9 @@
     "desc": "",
     "id": "b98be42b-8c92-4ad7-b0e0-80b3bc264cce",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/solo-dis-fircasi-kupasi-taupe-122-cm-c-893db-.jpg",
-    "brand": "ZONE_DENMARK",
-    "name": "Solo Diş Fırçası Kupası Taupe"
+    "brand": "ZONE_DENMARK_BANYO",
+    "name": "Solo Diş Fırçası Kupası Taupe",
+    "price": 1378.58
   },
   {
     "sku": "ZD34782",
@@ -18543,19 +18216,21 @@
     "desc": "",
     "id": "47de9339-80f2-4068-bca8-c5b4bea4b768",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/solo-tuvalet-fircasi-taupe-448-cm-cap8--62fa-.jpg",
-    "brand": "ZONE_DENMARK",
-    "name": "Solo Tuvalet Fırçası Taupe"
+    "brand": "ZONE_DENMARK_BANYO",
+    "name": "Solo Tuvalet Fırçası Taupe",
+    "price": 3833.19
   },
   {
     "sku": "ZD35554",
-    "page": 108,
+    "page": 109,
     "price_value": 6135.21,
     "price_display": "₺6.135,21",
     "desc": "",
     "id": "99984675-4e7d-4b5e-ba7f-4e0cf5f6a0b2",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-tuvalet-kagidi-rezervi-siyah-405-c-523b9f.jpg",
-    "brand": "ZONE_DENMARK",
-    "name": "Ume Tuvalet Kağıdı Rezervi Siyah"
+    "brand": "ZONE_DENMARK_BANYO",
+    "name": "Ume Tuvalet Kağıdı Rezervi Siyah",
+    "price": 6135.21
   },
   {
     "sku": "ZD35557",
@@ -18565,30 +18240,33 @@
     "desc": "",
     "id": "757ce355-26cf-4738-85de-ae4c03d87efc",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-tuvalet-kagidi-rezervi-soft-gri-40-6a-b0d.jpg",
-    "brand": "ZONE_DENMARK",
-    "name": "Ume Tuvalet Kağıdı Rezervi Soft Gri"
+    "brand": "ZONE_DENMARK_BANYO",
+    "name": "Ume Tuvalet Kağıdı Rezervi Soft Gri",
+    "price": 6135.21
   },
   {
     "sku": "ZD31771",
-    "page": 29,
+    "page": 30,
     "price_value": 3833.19,
     "price_display": "₺3.833,19",
     "desc": "",
     "id": "a764451a-b3ec-414d-9eeb-5688cb27a55b",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pulp-2li-saklama-kutusu-77-l-camur-ren-02036-.jpg",
     "brand": "ZONE_DENMARK",
-    "name": "Pulp 2'Li Saklama Kutusu 7,7 L Çamur Rengi"
+    "name": "Pulp 2'Li Saklama Kutusu 7,7 L Çamur Rengi",
+    "price": 3833.19
   },
   {
     "sku": "ZD31775",
-    "page": 29,
+    "page": 30,
     "price_value": 3833.19,
     "price_display": "₺3.833,19",
     "desc": "",
     "id": "ecffc29f-9aaf-4d75-b129-1d9ac3141346",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pulp-2li-saklama-kutusu-77-l-siyah-32--87693-.jpg",
     "brand": "ZONE_DENMARK",
-    "name": "Pulp 2'Li Saklama Kutusu 7,7 L Siyah"
+    "name": "Pulp 2'Li Saklama Kutusu 7,7 L Siyah",
+    "price": 3833.19
   },
   {
     "sku": "ZD31776",
@@ -18599,7 +18277,8 @@
     "id": "1445b9bf-50da-44a3-81e2-866c5f875f9a",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pulp-2li-saklama-kutusu-17-l-camur-ren-a86cc3.jpg",
     "brand": "ZONE_DENMARK",
-    "name": "Pulp 2'Li Saklama Kutusu 17 L Çamur Rengi"
+    "name": "Pulp 2'Li Saklama Kutusu 17 L Çamur Rengi",
+    "price": 6135.21
   },
   {
     "sku": "ZD31777",
@@ -18610,7 +18289,8 @@
     "id": "ee7d7d8a-a487-41f8-b7c1-3dafc81dca7f",
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pulp-2li-saklama-kutusu-17-l-siyah-48--c-ad2c.jpg",
     "brand": "ZONE_DENMARK",
-    "name": "Pulp 2'Li Saklama Kutusu 17 L Siyah"
+    "name": "Pulp 2'Li Saklama Kutusu 17 L Siyah",
+    "price": 6135.21
   },
   {
     "sku": "YM10016",
@@ -18621,7 +18301,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/tekerlekli-3-katli-saklama-sepeti-stan-baaaf7.jpg",
     "desc": "",
     "id": "a24a9e6a-c491-456e-8bef-c9f1b3d9dc74",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 9997.21
   },
   {
     "sku": "YM1361",
@@ -18632,7 +18313,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/ayarlanabilir-tencere-kapagi-ve-tava-d-b83-cd.jpg",
     "desc": "",
     "id": "2b42bc69-1797-44a3-bac6-a08c08275f2b",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 2704.13
   },
   {
     "sku": "YM1362",
@@ -18643,7 +18325,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/ayarlanabilir-tencere-kapagi-ve-tava-d-4-ba5e.jpg",
     "desc": "",
     "id": "824dd0aa-1bf8-479a-bb78-86d71ac18fe3",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 2704.13
   },
   {
     "sku": "YM2009",
@@ -18654,7 +18337,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/3-katli-celik-baharat-rafi-beyaz-5-49fc.jpg",
     "desc": "",
     "id": "b642d58c-f977-4ccf-8d9d-775fb2dcbb76",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 8416.82
   },
   {
     "sku": "YM2010",
@@ -18665,7 +18349,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/3-katli-celik-baharat-rafi-siyah-5880-4.jpg",
     "desc": "",
     "id": "d54d88d0-5575-41fa-86ab-998960ace534",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 8416.82
   },
   {
     "sku": "YM3249",
@@ -18676,7 +18361,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/kati-sabunluk-beyaz-11x10x2-cm-4c643c.jpg",
     "desc": "",
     "id": "dffee506-68c6-4fee-85bc-3dad3e7ba2ba",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 555.15
   },
   {
     "sku": "YM2538",
@@ -18687,7 +18373,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/silikon-bardak-altligi-beyaz-cap-10-cm-dccf1a.jpg",
     "desc": "",
     "id": "1b1ba926-b54d-4e02-b75a-66cc52f0be08",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 393.98
   },
   {
     "sku": "YM2539",
@@ -18698,7 +18385,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/silikon-bardak-altligi-siyah-cap-10-cm-476c70.jpg",
     "desc": "",
     "id": "95d8aebd-9894-4ec1-b761-750994e1eb58",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 393.98
   },
   {
     "sku": "YM6980",
@@ -18709,7 +18397,8 @@
     "image": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/65747/uploads/urunresimleri/buyuk/oval-semsiyelik-siyah-28-cm-941a88.jpg",
     "desc": "",
     "id": "2fd92a82-9e6c-4c6d-b619-eef8f9b1475f",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 1772.9
   },
   {
     "sku": "YM3369",
@@ -18720,7 +18409,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/6-katli-ahsap-ustlu-celik-ayakkabilik--0fe08-.jpg",
     "desc": "",
     "id": "64045943-7f6f-4568-b241-8b1bafc797e6",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 9160.01
   },
   {
     "sku": "YM3370",
@@ -18731,7 +18421,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/6-katli-ahsap-ustlu-celik-ayakkabilik---898a-.jpg",
     "desc": "",
     "id": "88330789-3b9d-475e-af8c-d7d34d6f7c06",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 9160.01
   },
   {
     "sku": "YM10066",
@@ -18742,7 +18433,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/manyetik-celik-masa-paneli-beyaz-58-cm-483-4f.jpg",
     "desc": "",
     "id": "b317756a-3e12-40da-a477-e578a2103dd7",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 4065.15
   },
   {
     "sku": "YM10067",
@@ -18753,7 +18445,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/manyetik-celik-masa-paneli-siyah-58-cm-89-4b7.jpg",
     "desc": "",
     "id": "f57e5698-e780-43ed-abce-072e41c9358a",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 4065.15
   },
   {
     "sku": "YM4382",
@@ -18764,7 +18457,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/yan-sehpa-celikahsap-56-cm-beyaz--dc31-.jpg",
     "desc": "",
     "id": "98ead186-4301-4f10-be1d-10b1a8bcd6cc",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 4842.66
   },
   {
     "sku": "YM5218",
@@ -18775,7 +18469,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/standli-saklama-sepetleri-46-cm-beyaz-943-46.jpg",
     "desc": "",
     "id": "eabb1a72-3eb7-4c30-86f3-6b8f692d044a",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 7499.79
   },
   {
     "sku": "YM4306",
@@ -18786,7 +18481,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/yari-kapali-depolama-arabasi-beyaz-68--2ff-e5.jpg",
     "desc": "",
     "id": "3adf50f0-2b26-4d87-aa3a-78f6712a0d92",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 9488.32
   },
   {
     "sku": "YM4307",
@@ -18797,7 +18493,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/yari-kapali-depolama-arabasi-siyah-68--3cbaf5.jpg",
     "desc": "",
     "id": "977627ab-673f-44a7-885c-386bf16be1d7",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 9488.32
   },
   {
     "sku": "YM10094",
@@ -18808,7 +18505,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/manyetik-celik-duvar-rafi-beyaz-20-cm-f17-f3.jpg",
     "desc": "",
     "id": "0c5d795d-2173-44ce-8cfe-68c715f2ce02",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 931.22
   },
   {
     "sku": "YM10095",
@@ -18819,7 +18517,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/manyetik-celik-duvar-rafi-siyah-20-cm-7d7-c3.jpg",
     "desc": "",
     "id": "5ed4463e-1e03-4509-aa18-dffae9820b56",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 931.22
   },
   {
     "sku": "YM3643",
@@ -18830,7 +18529,8 @@
     "image": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/65747/uploads/urunresimleri/buyuk/istife-edilebilir-duzenleyici-m-2li-se-48de9-.jpg",
     "desc": "",
     "id": "0032020a-6ffb-4000-b0ec-55011c379070",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 662.6
   },
   {
     "sku": "YM3645",
@@ -18841,7 +18541,8 @@
     "image": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/65747/uploads/urunresimleri/buyuk/istife-edilebilir-duzenleyici-l-2li-se--9544-.jpg",
     "desc": "",
     "id": "f5b4578b-b80f-41a3-a340-a1370c81c9bc",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 877.5
   },
   {
     "sku": "YM3647",
@@ -18852,7 +18553,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/istiflenebilir-duzenleyici-l-derin-2li--7267d.jpg",
     "desc": "",
     "id": "dc103e84-af8c-48b5-8db3-598ad94943e9",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 1217.75
   },
   {
     "sku": "YM10096",
@@ -18863,7 +18565,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/manyetik-celik-duzenleyici-beyaz-21-cm-70-4ea.jpg",
     "desc": "",
     "id": "bed1b661-098f-4810-b481-dacc7761d229",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 1396.83
   },
   {
     "sku": "YM10097",
@@ -18874,7 +18577,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/manyetik-celik-duzenleyici-siyah-21-cm--e7c69.jpg",
     "desc": "",
     "id": "32574463-9544-457d-833a-a032cba9b0a5",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 1396.83
   },
   {
     "sku": "YM3641",
@@ -18885,7 +18589,8 @@
     "image": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/65747/uploads/urunresimleri/buyuk/istife-edilebilir-duzenleyici-s-2li-se-eb2545.jpg",
     "desc": "",
     "id": "e01ddfbb-4679-4293-a29d-de2d84c1d779",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 501.43
   },
   {
     "sku": "YM1490",
@@ -18896,7 +18601,8 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/tekerlekli-ince-tuvalet-kagidi-deposu--6c5ac9.jpg",
     "desc": "",
     "id": "12091a33-1823-44b5-af66-fadb0c877c6b",
-    "brand": "Yamazaki"
+    "brand": "Yamazaki",
+    "price": 6172.33
   },
   {
     "sku": "HL4310-181",

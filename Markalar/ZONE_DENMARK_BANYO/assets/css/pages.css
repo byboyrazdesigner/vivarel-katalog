@@ -9112,3 +9112,22 @@ body, #container-wrap { background:#ededed; }
 #in5footer,  #prefooter {display:none;}
 
 #loadIndicator{display:none;}
+
+/* ZD28085 Fiyat ve Buton */
+#item19976_price {
+	left:420px !important;
+	top:463px !important;
+}
+
+#item19977 {
+	left:412px !important;
+}
+
+#item19979 {
+	text-align: center !important;
+}
+
+#item19979 img {
+	margin: 0 auto !important;
+}
+
