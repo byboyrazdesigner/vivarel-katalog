@@ -86,18 +86,6 @@ window.Brands = (function () {
       console.error('[Brands.select] iframe#brandFrame bulunamadı!');
       isLoading = false;
     }
-
-    // sağ panelde ilk 5 + "tümünü gör"
-    // ZONE markasını ZONE_DENMARK olarak products.json'da ara
-    const searchBrand = brand === "ZONE_DENMARK" ? "ZONE" : brand;
-    const all = (window.State?.products||[]).filter(p=>p.brand===searchBrand || p.brand===brand);
-    
-    // Eğer bu marka için ürün varsa sağ panelde göster
-    if(all.length > 0 && window.Chat && typeof window.Chat.renderProducts === 'function') {
-      window.Chat.renderProducts(all.slice(0,5), {brand, total: all.length, showMore: all.length>5, onShowMore:()=>window.Chat.renderProducts(all,{brand})});
-    } else {
-      console.log('[Brands.select] Bu marka için products.json\'da ürün yok, sadece katalog gösteriliyor:', brand);
-    }
   }
 
   // kart renderer: Chat burayı kullanıyor
