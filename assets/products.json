@@ -4694,7 +4694,7 @@
   {
     "brand": "Lyngby Glas",
     "name": "Sorrento Viskİ Bardağı (4’lü)",
-    "sku": 27732,
+    "sku": "LG 27732",
     "page": 398,
     "price_value": 2228.73,
     "price_display": "₺2.228,73",
@@ -4946,7 +4946,7 @@
   {
     "brand": "Lyngby Glas",
     "name": "Sorrento Su Bardağı (4’lü)",
-    "sku": 32746,
+    "sku": "LG 32746",
     "page": 409,
     "price_value": 2555.51,
     "price_display": "₺2.555,51",
@@ -4958,7 +4958,7 @@
   {
     "brand": "Lyngby Glas",
     "name": "Sorrento Su Bardağı (4’lü)",
-    "sku": 32747,
+    "sku": "LG 32747",
     "page": 409,
     "price_value": 2553.56,
     "price_display": "₺2.553,56",
@@ -20274,5 +20274,29 @@
     "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/storm-paslanmaz-celik-catal-bicak-taki-158-01.jpg",
     "specs": "Ölçü: 16 Parça | Renk: Bal Rengi | Malzeme: Paslanmaz Çelik",
     "full_name": "Storm Paslanmaz Çelik Çatal Bıçak Takımı 16 Parça Bal Rengi"
+  },
+  {
+    "brand": "Lyngby Glas",
+    "name": "Sorrento Su Bardagi Amber (4'lu)",
+    "sku": "LG 32748",
+    "page": 409,
+    "price_value": 2553.56,
+    "price_display": "TL2.553,56",
+    "desc": "Cam; 30 cl; D 7,5 cm; H 12 cm; Koli 4.",
+    "id": "b2c1b998-9527-4d17-b807-f58fe5f5bd9f",
+    "price": 2553.56,
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/sorrento-su-bardagi-4-adet-30-cl-amber--46a0-.jpg"
+  },
+  {
+    "brand": "Lyngby Glas",
+    "name": "Sorrento Viski Bardagi Amber (4'lu)",
+    "sku": "LG 27735",
+    "page": 398,
+    "price_value": 2125.38,
+    "price_display": "₺2.125,38",
+    "desc": "Cam; 32 cl; D 8,2 cm; H 9,8 cm; Koli 4.",
+    "id": "e84ccbdf-4410-4e6c-a110-25ef69ea4d11",
+    "price": 2125.38,
+    "image": "https://temaksesuar.com/uploads/UrunResimleri/buyuk/sorrento-viski-bardagi-4-adet-32-cl-am-f4effd.jpg"
   }
 ]
