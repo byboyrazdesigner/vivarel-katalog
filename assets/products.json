@@ -19669,5 +19669,49 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-tuvalet-kagidi-rezervi-soft-gri-40-6a-b0d.jpg",
     "brand": "ZONE DENMARK",
     "name": "Ume Tuvalet Kağıdı Rezervi Soft Gri"
+  },
+  {
+    "sku": "ZD31771",
+    "page": 29,
+    "price_value": 3833.19,
+    "price_display": "₺3.833,19",
+    "desc": "",
+    "id": "a764451a-b3ec-414d-9eeb-5688cb27a55b",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pulp-2li-saklama-kutusu-77-l-camur-ren-02036-.jpg",
+    "brand": "ZONE DENMARK",
+    "name": "Pulp 2'Li Saklama Kutusu 7,7 L Çamur Rengi"
+  },
+  {
+    "sku": "ZD31775",
+    "page": 29,
+    "price_value": 3833.19,
+    "price_display": "₺3.833,19",
+    "desc": "",
+    "id": "ecffc29f-9aaf-4d75-b129-1d9ac3141346",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pulp-2li-saklama-kutusu-77-l-siyah-32--87693-.jpg",
+    "brand": "ZONE DENMARK",
+    "name": "Pulp 2'Li Saklama Kutusu 7,7 L Siyah"
+  },
+  {
+    "sku": "ZD31776",
+    "page": 30,
+    "price_value": 6135.21,
+    "price_display": "₺6.135,21",
+    "desc": "",
+    "id": "1445b9bf-50da-44a3-81e2-866c5f875f9a",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pulp-2li-saklama-kutusu-17-l-camur-ren-a86cc3.jpg",
+    "brand": "ZONE DENMARK",
+    "name": "Pulp 2'Li Saklama Kutusu 17 L Çamur Rengi"
+  },
+  {
+    "sku": "ZD31777",
+    "page": 30,
+    "price_value": 6135.21,
+    "price_display": "₺6.135,21",
+    "desc": "",
+    "id": "ee7d7d8a-a487-41f8-b7c1-3dafc81dca7f",
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/pulp-2li-saklama-kutusu-17-l-siyah-48--c-ad2c.jpg",
+    "brand": "ZONE DENMARK",
+    "name": "Pulp 2'Li Saklama Kutusu 17 L Siyah"
   }
 ]
