@@ -5301,13 +5301,14 @@
   {
     "brand": "Lyngby Glas",
     "name": "Sorrento Highball (4’lü)",
-    "sku": 27782,
+    "sku": "277782",
     "page": 401,
     "price_value": 2674.1,
     "price_display": "₺2.674,10",
     "desc": "Cam; 38 cl; D 7,5 cm; H 13,5 cm; Koli 4.",
     "id": "d723e145-fff4-4d6d-9538-1094162d78c1",
-    "price": 2674.1
+    "price": 2674.1,
+    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/sorrento-highball-bardagi-4-adet-38-cl-31ff0e.jpg"
   },
   {
     "brand": "Lyngby Glas",
