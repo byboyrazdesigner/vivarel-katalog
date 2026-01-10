@@ -712,13 +712,6 @@
                 <div class="text-xs text-gray-400 mt-1">Birim Fiyat</div>
               </div>
 
-              ${product.description ? `
-              <!-- Açıklama -->
-              <div class="text-sm text-gray-300 leading-relaxed bg-gray-700/30 rounded-lg p-3 border border-gray-700">
-                ${escapeHTML(product.description)}
-              </div>
-              ` : ''}
-
               <!-- Adet Seçimi -->
               <div class="space-y-2">
                 <label class="block text-sm font-medium text-gray-300">Adet</label>
