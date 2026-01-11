@@ -12581,11 +12581,11 @@
     "name": "El Havlusu – Classic",
     "sku": "26447",
     "page": 92,
-    "price_value": 529.37,
-    "price_display": "₺529,37",
+    "price_value": 549.73,
+    "price_display": "₺549,73",
     "desc": "100% Pamuk / 500 g; 30 × 30 cm; Renk: Zeytin Yeşili",
     "id": "aec10c63-7802-469e-96e1-5a279b0dd5f3",
-    "price": 529.37
+    "price": 549.73
   },
   {
     "brand": "ZONE_DENMARK",
@@ -13071,11 +13071,11 @@
     "name": "El Havlusu – Classic",
     "sku": "331947",
     "page": 92,
-    "price_value": 529.37,
-    "price_display": "₺529,37",
+    "price_value": 549.73,
+    "price_display": "₺549,73",
     "desc": "100% Pamuk / 500 g; 30 × 30 cm; Renk: Soft Gri",
     "id": "f496462a-ad01-4ff1-b6d7-b015381fe7dc",
-    "price": 529.37
+    "price": 549.73
   },
   {
     "brand": "ZONE_DENMARK",
@@ -13692,10 +13692,11 @@
     "name": "El Havlusu – Classic 30×30 cm",
     "sku": "ZD 26447",
     "page": 99,
-    "price_value": 529.37,
-    "price_display": "529,37 ₺",
+    "price_value": 549.73,
+    "price_display": "₺549,73",
     "desc": "",
-    "id": "31b16319-9e4f-40c7-9b70-932d85679b24"
+    "id": "31b16319-9e4f-40c7-9b70-932d85679b24",
+    "price": 549.73
   },
   {
     "brand": "ZONE_DENMARK",
@@ -14609,10 +14610,11 @@
     "name": "El Havlusu – Classic 30×30 cm",
     "sku": "ZD 331947",
     "page": 99,
-    "price_value": 529.37,
-    "price_display": "529,37 ₺",
+    "price_value": 549.73,
+    "price_display": "₺549,73",
     "desc": "",
-    "id": "3cb3b222-db29-401d-9fdb-171421676625"
+    "id": "3cb3b222-db29-401d-9fdb-171421676625",
+    "price": 549.73
   },
   {
     "brand": "ZONE_DENMARK",
@@ -15695,10 +15697,11 @@
     "name": "Zone Denmark ZD26447",
     "sku": "ZD26447",
     "page": 95,
-    "price_value": "2.389,55",
-    "price_display": "₺2.389,55",
+    "price_value": 549.73,
+    "price_display": "₺549,73",
     "desc": "",
-    "id": 1925
+    "id": 1925,
+    "price": 549.73
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -17349,10 +17352,11 @@
     "name": "Zone Denmark ZD331947",
     "sku": "ZD331947",
     "page": 95,
-    "price_value": "2.389,55",
-    "price_display": "₺2.389,55",
+    "price_value": 549.73,
+    "price_display": "₺549,73",
     "desc": "",
-    "id": 1892
+    "id": 1892,
+    "price": 549.73
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
