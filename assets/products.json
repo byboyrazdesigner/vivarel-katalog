@@ -15579,11 +15579,11 @@
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD26433",
     "page": 85,
-    "price_value": 5508.36,
-    "price_display": "₺5.508,36",
+    "price_value": 5403.88,
+    "price_display": "₺5.403.88",
     "desc": "",
     "id": "f4a077f4-ce5c-4454-bc57-ce3fb472f8e7",
-    "price": 5508.36
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -15625,11 +15625,11 @@
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD26437",
     "page": 85,
-    "price_value": 5901.95,
-    "price_display": "₺5.901,95",
+    "price_value": 6128.94,
+    "price_display": "₺6.128.94",
     "desc": "",
     "id": "49e56fa8-ab35-4bb4-aa6c-3ff3a7bf75ee",
-    "price": 5901.95
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -16077,22 +16077,22 @@
     "name": "Masa Aynası – Ume",
     "sku": "ZD28223",
     "page": 85,
-    "price_value": 5508.36,
-    "price_display": "₺5.508,36",
+    "price_value": 5369.63,
+    "price_display": "₺5.369.63",
     "desc": "",
     "id": "76c08b98-13cf-440d-bcc8-aac7d1efe9d4",
-    "price": 5508.36
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
     "name": "Masa Aynası – Ume",
     "sku": "ZD28224",
     "page": 85,
-    "price_value": 5508.36,
-    "price_display": "₺5.508,36",
+    "price_value": 5720.22,
+    "price_display": "₺5.720.22",
     "desc": "",
     "id": "052cb475-8655-41b9-91db-36aeaa33e211",
-    "price": 5508.36
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -16111,11 +16111,11 @@
     "name": "Masa Aynası – Ume",
     "sku": "ZD28226",
     "page": 85,
-    "price_value": 5508.36,
-    "price_display": "₺5.508,36",
+    "price_value": 5369.63,
+    "price_display": "₺5.369.63",
     "desc": "",
     "id": "3cf93e0e-ac83-44d7-8f49-897550f3f376",
-    "price": 5508.36
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -16523,11 +16523,11 @@
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD31554",
     "page": 85,
-    "price_value": 5508.36,
-    "price_display": "₺5.508,36",
+    "price_value": 5403.88,
+    "price_display": "₺5.403.88",
     "desc": "",
     "id": "132eb56a-b3b6-44b3-8a0d-b9a65a7d3669",
-    "price": 5508.36
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -16545,11 +16545,11 @@
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD31556",
     "page": 85,
-    "price_value": 5901.95,
-    "price_display": "₺5.901,95",
+    "price_value": 5790.06,
+    "price_display": "₺5.790.06",
     "desc": "",
     "id": "3e22ab33-be74-4a3b-9613-3c2b9dbc6db0",
-    "price": 5901.95
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -16567,10 +16567,11 @@
     "name": "Zone Denmark ZD31558",
     "sku": "ZD31558",
     "page": 85,
-    "price_value": "7.866,14",
-    "price_display": "₺7.866,14",
+    "price_value": 8168.68,
+    "price_display": "₺8.168.68",
     "desc": "",
-    "id": 1891
+    "id": 1891,
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -16945,22 +16946,22 @@
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD330402",
     "page": 85,
-    "price_value": 5508.36,
-    "price_display": "₺5.508,36",
+    "price_value": 5720.22,
+    "price_display": "₺5.720.22",
     "desc": "",
     "id": "85ed3892-cdc8-46ab-a922-ed3ef36d3dcb",
-    "price": 5508.36
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD330403",
     "page": 85,
-    "price_value": 5508.36,
-    "price_display": "₺5.508,36",
+    "price_value": 5720.22,
+    "price_display": "₺5.720.22",
     "desc": "",
     "id": "1d8cc242-82ea-4807-9697-839381b6fd34",
-    "price": 5508.36
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -16979,22 +16980,22 @@
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD330406",
     "page": 85,
-    "price_value": 5901.95,
-    "price_display": "₺5.901,95",
+    "price_value": 6128.94,
+    "price_display": "₺6.128.94",
     "desc": "",
     "id": "5ae1b96e-e17b-431a-92cc-160b6e205554",
-    "price": 5901.95
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD330407",
     "page": 85,
-    "price_value": 5901.95,
-    "price_display": "₺5.901,95",
+    "price_value": 6128.94,
+    "price_display": "₺6.128.94",
     "desc": "",
     "id": "178f99ce-713e-4d46-9967-df0d71b83071",
-    "price": 5901.95
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_MUTFAK",
@@ -17243,22 +17244,22 @@
     "name": "Tuvalet Fırçası – Ume",
     "sku": "ZD331857",
     "page": 85,
-    "price_value": 5508.36,
-    "price_display": "₺5.508,36",
+    "price_value": 5720.22,
+    "price_display": "₺5.720.22",
     "desc": "",
     "id": "5a3d1d8d-be05-4be8-b16a-418c8c51375d",
-    "price": 5508.36
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
     "name": "Pedallı Çöp Kovası – Ume (4L)",
     "sku": "ZD331858",
     "page": 85,
-    "price_value": 5901.95,
-    "price_display": "₺5.901,95",
+    "price_value": 6128.94,
+    "price_display": "₺6.128.94",
     "desc": "",
     "id": "5428dd83-c570-45fe-98a9-d7f6d790912a",
-    "price": 5901.95
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
