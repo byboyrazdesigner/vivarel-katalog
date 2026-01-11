@@ -16069,7 +16069,7 @@
     "price_display": "₺5.720,22",
     "desc": "",
     "id": "3c137d2a-97fc-44f3-b936-fd00be03c26e",
-    "price": 5720.22,
+    "price": true,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-masa-aynasi-normal-5x-zoom-siyah-abe296.jpg"
   },
   {
@@ -16078,7 +16078,7 @@
     "sku": "ZD28223",
     "page": 85,
     "price_value": 5369.63,
-    "price_display": "₺5.369.63",
+    "price_display": "₺5.369,63",
     "desc": "",
     "id": "76c08b98-13cf-440d-bcc8-aac7d1efe9d4",
     "price": true
@@ -16089,7 +16089,7 @@
     "sku": "ZD28224",
     "page": 85,
     "price_value": 5720.22,
-    "price_display": "₺5.720.22",
+    "price_display": "₺5.720,22",
     "desc": "",
     "id": "052cb475-8655-41b9-91db-36aeaa33e211",
     "price": true
@@ -16103,7 +16103,7 @@
     "price_display": "₺5.369,63",
     "desc": "",
     "id": "c9d67bb6-685f-4219-b998-53abfd79baf7",
-    "price": 5369.63,
+    "price": true,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-masa-aynasi-normal-5x-zoom-soft-gr-65-277.jpg"
   },
   {
@@ -16112,7 +16112,7 @@
     "sku": "ZD28226",
     "page": 85,
     "price_value": 5369.63,
-    "price_display": "₺5.369.63",
+    "price_display": "₺5.369,63",
     "desc": "",
     "id": "3cf93e0e-ac83-44d7-8f49-897550f3f376",
     "price": true
@@ -16126,7 +16126,7 @@
     "price_display": "₺5.720,22",
     "desc": "",
     "id": "c1491fd9-2285-45f0-8f68-1b9f71b743c5",
-    "price": 5720.22,
+    "price": true,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-masa-aynasi-normal-5x-zoom-zeytin--27d988.jpg"
   },
   {
@@ -16138,7 +16138,7 @@
     "price_display": "₺5.720,22",
     "desc": "",
     "id": "1fed762e-7479-4e11-8a00-2d276d3482c3",
-    "price": 5720.22,
+    "price": true,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-masa-aynasi-normal-5x-zoom-taupe-ae796f.jpg"
   },
   {
