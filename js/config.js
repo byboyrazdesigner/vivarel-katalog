@@ -14,6 +14,7 @@ window.Config.BRAND_PATHS = {
   "ZONE_DENMARK_MUTFAK":   "/Markalar/ZONE_DENMARK_MUTFAK/index.html",
   "ZONE_DENMARK_BANYO":    "/Markalar/ZONE_DENMARK_BANYO/index.html",
   "STUDIO_ROUND":          "/Markalar/StudioGround/index.html",
+  "TEM":                   "/Markalar/tem/index.html",
 };
 
 // Brand order (optional)
