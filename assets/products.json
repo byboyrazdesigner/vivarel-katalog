@@ -15323,10 +15323,10 @@
     "sku": "ZD15252",
     "page": 81,
     "price_value": 4326.66,
-    "price_display": "₺4.326,66",
+    "price_display": "₺4.326.66",
     "desc": "Malzeme: Stoneware / Soft Touch / SS304 | Ölçüler: D 10,3 cm, H 37 cm | Tasarım: Thomas Dudzinski",
     "id": "de862092-2ef5-43d0-a633-ee98f2bfa5c0",
-    "price": 4326.66,
+    "price": true,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-tuvalet-fircasi-matcha-yesili-134402.jpg"
   },
   {
@@ -15910,10 +15910,10 @@
     "sku": "ZD28088",
     "page": 81,
     "price_value": 4326.66,
-    "price_display": "₺4.326,66",
+    "price_display": "₺4.326.66",
     "desc": "Malzeme: Stoneware / Soft Touch / SS304 | Ölçüler: D 10,3 cm, H 37 cm | Tasarım: Thomas Dudzinski",
     "id": "24ff8871-7d7b-49a8-9db6-458ad99403c4",
-    "price": 4326.66,
+    "price": true,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-tuvalet-fircasi-taupe-5f7983.jpg"
   },
   {
@@ -16821,10 +16821,10 @@
     "sku": "ZD330162",
     "page": 81,
     "price_value": 4326.66,
-    "price_display": "₺4.326,66",
+    "price_display": "₺4.326.66",
     "desc": "Renk: Black",
     "id": "579925e4-6786-4c34-9434-662b9d0f8fc5",
-    "price": 4326.66,
+    "price": true,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-tuvalet-fircasi-siyah-44-ce8.jpg"
   },
   {
@@ -16832,22 +16832,22 @@
     "name": "Tuvalet Fırçası – Nova",
     "sku": "ZD330165",
     "page": 81,
-    "price_value": 4166.41,
-    "price_display": "₺4.166,41",
+    "price_value": 4326.66,
+    "price_display": "₺4.326.66",
     "desc": "Renk: Grey",
     "id": "8b400f9c-6b4d-47c4-ba90-cfd1eafecc95",
-    "price": 4166.41
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
     "name": "Tuvalet Fırçası – Nova One",
     "sku": "ZD330188",
     "page": 81,
-    "price_value": "1568,73",
-    "price_display": "₺1.568,73",
+    "price_value": 4326.66,
+    "price_display": "₺4.326.66",
     "desc": "Katı Sabunluk – Nova One – Royal Blue",
     "id": 1961,
-    "price": 1568.73,
+    "price": true,
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/zd330188.jpg"
   },
   {
@@ -17176,10 +17176,10 @@
     "sku": "ZD331219",
     "page": 81,
     "price_value": 4326.66,
-    "price_display": "₺4.326,66",
+    "price_display": "₺4.326.66",
     "desc": "Malzeme: Stoneware / Soft Touch / SS304 | Ölçüler: D 10,3 cm, H 37 cm | Tasarım: Thomas Dudzinski",
     "id": "fffc3dea-1072-444e-a0f4-dc59e59a050d",
-    "price": 4326.66,
+    "price": true,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/nova-one-tuvalet-fircasi-marti-grisi-3-4397-9.jpg"
   },
   {
