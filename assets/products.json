@@ -156,11 +156,11 @@
     "name": "Alvaro — Askı (Tekerlekli, Tepsili)",
     "sku": 2008,
     "page": 493,
-    "price_value": 15301.0,
-    "price_display": "₺15.301,00",
+    "price_value": 17478.45,
+    "price_display": "₺17.478,45",
     "desc": "Pantolon kolu; eşya rafı; açılır/katlanır tepsi; 103 cm; açık 80×45 cm.",
     "id": "d33ffac0-904f-4c60-bb95-b8e2a8972050",
-    "price": 15301.0,
+    "price": 17478.45,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/alvaro-kiraz-agaci-ahsap-yatak-odasi-v-87-c7a.jpg"
   },
   {
@@ -336,11 +336,11 @@
     "name": "Aliante — Katlanır Kurutmalık",
     "sku": 606,
     "page": 480,
-    "price_value": 15756.0,
-    "price_display": "₺15.756,00",
+    "price_value": 16362.0,
+    "price_display": "₺16.362,00",
     "desc": "23 m tel; mandal sepeti; frenli teker; 132×67×105 cm.",
     "id": "5f2e098a-8394-4a3a-b9d1-6e547cf6cff1",
-    "price": 15756.0,
+    "price": 16362.0,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/aliante-kiraz-agaci-ahsap-siyahbeyaz-c--859d-.jpg"
   },
   {
@@ -516,11 +516,11 @@
     "name": "605 Banny – Çamaşır Arabası (Beyaz)",
     "sku": "AR 605 LB",
     "page": 483,
-    "price_value": 7150.0,
-    "price_display": "₺7.150,00",
+    "price_value": 7425.0,
+    "price_display": "₺7.425,00",
     "desc": "Katlanabilir yapı\nÇıkarılabilir/taşınabilir çamaşır torbası\n360° dönebilen (kauçuk) tekerlekler\nMasif kayın iskelet, dayanıklı ve şık görünüm",
     "id": "e3ef7e15-4646-4d65-89ca-d3a591ffd53c",
-    "price": 7150.0,
+    "price": 7425.0,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/beyaz-lake-renk-ahsap-camasir-sepeti-466b-8.jpg"
   },
   {
@@ -1682,6 +1682,18 @@
     "id": "6286e82b-f2bd-4331-9460-6c1228c45600",
     "price": 17599.68,
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/stendipiu-camasir-kurutma-askisi-natur-7-7a42.jpg"
+  },
+  {
+    "brand": "Foppapedretti",
+    "name": "Stendipiù (Beyaz)",
+    "sku": "FO 9900422010",
+    "page": 500,
+    "price_value": 17599.68,
+    "price_display": "₺17.599,68",
+    "desc": "Pantograf açma sistemli, iki farklı yüksekliğe uzatılabilen çamaşır kurutmalık. Renk: Beyaz",
+    "id": "0f7d0a2e-6c1e-4f9f-b1a2-6db3f1e6c908",
+    "price": 17599.68,
+    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=85/65747/uploads/urunresimleri/buyuk/stendipiu-camasir-kurutma-askisi-beyaz-76996d.jpg"
   },
   {
     "brand": "Foppapedretti",
@@ -18120,7 +18132,7 @@
     "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-tuvalet-fircasi-mat-pirinc-43-cm-c-9f0819.jpg"
   },
   {
-    "brand": "ZONE_DENMARK",
+    "brand": "ZONE_DENMARK_BANYO",
     "name": "Ume Pedallı Çöp Kovası 4 L Mat Pirinç",
     "sku": "ZD36626",
     "page": 105,
@@ -18129,7 +18141,7 @@
     "desc": "",
     "id": "c74307bc-7583-4df5-ae4e-542968a50d95",
     "price": 14117.3,
-    "image": "https://static.ticimax.cloud/65747/uploads/UrunResimleri/buyuk/ume-pedalli-cop-kovasi-4-l-mat-pirinc-2-0341.jpg"
+    "image": "https://static.ticimax.cloud/65747/Uploads/UrunResimleri/thumb/ume-pedalli-cop-kovasi-4-l-mat-pirinc-bc5-55.jpg"
   },
   {
     "sku": "ZD36630",
