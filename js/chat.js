@@ -221,10 +221,9 @@ window.Chat = (function () {
             <div class="space-y-2.5 max-h-96 overflow-y-auto chat-scroll">
               ${matches.map((p,i)=>{
                 const price = p.price_display ? `<span class="text-orange-400 font-semibold ml-2">${escapeHTML(p.price_display)}</span>` : "";
-                const productJson = JSON.stringify(p).replace(/"/g, '&quot;');
                 return `
                   <label class="flex items-center gap-3 bg-gradient-to-br from-gray-700/40 to-gray-800/60 border border-gray-600/50 hover:border-orange-500/40 rounded-xl p-3.5 cursor-pointer transition-all hover:shadow-lg hover:shadow-orange-500/10">
-                    <input type="radio" name="${groupId}-radio" data-product='${productJson}' ${i===0?'checked':''} class="w-4 h-4 text-orange-600 bg-gray-700 border-gray-600 focus:ring-orange-500 focus:ring-2" />
+                    <input type="radio" name="${groupId}-radio" data-product-id="${escapeHTML(String(p.id))}" ${i===0?'checked':''} class="w-4 h-4 text-orange-600 bg-gray-700 border-gray-600 focus:ring-orange-500 focus:ring-2" />
                     <div class="flex-1 min-w-0">
                       <div class="text-sm font-semibold text-white mb-1.5 leading-relaxed">${escapeHTML(p.name || '-')}</div>
                       <div class="text-xs text-gray-400"><span class="text-orange-400 font-medium">${escapeHTML(p.brand || '')}</span> • <span class="font-mono">${escapeHTML(p.sku || '')}</span>${price}</div>
@@ -244,8 +243,14 @@ window.Chat = (function () {
       document.getElementById(`${groupId}-btn`).addEventListener('click', () => {
         const sel = document.querySelector(`input[name="${groupId}-radio"]:checked`);
         if (sel && window.Cart?.showAddProductModal) {
-          const p = JSON.parse(sel.getAttribute('data-product'));
-          window.Cart.showAddProductModal(p);
+          const productId = sel.getAttribute('data-product-id');
+          const product = (window.State?.products || []).find(p => String(p.id) === String(productId));
+          if (!product) {
+            console.warn('[Chat.openVariantPicker] Seçilen ürün bulunamadı. id:', productId);
+            Toast.show('Seçilen varyant bulunamadı.', 'warn');
+            return;
+          }
+          window.Cart.showAddProductModal(product);
         }
         document.getElementById(groupId).remove();
       });

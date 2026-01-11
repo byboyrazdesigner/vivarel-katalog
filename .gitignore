@@ -9,6 +9,10 @@ __pycache__/
 # Excel temp files
 ~$*
 
+# Local/debug artifacts
+yamazaki_price_update_report*.json
+tmp_print_*.py
+
 # IDE
 .vscode/
 .idea/
