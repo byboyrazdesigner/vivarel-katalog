@@ -16209,20 +16209,22 @@
     "name": "Zone Denmark ZD28252",
     "sku": "ZD28252",
     "page": 101,
-    "price_value": "2.921,03",
-    "price_display": "₺2.921,03",
+    "price_value": 3033.38,
+    "price_display": "₺3.033,38",
     "desc": "",
-    "id": 1941
+    "id": 1941,
+    "price": 3033.38
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
     "name": "Zone Denmark ZD28253",
     "sku": "ZD28253",
     "page": 101,
-    "price_value": "2.921,03",
-    "price_display": "₺2.921,03",
+    "price_value": 3033.38,
+    "price_display": "₺3.033,38",
     "desc": "",
-    "id": 1942
+    "id": 1942,
+    "price": 3033.38
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
