@@ -15404,22 +15404,22 @@
     "name": "Pamukluk – Ume",
     "sku": "ZD15754",
     "page": 84,
-    "price_value": 2359.65,
-    "price_display": "₺2.359,65",
+    "price_value": 2450.41,
+    "price_display": "₺2.450.41",
     "desc": "",
     "id": "680d23f6-18b8-4d4c-be7b-56fd6923d320",
-    "price": 2359.65
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
     "name": "Pamukluk – Ume",
     "sku": "ZD15755",
     "page": 84,
-    "price_value": 2359.65,
-    "price_display": "₺2.359,65",
+    "price_value": 2450.41,
+    "price_display": "₺2.450.41",
     "desc": "",
     "id": "685adb27-3feb-4091-8e89-17b257f8ec17",
-    "price": 2359.65
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -15438,11 +15438,11 @@
     "name": "Pamukluk – Ume",
     "sku": "ZD15758",
     "page": 84,
-    "price_value": "2359,65",
-    "price_display": "₺2.359,65",
+    "price_value": 2450.41,
+    "price_display": "₺2.450.41",
     "desc": "Kapaklı Kavanoz – Ume – Eucalyptus Green",
     "id": 1920,
-    "price": 2359.65,
+    "price": true,
     "image": "Markalar/ZONE_DENMARK_BANYO/assets/images/item_23629.jpg"
   },
   {
@@ -15533,11 +15533,11 @@
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD26429",
     "page": 84,
-    "price_value": 3382.98,
-    "price_display": "₺3.382,98",
+    "price_value": 3513.1,
+    "price_display": "₺3.513.10",
     "desc": "",
     "id": "5421d739-6d23-43d0-bc6d-ab74b63ecae0",
-    "price": 3382.98
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -15556,11 +15556,11 @@
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD26431",
     "page": 84,
-    "price_value": 1804.88,
-    "price_display": "₺1.804,88",
+    "price_value": 1874.3,
+    "price_display": "₺1.874.30",
     "desc": "",
     "id": "7542cb48-2832-487c-907e-e8bf6e04aad6",
-    "price": 1804.88
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -15602,11 +15602,11 @@
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD26435",
     "page": 84,
-    "price_value": 1568.73,
-    "price_display": "₺1.568,73",
+    "price_value": 1629.07,
+    "price_display": "₺1.629.07",
     "desc": "",
     "id": "3b78885f-0361-4758-8fab-1a3291eb3eee",
-    "price": 1568.73
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -15648,11 +15648,11 @@
     "name": "Pamukluk – Ume",
     "sku": "ZD26439",
     "page": 84,
-    "price_value": 2359.65,
-    "price_display": "₺2.359,65",
+    "price_value": 2450.41,
+    "price_display": "₺2.450.41",
     "desc": "",
     "id": "afa1f4be-622b-407f-a60e-28ed53703717",
-    "price": 2359.65
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -16478,11 +16478,11 @@
     "name": "Pamukluk – Ume",
     "sku": "ZD31548",
     "page": 84,
-    "price_value": 2359.65,
-    "price_display": "₺2.359,65",
+    "price_value": 2450.41,
+    "price_display": "₺2.450.41",
     "desc": "",
     "id": "368c117d-0402-4588-9f41-285c5fba69de",
-    "price": 2359.65
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -16501,22 +16501,22 @@
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD31552",
     "page": 84,
-    "price_value": 3382.98,
-    "price_display": "₺3.382,98",
+    "price_value": 3513.1,
+    "price_display": "₺3.513.10",
     "desc": "",
     "id": "986bcc3c-747f-41bf-8d20-0453d156bc5a",
-    "price": 3382.98
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD31553",
     "page": 84,
-    "price_value": 1804.88,
-    "price_display": "₺1.804,88",
+    "price_value": 1874.3,
+    "price_display": "₺1.874.30",
     "desc": "",
     "id": "50b2052f-3d72-4fa1-8964-57054421b2fb",
-    "price": 1804.88
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -16534,11 +16534,11 @@
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD31555",
     "page": 84,
-    "price_value": 1568.73,
-    "price_display": "₺1.568,73",
+    "price_value": 1629.07,
+    "price_display": "₺1.629.07",
     "desc": "",
     "id": "551fd282-f4ad-43cf-be08-041071279493",
-    "price": 1568.73
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -16556,11 +16556,11 @@
     "name": "Pamukluk – Ume",
     "sku": "ZD31557",
     "page": 84,
-    "price_value": 2359.65,
-    "price_display": "₺2.359,65",
+    "price_value": 2450.41,
+    "price_display": "₺2.450.41",
     "desc": "",
     "id": "461f67ad-4a04-4b81-8791-2d4ff217f969",
-    "price": 2359.65
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -16877,22 +16877,22 @@
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD330394",
     "page": 84,
-    "price_value": 3382.98,
-    "price_display": "₺3.382,98",
+    "price_value": 3513.1,
+    "price_display": "₺3.513.10",
     "desc": "",
     "id": "06430460-3721-4bc5-bc94-8b9c3fb16252",
-    "price": 3382.98
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD330395",
     "page": 84,
-    "price_value": 3382.98,
-    "price_display": "₺3.382,98",
+    "price_value": 3513.1,
+    "price_display": "₺3.513.10",
     "desc": "",
     "id": "5eeabc0a-700b-43fd-b7c8-5d5f582ee70b",
-    "price": 3382.98
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -16911,22 +16911,22 @@
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD330398",
     "page": 84,
-    "price_value": 1804.88,
-    "price_display": "₺1.804,88",
+    "price_value": 1874.3,
+    "price_display": "₺1.874.30",
     "desc": "",
     "id": "6be84e32-e0dc-4356-8ba1-b1380c247c58",
-    "price": 1804.88
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD330399",
     "page": 84,
-    "price_value": 1804.88,
-    "price_display": "₺1.804,88",
+    "price_value": 1874.3,
+    "price_display": "₺1.874.30",
     "desc": "",
     "id": "24ea87e4-0744-4227-a730-4053557604e6",
-    "price": 1804.88
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -17153,22 +17153,22 @@
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD331208",
     "page": 84,
-    "price_value": 1568.73,
-    "price_display": "₺1.568,73",
+    "price_value": 1629.07,
+    "price_display": "₺1.629.07",
     "desc": "",
     "id": "3cba607f-04cd-4b96-bd81-05fa168bd8aa",
-    "price": 1568.73
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD331209",
     "page": 84,
-    "price_value": 1568.73,
-    "price_display": "₺1.568,73",
+    "price_value": 1629.07,
+    "price_display": "₺1.629.07",
     "desc": "",
     "id": "3c61ddc9-b3f9-4b05-badb-d80a8d26a51e",
-    "price": 1568.73
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -17221,22 +17221,22 @@
     "name": "Sıvı Sabunluk – Ume",
     "sku": "ZD331855",
     "page": 84,
-    "price_value": 3382.98,
-    "price_display": "₺3.382,98",
+    "price_value": 3513.1,
+    "price_display": "₺3.513.10",
     "desc": "",
     "id": "a5379b07-b532-49e7-b408-1ea1355aaa8a",
-    "price": 3382.98
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
     "name": "Diş Fırçalık – Ume",
     "sku": "ZD331856",
     "page": 84,
-    "price_value": 1804.88,
-    "price_display": "₺1.804,88",
+    "price_value": 1874.3,
+    "price_display": "₺1.874.30",
     "desc": "",
     "id": "d68fd126-3fc8-4ad0-8e67-8cd02e57b485",
-    "price": 1804.88
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
@@ -17265,11 +17265,11 @@
     "name": "Katı Sabunluk – Ume",
     "sku": "ZD331859",
     "page": 84,
-    "price_value": 1568.73,
-    "price_display": "₺1.568,73",
+    "price_value": 1629.07,
+    "price_display": "₺1.629.07",
     "desc": "",
     "id": "087b93f9-ee0d-4188-b8cf-993432adf70d",
-    "price": 1568.73
+    "price": true
   },
   {
     "brand": "ZONE_DENMARK_BANYO",
