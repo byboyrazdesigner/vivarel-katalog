@@ -4745,7 +4745,7 @@
   {
     "brand": "Lyngby Glas",
     "name": "Sorrento Highball (4’lü)",
-    "sku": "277782",
+    "sku": 27782,
     "page": 401,
     "price_value": 2674.1,
     "price_display": "₺2.674,10",
@@ -7376,9 +7376,9 @@
     "name": "TESORA WOOD Saklama Kutusu - Doğal/Pirinç",
     "sku": "1021398-129",
     "page": 190,
-    "price": 3636.57,
-    "price_value": 3636.57,
-    "price_display": "₺3.636,57",
+    "price": 3776.44,
+    "price_value": 3776.44,
+    "price_display": "₺3.776,44",
     "desc": "",
     "id": 1409
   },
@@ -8759,8 +8759,9 @@
     "name": "Vazo – ROST",
     "sku": 33285,
     "page": 379,
-    "price_value": 3930.26,
-    "price_display": "₺3.930,26",
+    "price": 4081.42,
+    "price_value": 4081.42,
+    "price_display": "₺4.081,42",
     "desc": "Stoneware; reaktif sır; Ø14×Y30 cm.",
     "id": "3f829892-c789-41eb-9d33-1ca488e7b594"
   },
