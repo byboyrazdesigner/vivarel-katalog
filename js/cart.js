@@ -366,9 +366,23 @@
         console.log('[Cart.sendEmail] Response status:', res.status);
         
         if (!res.ok) {
-          const errorText = await res.text();
-          console.error('[Cart.sendEmail] Error response:', errorText);
-          throw new Error(`HTTP ${res.status}: ${errorText}`);
+          const contentType = (res.headers.get('content-type') || '').toLowerCase();
+          const raw = await res.text();
+          console.error('[Cart.sendEmail] Error response:', raw);
+
+          // Avoid dumping full HTML into alert() (e.g., 404 pages).
+          let detail = raw;
+          if (contentType.includes('text/html') || raw.trim().startsWith('<!DOCTYPE') || raw.trim().startsWith('<html')) {
+            detail = 'Sunucu HTML döndürdü (muhtemelen endpoint yok veya yanlış path).';
+          } else {
+            detail = String(raw || '').trim().slice(0, 240);
+          }
+
+          if (res.status === 404) {
+            throw new Error(`HTTP 404: Mail API bulunamadı (${mailEndpoint}). ${detail}`);
+          }
+
+          throw new Error(`HTTP ${res.status}: ${detail}`);
         }
         
         const data = await res.json();
@@ -403,7 +417,11 @@
       if (forcedEndpoint) return forcedEndpoint;
 
       const currentEnv = env || Cart._mailEnv();
-      if (currentEnv !== "test") return "/api/phpmailer_send.php";
+
+      // IMPORTANT: Use a relative URL so this works when the app is hosted
+      // under a subdirectory (e.g., https://domain.com/some/path/).
+      const prodUrl = new URL('./api/phpmailer_send.php', window.location.href).toString();
+      if (currentEnv !== "test") return prodUrl;
 
       const loc = window.location || {};
       const protocol = loc.protocol || "http:";
@@ -414,7 +432,7 @@
       const samePort = port === "8000" || port === "";
 
       if (sameHost && samePort) {
-        return "/api/phpmailer_send.php";
+        return prodUrl;
       }
 
       return `${protocol}//127.0.0.1:8000/api/phpmailer_send.php`;
