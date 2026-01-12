@@ -17,8 +17,12 @@ tmp_print_*.py
 .vscode/
 .idea/
 
-# API - contains sensitive SMTP credentials
-api/
+# API - commit scripts, ignore secrets/local tooling
+api/smtp_config.php
+api/*.zip
+api/mail_cart.php
+api/mail_cart_mailhog.php
+api/test_*.php
 
 # Backup files (keep tracked but ignore new ones)
 # *.backup*.json

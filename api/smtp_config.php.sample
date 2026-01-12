@@ -1,0 +1,47 @@
+<?php
+/**
+ * SMTP Configuration (SAMPLE)
+ *
+ * IMPORTANT:
+ * - Copy this file to api/smtp_config.php on the server.
+ * - Do NOT commit api/smtp_config.php to git.
+ * - Fill in your real SMTP credentials in api/smtp_config.php.
+ */
+
+return [
+    // You can either return a single config array OR an env map:
+    // 'prod' => [...], 'test' => [...]
+
+    'prod' => [
+        'smtp_host' => 'mail.example.com',
+        'smtp_port' => 465,
+        // 'ssl' (SMTPS/465) or 'tls' (STARTTLS/587) or 'none'
+        'smtp_secure' => 'ssl',
+        'smtp_username' => 'katalog@example.com',
+        'smtp_password' => 'CHANGE_ME',
+        'smtp_auth' => true,
+
+        'from_email' => 'katalog@example.com',
+        'from_name' => 'TEM Katalog',
+        'to_email' => 'sales@example.com',
+
+        // Set true only while debugging
+        'debug' => false,
+    ],
+
+    'test' => [
+        // Example: MailHog / local SMTP
+        'smtp_host' => 'localhost',
+        'smtp_port' => 1025,
+        'smtp_secure' => 'none',
+        'smtp_auth' => false,
+        'smtp_username' => '',
+        'smtp_password' => '',
+
+        'from_email' => 'katalog@example.com',
+        'from_name' => 'TEM Katalog (Test)',
+        'to_email' => 'sales@example.com',
+
+        'debug' => true,
+    ],
+];
