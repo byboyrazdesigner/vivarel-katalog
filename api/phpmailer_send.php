@@ -18,10 +18,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
     exit;
 }
 
-function bad($msg, $code=400){ 
-    http_response_code($code); 
-    echo json_encode(["ok"=>false,"message"=>$msg]); 
-    exit; 
+function bad($msg, $code=400, $extra=null){
+    http_response_code($code);
+    $payload = ["ok" => false, "message" => $msg];
+    if (is_array($extra) && !empty($extra)) {
+        $payload = array_merge($payload, $extra);
+    }
+    echo json_encode($payload);
+    exit;
 }
 
 $raw = file_get_contents('php://input');
@@ -121,7 +125,12 @@ if (!function_exists('buildMailer')) {
 function buildMailer(array $cfg): PHPMailer {
     $mail = new PHPMailer(true);
     if (!empty($cfg['debug'])) {
+        // IMPORTANT: Don't echo debug output into the HTTP response.
+        // Log it instead, otherwise JSON responses break.
         $mail->SMTPDebug = SMTP::DEBUG_SERVER;
+        $mail->Debugoutput = function ($str, $level) {
+            error_log("[PHPMailer][$level] $str");
+        };
     }
     $mail->isSMTP();
     $mail->Host = $cfg['host'];
@@ -178,6 +187,8 @@ foreach ($items as $it) {
 
 $body = "<div style='font-family:Arial,sans-serif;max-width:800px'><h2>🛒 Yeni Sepet Talebi</h2><p><strong>Talep Kodu:</strong> {$code}</p><hr><h3>Müşteri Bilgileri</h3><p><strong>Ad Soyad:</strong> {$senderName}</p><p><strong>Firma:</strong> {$senderCompany}</p><p><strong>Telefon:</strong> {$senderPhone}</p><p><strong>E-posta:</strong> {$senderEmail}</p><h3>Sipariş Detayları</h3><table style='width:100%;border-collapse:collapse'><thead><tr style='background:#f5f5f5'><th style='padding:8px;border:1px solid #ddd;text-align:center'>Görsel</th><th style='padding:8px;border:1px solid #ddd;text-align:left'>SKU</th><th style='padding:8px;border:1px solid #ddd;text-align:left'>Marka</th><th style='padding:8px;border:1px solid #ddd;text-align:left'>Ürün</th><th style='padding:8px;border:1px solid #ddd;text-align:right'>Adet</th><th style='padding:8px;border:1px solid #ddd;text-align:right'>KDV Dahil Birim Fiyat</th><th style='padding:8px;border:1px solid #ddd;text-align:right'>Toplam</th></tr></thead><tbody>{$rows}</tbody><tfoot><tr><td colspan='6' style='padding:8px;border:1px solid #ddd;text-align:right'><strong>Genel Toplam</strong></td><td style='padding:8px;border:1px solid #ddd;text-align:right'><strong>" . number_format($total, 2, ',', '.') . " TL</strong></td></tr></tfoot></table><p style='margin-top:10px;font-size:13px;color:#666;'><strong>Not:</strong> Fiyatlara KDV dahildir.</p><p style='margin-top:20px;color:#999;font-size:12px'>Gönderim: " . date('d.m.Y H:i:s') . "</p></div>";
 
+$debugEnabled = !empty($activeConfig['debug']);
+
 $mail = buildMailer($activeConfig);
 try {
     $mail->Timeout = 30;
@@ -192,9 +203,11 @@ try {
     $mail->Body = $body;
     $mail->send();
     $ok1 = true;
+    $err1 = '';
 } catch (Exception $e) {
     $ok1 = false;
-    error_log('Firma maili gönderilemedi: ' . $mail->ErrorInfo);
+    $err1 = $mail->ErrorInfo ?: $e->getMessage();
+    error_log('Firma maili gönderilemedi: ' . $err1);
 }
 
 // Müşteriye de gönder
@@ -211,14 +224,29 @@ try {
     $mail2->Body = $body;
     $mail2->send();
     $ok2 = true;
+    $err2 = '';
 } catch (Exception $e) {
     $ok2 = false;
-    error_log('Müşteri maili gönderilemedi: ' . $mail2->ErrorInfo);
+    $err2 = $mail2->ErrorInfo ?: $e->getMessage();
+    error_log('Müşteri maili gönderilemedi: ' . $err2);
 }
 
 if ($ok1 || $ok2) {
     echo json_encode(["ok" => true, "message" => "Talebiniz alındı.", "order_code" => $code, "debug" => ["company" => $ok1, "customer" => $ok2, "env" => $mailEnv]]);
 } else {
-    bad("E-posta gönderilemedi. Sunucu mail ayarlarını kontrol edin.", 500);
+    $extra = null;
+    if ($debugEnabled) {
+        $extra = [
+            'debug' => [
+                'env' => $mailEnv,
+                'company_error' => $err1 ?? '',
+                'customer_error' => $err2 ?? '',
+                'host' => $activeConfig['host'] ?? '',
+                'port' => $activeConfig['port'] ?? '',
+                'secure' => $activeConfig['secure'] ? (string)$activeConfig['secure'] : 'none',
+            ],
+        ];
+    }
+    bad("E-posta gönderilemedi. Sunucu mail ayarlarını kontrol edin.", 500, $extra);
 }
 ?>
